@@ -99,7 +99,7 @@ author:
   email            : "ak2796@columbia.edu"
   links:
     - label: "Google Scholar"
-      icon: "ai ai-google-scholar-square ai-3x"
+      icon: "fab fa-fw fa-github"
       url: "https://scholar.google.com/citations?user=sYoVDTkAAAAJ&hl=en"
     # - label: "Facebook"
     #   icon: "fab fa-fw fa-facebook-square"
