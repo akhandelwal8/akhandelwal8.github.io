@@ -185,7 +185,7 @@ err-404-img: "/img/labtocat.png"
 # GPG on Keybase #
 ##################
 
-keybase-username: johnsmith
+keybase-username: akhandelwal
 keybase-in-social: True
 keybase-in-footer: True
 
@@ -196,8 +196,8 @@ keybase-in-footer: True
 # Sections shown in the index page
 
 pages_list:
-  About: 'about'
-  Blog: 'latest-post'
+  Publications: 'about'
+  Working Papers: 'latest-post'
   Timeline: 'timeline'
   Contact: 'contact'
 
