@@ -20,7 +20,7 @@ title                    : "Amit Khandelwal"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Amit Khandelwal"
-description              : "Jerome Chazen Professor of Global Business; Co-Editor Review of Economics of Statistics "
+description              : "Jerome Chazen Professor of Global Business; Co-Editor Review of Economics of Statistics"
 url                      : "https://akhandelwal8.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -95,9 +95,9 @@ analytics:
 author:
   name             : "Amit Khandelwal"
   avatar           : "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "Jerome Chazen Professor of Global Business; Co-Editor *Review of Economics of Statistics*"
+  location         : "New York City"
+  email            : "ak2796@columbia.edu"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
