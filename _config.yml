@@ -192,6 +192,19 @@ kramdown:
   enable_coderay: false
 
 
+# Collections
+collections:
+  recipes:
+    output: true
+    permalink: /:collection/:path/
+  pets:
+    output: true
+    permalink: /:collection/:path/
+  portfolio:
+    output: true
+    permalink: /:collection/:path/
+
+
 # Sass/SCSS
 sass:
   sass_dir: _sass
