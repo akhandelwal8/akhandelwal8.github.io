@@ -1,226 +1,98 @@
-# Get started building your personal website
+# { Personal } Jekyll Theme
+![Build Status](https://travis-ci.org/le4ker/personal-jekyll-theme.svg?branch=master)
+![license](https://img.shields.io/badge/license-MIT-blue.svg?link=https://github.com/dono-app/ios/blob/master/LICENSE)
+[![Join the chat at https://gitter.im/PanosSakkos/personal-jekyll-theme](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/panossakkos/personal-jekyll-theme?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-### Showcase your software development skills
+{ Personal } is a free responsive Jekyll theme, about you :wink:
 
-This repository gives you the code you'll need to kickstart a personal website that showcases your work as a software developer. And when you manage the code in a GitHub repository, it will automatically render a webpage with the owner's profile information, including a photo, bio, and repositories.
+You can watch it in action [here](https://le4ker.github.io/personal-jekyll-theme/)!
 
-Your personal website is waiting to be personalized, though. It includes space to highlight your specific areas of interest in software development, like languages or industries. And it's standing by to publish your next great blog post.
+<img src="https://github.com/le4ker/personal-jekyll-theme/raw/master/.github/personal-mobile.mov.gif" height="480">
 
-It's all possible using the combination of [Jekyll](https://jekyllrb.com/docs/) (for building your website), [GitHub Pages](https://pages.github.com/) (for hosting your website), and [GitHub's API](https://developer.github.com/v3/) (for automatically populating your website with content).
+<img src="https://github.com/le4ker/personal-jekyll-theme/raw/master/.github/personal-desktop.mov.gif" height="600" width="960">
 
-## Installation
+## What value does { Personal } add
 
-### Fork the `github/personal-website` repo
+* Fork of [Timeline](https://github.com/kirbyt/timeline-jekyll-theme) (mashup of [Grayscale by Start Bootstrap](https://github.com/IronSummitMedia/startbootstrap-grayscale) and [Agency Jekyll Theme](https://github.com/y7kim/agency-jekyll-theme))
+  * Modern and minimal design
+    * Responsive templates for home page, blog archive and posts. Looks great on mobile, tablet, and desktop devices
+    * Sweet animations
+    * Gracefully degrades in older browsers. Compatible with Internet Explorer 8+ and all modern browsers
+  * Timeline
+    * Tell your story so far with a sleek timeline of dates, pictures and descriptions
+  * White on black text, making the reading experience tireless
+  * Google analytics  
+* Customization and full control of your website and blog through the site config
+* Customization of the website's coloring
+* Blogging functionality
+  * Preview of the latest post in the home page
+  * Archive page
+  * Syntax highlighting
+  * Emojis
+  * Gesture navigation in archive and post pages by swiping
+  * Hashtags
+  * Categories
+  * Disqus comments
+  * Bootstrap share buttons
+  * RSS feed
+* Author blurb under the posts
+* 404 page
+* iOS and Android Web App mode
+* Enforcing of https protocol
+* Protection from email harvesting
+* Sitemap
+* Travis CI integration with [html-proofer](https://github.com/gjtorikian/html-proofer)
 
-You'll be making your own copy of the "personal website starter" repository so you have your own project to customize. A "fork" is a copy of a repository. So select "Fork" atop [the `github/personal-website` repository](https://github.com/github/personal-website).
+## Documentation
 
-Once you've found a home for your forked repository, it's yours. You're the owner, so you're ready to publish, if you wish.
+The theme contains documentation in the form of [blog posts](https://le4ker.github.io/personal-jekyll-theme/blog/index.html).
 
-### Install in your local development environment
+## How to run locally
 
-If you want to manage your website in a local web development environment, you'll be using [Ruby](https://jekyllrb.com/docs/installation/).
+First, you need to install jekyll and the dependencies of { Personal } by running:
 
-Once you've found a home for your forked repository, **[clone it](https://help.github.com/articles/cloning-a-repository/)**.
-
-#### Install Jekyll
-
-Jekyll is a [Ruby Gem](https://jekyllrb.com/docs/ruby-101/#gems) that can be installed on most systems.
-
-1. Install a full [Ruby development environment](https://jekyllrb.com/docs/installation/)
-2. Install Jekyll and [bundler](https://jekyllrb.com/docs/ruby-101/#bundler) [gems](https://jekyllrb.com/docs/ruby-101/#gems)
-```
-gem install jekyll bundler
-```
-3. Change into your new directory
-```
-cd personal-website
-```
-4. Install missing gems
-```
-bundle install
-```
-5. Build the site and make it available on a local server
-```
-bundle exec jekyll serve
-```
-
-You should see something like:
-
-```
-Configuration file: /octocat/personal-website/_config.yml
-            Source: /octocat/personal-website
-       Destination: /octocat/_site
- Incremental build: disabled. Enable with --incremental
-      Generating...
-   GitHub Metadata: No GitHub API authentication could be found. Some fields may be missing or have incorrect data.
-                    done in 14.729 seconds.
- Auto-regeneration: enabled for '/octocat/personal-website'
-    Server address: http://127.0.0.1:4000
-  Server running... press ctrl-c to stop.
+```shell
+./scripts/install
 ```
 
-Don't worry about the "No GitHub API authentication could be found" message. [API authentication is only necessary](https://github.com/jekyll/github-metadata/blob/master/docs/authentication.md) if you intend to display more detailed metadata, like a branch name.
+Then, you can build and serve your website by simply running:
 
-6. Now browse to [http://localhost:4000](http://localhost:4000)
-
-### Publish
-
-When you host your personal website's code on GitHub, you get the support of free hosting through GitHub Pages.
-
-**The fastest approach** is to rename your repository `username.github.io`, where `username` is your GitHub username (or organization name). Then, the next time you push any changes to your repository's `master` branch, they'll be accessible on the web at your `username.github.io` address.
-
-**If you want to use a custom domain**, you'll want to add it to your repository's "Custom domain" settings on github.com. And then register and/or [configure your domain with a DNS provider](https://help.github.com/articles/quick-start-setting-up-a-custom-domain/).
-
-## Customization
-
-It's your website, and you control the source code. So you can customize everything, if you like. But we've provided a handful of quick customizations for you to consider as you get your website off the ground.
-
-### Quick configuration changes
-
-Most customizations can be done in a matter of seconds, by revising your repository's `_config.yml` file. Just remember to restart your local server each time you save new changes so your Jekyll-powered website rebuilds correctly:
-
-1. Shut down your server by entering the keyboard command <kbd>CTRL</kbd>+<kbd>c</kbd>
-2. Restart your server: `bundle exec jekyll serve`
-
-
-#### Layout
-
-Your website will display in a two-column layout by default on larger-screen devices, with your photo, name, and basic information displayed in a left-aligned "sidebar." You can quickly switch to a "stacked" single-column layout by changing the line in your `_config.yml` file that reads `layout: sidebar` to `layout: stacked`.
-
-#### Style
-
-Your website appears with a "light" white and gray background by default, with dark text. You can quickly switch to a "dark" background with white text by changing the line in your `_config.yml` file that reads `style: light` to `style: dark`.
-
-#### Projects
-
-The "My Projects" section of your website is generated by default with your nine most recently "pushed" repositories. It also excludes repositories that you forked, by default. But each of these parameters can be quickly customized in your repository's `_config.yml` file, under the `projects` dictionary line.
-
-Parameters include:
-
-- `sort_by`: The method by which repositories are sorted. Options include `pushed` and `stars`.
-- `limit`: The maximum number of repositories that will be displayed in the "My Projects" section of your website. Out of the box, this number is set to `9`.
-- `exclude`:
-   - `forks`: When `true`, repositories you've forked will be excluded from the listing.
-   - `projects`: A list the repository names you want to exclude from the listing.
-
-#### Topics
-
-Your website comes pre-configured with three topics (e.g. "Web design" and "Sass") that appear in a section titled "My Interests." These are also stored in your repository's `_config.yml` file, where you can define each topic's name and two other optional details:
-
-- `web_url`: The web address you'd like to your topic to link to (e.g. `https://github.com/topics/sass`).
-- `image_url`: The web address of an (ideally square) image that you'd like to appear with your topic.
-
-#### Social media
-
-Your website supports linking and sharing to social media services you're using, including Behance, Dribbble, Facebook, LinkedIn, Medium, Stack Overflow, Twitter, and YouTube. To identify the services you use:
-
-1. Edit your repository's `_config.yml` file.
-2. Edit the `social_media` dictionary line, and represent the services you like in a simple `key: value` form:
-
-```
-social_media:
-  behance: your_username
-  dribbble: your_username  
-  facebook: your_username
-  hackerrank: your_username
-  instagram: your_username
-  keybase: your_username
-  linkedin: your_username
-  medium: your_username
-  stackoverflow: your_user_id
-  telegram: your_username
-  twitter: your_username
-  unsplash: your_username
-  vk: your_username
-  website: http://your_website_url
-  youtube: your_username
+```shell
+./scripts/serve-production
 ```
 
-Links to your profile for each of the services you define will appear in the `<header>` of your website, appended to your bio. And if those services support sharing, any blog posts that you publish will include links to share that post using each social media service.
+To serve across lan (requires su to forward the port 4000 over lan):
 
-**Note**: This feature is supported by two files in your repository:
-
-- `/_data/social_media.yml`: Defines each of the supported services, including variable name, display name, URL path, and SVG icon.
-- `/_includes/social_media_share_url.html`: Outputs the share URL required for any of the supported social media services that support sharing URLs.
-
-If you're interested in adding a social media service that's not already supported in this repo, you can edit these two files to build that support.
-
-## Adding pages
-
-To **add a page** to your website (e.g. detailed resume):
-
-1. Create a new `.html` or `.md` file at the root of your repository.
-2. Give it a filename that you want to be used in the page's URL (e.g. `http://yoursite.dev/filename`).
-3. At the start of your file, include the following [front matter](https://jekyllrb.com/docs/front-matter/):
-
-```
----
-layout: default
----
+```shell
+./scripts/serve-lan-production
 ```
 
-## Adding blog posts
+### Docker
 
-To **add a blog post** to your website:
-
-1. Create a new `.md` file in your repository's `/_posts/` directory.
-2. Give it a filename using the following format:
+Run using Docker:
 
 ```
-YEAR-MONTH-DAY-title.MARKUP
+docker run --rm -it -p 4000:4000 -v "$PWD:/srv/jekyll" jekyll/jekyll jekyll serve --watch --host "0.0.0.0" --config _config.yml,_config.dev.yml
 ```
 
-3. At the start of your file, include the following [front matter](https://jekyllrb.com/docs/front-matter/):
-
+Run using Docker with Docker Compose:
 ```
----
-title: "The title of my blog post"
----
+docker-compose up
 ```
 
-Your website comes with a placeholder blog post that you can reference. Notably, its [front matter](https://jekyllrb.com/docs/front-matter/) declares `published` as `false`, so that it won't appear on your website.
+## OSS used in { Personal }
 
-While you can define a `layout` in the front matter, your website is pre-configured to assign the `post` layout to all of the posts in your `/_posts/` directory. So you don't have to declare that in your posts.
+One of the reasons { Personal } is real is the following OSS projects:
 
-Jekyll's conventions for authoring and managing blog posts is very flexible. You can [learn more in Jekyll's documentation for "Posts."](https://jekyllrb.com/docs/posts/)
+  1. [Grayscale](http://startbootstrap.com/template-overviews/grayscale/)
+  2. [hammer.js](https://hammerjs.github.io/)
+  3. [highlightjs](https://highlightjs.org/)
+  4. [RRSSB](https://github.com/kni-labs/rrssb)
+  5. [Timeline](https://github.com/kirbyt/timeline-jekyll-theme)
+  6. [typed.js](https://github.com/mattboldt/typed.js/)
 
-## Content and templates
-
-To give you a sound foundation to start your personal website, your repository includes a handful of "includes" -- dynamic `.html` files that are re-used throughout your website. They're all stored in the `/_includes/` directory.
-
-There are the usual suspects, like `header.html` and `footer.html`. But there are few more worth pointing out:
-
-- `interests.html`: A heading and dynamic list of "My Interests," which is populated with the [topics](#topics) you list in your `_config.yml`.
-- `masthead.html`: A collection of your avatar, name, bio, and other metadata that's displayed prominently on all your webpages to help identify what the website is about.
-- `post-card.html`: A compact, summarized presentation of a blog post, re-used to display a listing of your latest blog posts.
-- `projects.html`: A heading and dynamic list of "My Projects," which is populated with a listing of your newest GitHub repositories.
-- `repo-card.html`: A compact, summarized presentation of a repository, re-used to display a listing of your GitHub repositories.
-- `thoughts.html`: A heading and dynamic list of "My Thoughts," which is populated with a listing of your latest blog posts.
-- `topic-card.html`: A compact, summarized presentation of a topic (defined in your `_config.yml`), re-used to display a listing of your interests.
-
-### Layouts
-
-Your repository comes with three layouts:
-
-- **default**: Not used by any of the built-in pages or posts, but useful for any new pages you create.
-- **home**: Used by your `index.html` homepage to display listings of your projects, interests, and (optionally) your blog posts.
-- **post**: Used by default by the posts in your `/_posts/` directory.
-
-Jekyll's convention for defining layouts is very flexible. You can [learn more about customizing your layouts in the Jekyll "Layouts" docs.](https://jekyllrb.com/docs/layouts/)
-
-## Styles
-
-Your website is pre-configured to use [GitHub's very flexible CSS framework called "Primer,"](https://styleguide.github.com/primer/). It's currently referenced within your `styles.scss` file, using the CSS import at-rule:
-
-```
-@import url('https://unpkg.com/primer/build/build.css');
-```
-
-You are, of course, welcome to remove it or replace it with another framework. Just bear in mind that the HTML that your website came pre-packaged with references multiple Primer "utility classes" to define things like column widths, margins, and background colors.
-
-You also have the option to add on to and extend Primer's styles by adding custom CSS to your `/assets/styles.scss` Sass stylesheet. By editing this file, you can customize your website's color scheme, typography, and more.
-
-
-## License
-
-The theme is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
+<div style="font-size:16px;margin:0 auto;width:300px">
+    <a href="https://blockchain.info/address/1LHuKC9Em3KA5yoZaf7nngnNdf9K7s2gSi">
+        <img src="https://blockchain.info/Resources/buttons/donate_64.png"/>
+    </a>
+</div>
