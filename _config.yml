@@ -1,219 +1,278 @@
-
-# Site settings
-
-# NB! Set your site's url, otherwise stuff will break :)
-
-url: "https://akhandelwal8.github.io"
-
-# If you're hosting your site at a Project repository on GitHub pages
-# (https://yourusername.github.io/repository-name)
-# and NOT your user repository (https://yourusername.github.io)
-# then add in the baseurl here, like this: "/repository-name"
+# Welcome to Jekyll!
 #
-# NB! Without this *nothing* will work, because it's used in every path :)
+# This config file is meant for settings that affect your entire site, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# `jekyll serve`. If you change this file, please restart the server process.
 
-baseurl: 
+# Theme Settings
+#
+# Review documentation to determine if you should use `theme` or `remote_theme`
+# https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
-# Google tracking id
+# theme                  : "minimal-mistakes-jekyll"
+# remote_theme           : "mmistakes/minimal-mistakes"
+minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
-google-tracking-id: ""
+# Site Settings
+locale                   : "en-US"
+title                    : "Amit Khandelwal"
+title_separator          : "-"
+subtitle                 : # site tagline that appears below site title in masthead
+name                     : "Amit Khandelwal"
+description              : "Jerome Chazen Professor of Global Business; Co-Editor Review of Economics of Statistics "
+url                      : "https://akhandelwal8.github.io"
+baseurl                  : # the subpath of your site, e.g. "/blog"
+repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
+# breadcrumbs            : false # true, false (default)
+words_per_minute         : 200
+comments:
+  provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
+  disqus:
+    shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+  discourse:
+    server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
+  facebook:
+    # https://developers.facebook.com/docs/plugins/comments
+    appid                :
+    num_posts            : # 5 (default)
+    colorscheme          : # "light" (default), "dark"
+  utterances:
+    theme                : # "github-light" (default), "github-dark"
+    issue_term           : # "pathname" (default)
+  staticman:
+    branch               : # "master"
+    endpoint             : # "https://{your Staticman v3 API}/v3/entry/github/"
+reCaptcha:
+  siteKey                :
+  secret                 :
+atom_feed:
+  path                   : # blank (default) uses feed.xml
+search                   : # true, false (default)
+search_full_content      : # true, false (default)
+search_provider          : # lunr (default), algolia, google
+algolia:
+  application_id         : # YOUR_APPLICATION_ID
+  index_name             : # YOUR_INDEX_NAME
+  search_only_api_key    : # YOUR_SEARCH_ONLY_API_KEY
+  powered_by             : # true (default), false
+google:
+  search_engine_id       : # YOUR_SEARCH_ENGINE_ID
+  instant_search         : # false (default), true
+# SEO Related
+google_site_verification :
+bing_site_verification   :
+yandex_site_verification :
+naver_site_verification  :
 
-# Forces https everywhere in your website, except when you serve it locally
-# If you are not hosted on Github Pages, and your host doesn't support https
-# then you should disable it
-
-force-https: True
-
-#############
-# HTML Head #
-#############
-
-lang: "en"
-author: "Amit Khandelwal"
-title: "{ Amit Khandelwal }"
-description: ""
-keywords: "khandelwal, trade, development, economics, columbia"
-#favicon: "/img/favicon.ico"
-
-################
-# Header layout #
-################
-
-black-favicon: "/img/black-lab-glass.ico"
-
-background-img: "../img/elephant.jpg"
-
-##############################
-# Dynamic Text on the Header #
-##############################
-
-dynamic-typing: False
-shuffle: True # Shuffle the lines.
-loop: True
-loop-count: False # Set False for infinite loop, or set any number for finite loop.
-type-speed: 10
-start-delay: 200
-delete-delay: 5000
-lines: # You can add HTML Tags in the Text
-  - text: "The lower you fall, the higher you'll fly."
-  - text: "Where’s your will to be weird?"
-
-me-img: "/img/jetpacktocat.png"
-
-# To use facebook profile pic comment the previous line and uncomment the following
-# line, and replace 'user_id' with your facebook user id.
-# Facebook user id can be found by clicking on your profile pic and the large number
-# in the end of the url just before '&type' is your user id.
-# Note: fbid is not the same as user id and user id only contains numbers
-
-# me-img: "https://graph.facebook.com/user_id/picture?type=large&width=500&height=500"
-
-# To use github profile pic uncomment the following line and replace 'user_name'
-# with your github user name.
-
-# me-img: "https://github.com/user_name.png?size=500"
-
-# To use gravatar profile pic uncomment the following line and replace 'email_hash'
-# with your gravatar profile email hash.
-# You can create the email hash by using an online tool like 'http://www.md5hashgenerator.com/'
-# just enter your email and it will generate the hash.
-
-# me-img: "https://www.gravatar.com/avatar/email_hash?s=500"
-
-##############################
-# Color the browser elements #
-##############################
-color-browser: "#000000"
-apple-status-bar-style: "black"
-
-################
-# Web app mode #
-################
-
-web-app-mode: True
-
-# # Icons for Web App mode
-
-# icon-36p: "/img/web-app/icon-36p.png"
-# icon-48p: "/img/web-app/icon-48p.png"
-# icon-72p: "/img/web-app/icon-72p.png"
-# icon-96p: "/img/web-app/icon-96p.png"
-# icon-144p: "/img/web-app/icon-144p.png"
-# icon-192p: "/img/web-app/icon-192p.png"
-
-########
-# Blog #
-########
-
-enable-gesture-navigation: True
-
-post-preview-words: 96
-
-paginate: 5
-
-email-share: True
-fb-share: True
-twitter-share: True
-linkedin-share: True
-reddit-share: True
-google-plus-share: True
-tumblr-share: True
-pinterest-share: True
-pocket-share: True
-vkontakte-share: True
-
-disqus-shortname: "personal-jekyll-theme"
-
-syntax-highlight: True
-
-# ############
-# # Timeline #
-# ############
-
-# events:
-#   - image: "/img/timeline/spidertocat.png"
-#     date: "September 2013 - Today"
-#     description: "Saving the neighborhood!"
-#   - image: "/img/timeline/baracktocat.jpg"
-#     date: "September 2007 - August 2013"
-#     description: "Started coding"
-
-# # First image of the Timeline
-
-# timeline-img: "/img/timeline/default.png"
-
-###########
-# Contact #
-###########
-
-email: "ak2796@columbia.edu"
-
-################
-# Author Blurb #
-################
-
-# The author blurb goes underneath blog posts.
-# This works best when your author blurb image has a transparent background, or matches your site background color.
-
-# if the author_blurb is not set, then this feature is skipped
-author_blurb: "John Smith is an awesome person. He lives in Flatland, where he works on two-dimensional engineering projects. In his spare time, John likes to eat cotton candy."
-author_blurb_image: "/img/author.png"
-
-##################
-# Social Buttons #
-##################
-
+# Social Sharing
+twitter:
+  username               :
+facebook:
+  username               :
+  app_id                 :
+  publisher              :
+og_image                 : # Open Graph/Twitter default site image
+# For specifying social profiles
+# - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  - title: "scholar"
-    url: "https://scholar.google.com/citations?user=sYoVDTkAAAAJ&hl=en"
-  # - title: "twitter"
-  #   url: "https://twitter.com/"
-  # - title: "github"
-  #   url: "https://github.com/PanosSakkos/personal-jekyll-theme"
-  # - title: "bitcoin"
-  #   url: "https://blockchain.info/address/1LHuKC9Em3KA5yoZaf7nngnNdf9K7s2gSi"
-  # - title: "rss"
-  #   url: "/feed.xml"
+  type                   : # Person or Organization (defaults to Person)
+  name                   : # If the user or organization name differs from the site's name
+  links: # An array of links to social media profiles
 
-############
-# 404 page #
-############
+# Analytics
+analytics:
+  provider               : false # false (default), "google", "google-universal", "custom"
+  google:
+    tracking_id          :
+    anonymize_ip         : # true, false (default)
 
-#err-404-img: "/img/labtocat.png"
 
-##################
-# GPG on Keybase #
-##################
+# Site Author
+author:
+  name             : "Amit Khandelwal"
+  avatar           : "/assets/images/bio-photo.jpg"
+  bio              : "I am an **amazing** person."
+  location         : "Somewhere"
+  email            :
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:ak2796@columbia.edu"
+    - label: "Google Scholar"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://scholar.google.com/citations?user=sYoVDTkAAAAJ&hl=en"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
+      # url: "https://facebook.com/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      # url: "https://github.com/"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      # url: "https://instagram.com/"
 
-keybase-username: akhandelwal
-keybase-in-social: True
-keybase-in-footer: True
+# Site Footer
+footer:
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      # url:
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
+      # url:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      # url:
+    - label: "GitLab"
+      icon: "fab fa-fw fa-gitlab"
+      # url:
+    - label: "Bitbucket"
+      icon: "fab fa-fw fa-bitbucket"
+      # url:
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      # url:
 
-################################################################################
 
-# NB! Tread carefully if you want to change the variables below this point!
+# Reading Files
+include:
+  - .htaccess
+  - _pages
+exclude:
+  - "*.sublime-project"
+  - "*.sublime-workspace"
+  - vendor
+  - .asset-cache
+  - .bundle
+  - .jekyll-assets-cache
+  - .sass-cache
+  - assets/js/plugins
+  - assets/js/_main.js
+  - assets/js/vendor
+  - Capfile
+  - CHANGELOG
+  - config
+  - Gemfile
+  - Gruntfile.js
+  - gulpfile.js
+  - LICENSE
+  - log
+  - node_modules
+  - package.json
+  - package-lock.json
+  - Rakefile
+  - README
+  - tmp
+  - /docs # ignore Minimal Mistakes /docs
+  - /test # ignore Minimal Mistakes /test
+keep_files:
+  - .git
+  - .svn
+encoding: "utf-8"
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
-# Sections shown in the index page
 
-pages_list:
-  Publications: 'about'
-  Working Papers: 'latest-post'
-  #Timeline: 'timeline'
-  Contact: 'contact'
+# Conversion
+markdown: kramdown
+highlighter: rouge
+lsi: false
+excerpt_separator: "\n\n"
+incremental: false
 
-# Exclusion list from the generated _site
 
-exclude: ["LICENSE", "README.md", "CONTRIBUTING", "CONTRIBUTORS", "scripts"]
+# Markdown Processing
+kramdown:
+  input: GFM
+  hard_wrap: false
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  enable_coderay: false
 
-# Pagination path
 
-paginate_path: "blog/page:num/"
-
-# Enable minification SASS
-
+# Sass/SCSS
 sass:
-  style: compressed
+  sass_dir: _sass
+  style: compressed # https://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
 
-gems:
+
+# Outputting
+permalink: /:categories/:title/
+paginate: 5 # amount of posts to show
+paginate_path: /page:num/
+timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+
+
+# Plugins (previously gems:)
+plugins:
   - jekyll-paginate
-  - jemoji
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jekyll-include-cache
+
+# mimic GitHub Pages with --safe
+whitelist:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jekyll-include-cache
+
+
+# Archives
+#  Type
+#  - GitHub Pages compatible archive pages built with Liquid ~> type: liquid (default)
+#  - Jekyll Archives plugin archive pages ~> type: jekyll-archives
+#  Path (examples)
+#  - Archive page should exist at path when using Liquid method or you can
+#    expect broken links (especially with breadcrumbs enabled)
+#  - <base_path>/tags/my-awesome-tag/index.html ~> path: /tags/
+#  - <base_path>/categories/my-awesome-category/index.html ~> path: /categories/
+#  - <base_path>/my-awesome-category/index.html ~> path: /
+category_archive:
+  type: liquid
+  path: /categories/
+tag_archive:
+  type: liquid
+  path: /tags/
+# https://github.com/jekyll/jekyll-archives
+# jekyll-archives:
+#   enabled:
+#     - categories
+#     - tags
+#   layouts:
+#     category: archive-taxonomy
+#     tag: archive-taxonomy
+#   permalinks:
+#     category: /categories/:name/
+#     tag: /tags/:name/
+
+
+# HTML Compression
+# - https://jch.penibelst.de/
+compress_html:
+  clippings: all
+  ignore:
+    envs: development
+
+
+# Defaults
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: # true
+      share: true
+      related: true
