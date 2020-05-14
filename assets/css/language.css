@@ -1,0 +1,29 @@
+#es {
+  display: none;
+}
+
+.button_lang {
+  background-color: #444;
+  color: #FFF;
+  padding: 8px 20px;
+  border-radius: 5px;
+    
+  -webkit-transition: background-color .3s ease-in-out;
+  -moz-transition: background-color .3s ease-in-out;
+  -o-transition: background-color .3s ease-in-out;
+  -ms-transition: background-color .3s ease-in-out;
+  transition: background-color .3s ease-in-out;
+}
+.button_lang:hover, .current_lang {
+  background-color: #777;   
+  -webkit-transition: background-color .3s ease-in-out;
+  -moz-transition: background-color .3s ease-in-out;
+  -o-transition: background-color .3s ease-in-out;
+  -ms-transition: background-color .3s ease-in-out;
+  transition: background-color .3s ease-in-out;
+}
+li {
+  /* display: inline; */
+  width: 9%;
+  margin: auto;
+}
