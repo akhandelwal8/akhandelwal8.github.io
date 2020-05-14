@@ -1,143 +1,132 @@
-# main text of home
+# -----------------------------------------------------------------------------
+# Site settings
+ #simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+# -----------------------------------------------------------------------------
 name: Amit Khandelwal
-bio: Chazen Professor of Global Business, Co-Editor **Review of Economics & Statistics**
-
-# twitter summary info
-description: economist
-
-# if it's an external image, update below for true
-# better with square images
-external-image: false
-picture: assets/images/profile.jpg
-
-# If you want to include your resume, set to true
-# and specify source (external or local).
-resume: true
-resume-external: true
-resume-url: https://www.dropbox.com/s/40v4fty79nfk7kz/KhandelwalCV.pdf?dl=0
-
-url: https://akhandelwal8.github.io/
-# your url: https://USERNAME.github.io
-
-permalink: /:title/
-
-# To enable google analytics, supply your token below
-# analytics-google: 'UA-MYANALYTICS'
-
-# To enable piwik tracking, supply your url & site ID below
-# analytics-piwik-url: 'piwik.my-host.com'
-# analytics-piwik-id: 1
-
-# if you don't want comments in your posts, leave categories empty
-disqus:
-  shortname: mydisqus # enter this from your disqus account
-  categories: [economics, project] # only show disqus for posts that have these categories
-
-# if you don't have any of social below, comment the line
-# facebook: myfacebook
-# twitter: mytwitter
-# instagram: myinstagram
-# pinterest: mypinterest
-# linkedin: mylinkedin
-# youtube: myyoutube
-# spotify: myspotify
-github: https://scholar.google.com/citations?user=sYoVDTkAAAAJ&hl=en
-# gitlab: mygitlab
-# lastfm: mylastfm
-# stackoverflow: 7044681/mystackoverflow
-# quora: userquora
-# reddit: username
-#medium: medium
-# vimeo: myvimeo
-# lanyrd: mylanyrd
 email: ak2796@columbia.edu
+description: > # this means to ignore newlines until "url:"
+  Chazen Professor of Global Business, Co-Editor *Review of Economics & Statistics*
+footer_text: >
+  Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
+  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
+  Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
 
-authors:
-  johndoe:
-    name: Amit Khandelwal
-    bio: Chazen Professor of Global Business
-    external-image: false
-    picture: assets/images/profile.jpg
-    twitter: johndoe
-  # jamesfoster:
-  #   name: James Foster
-  #   bio: A Man who develops software with coffee
-  #   external-image: false
-  #   picture: assets/images/james.jpg
-  #   twitter: jamesfoster
+url:  https://akhandelwal8.github.io/ # the base hostname & protocol for your site
+baseurl: / # the subpath of your site, e.g. /blog/
+last_updated: # leave blank if you don't want to display last updated
 
-# do you want a larger site? change the option below
-# options: [normal, large] | default: normal
-# normal = 560px / large = 810px
-width: normal
+# -----------------------------------------------------------------------------
+# Open Graph
+# -----------------------------------------------------------------------------
+# Display links to the page with a preview object on social media.
+# To achieve this, change serve_og_meta to true and then provide the URL of the
+# preview image as the value of og_image.
+serve_og_meta: false # Include Open Graph meta tags in the HTML head
+og_image: # The site-wide (default for all links) Open Graph preview image
+# -----------------------------------------------------------------------------
+# Social integration
+# -----------------------------------------------------------------------------
+github_username: # your GitHub user name
+twitter_username: # your Twitter handle
+linkedin_username: # your LinkedIn user name
+scholar_userid: sYoVDTkAAAAJ # your Google Scholar ID
+orcid_id: # your ORCID ID
+medium_username: # your Medium username
+quora_username: # your Quora username
+publons_id: # your ID on Publons
+research_gate_profile: # your profile on ResearchGate
+blogger_url: # your blogger URL
 
-# if you do/don't need pagination, toggle 'enabled' between true/false below
-pagination:
-  enabled: false
-  sort_reverse: true # display recent posts first
-  title: ":title" # Changing this will mess up the header display logic
-  per_page: 5
-  permalink: "/:num/" # pagination link that will be appended
+contact_note: >
+  You can even add a little note about which of these is the best way to reach you.
 
-# if you don't need projects, comment the *projects* configs below
-projects: true
+google_analytics: UA-XXXXXXXXX # out your google-analytics code
 
-# if you don't need "about" or "blog", comment them out below
-CV: true
-blog: true
+# -----------------------------------------------------------------------------
+# Blog
+# -----------------------------------------------------------------------------
+blog_name: al-folio
+blog_description: a simple whitespace theme for academics
 
-# do you want to show the "read time" of the posts?
-read-time: true
+# Pagination
+paginate: 4
+permalink: /blog/:year/:title/
+paginate_path: /blog/page:num/
 
-# do you want to show the "tags" inside the posts?
-show-tags: true
+text:
+  pagination:
+    newer: 'Newer'
+    older: 'Older'
 
-# related posts inside a post?
-related: true
+# Comments
+disqus_shortname: al-folio # put your disqus shortname
 
-# Display links for next and previous posts for the specified categories
-post-advance-links: [blog]
+# Optional features
+show_social_icons:  false
+enable_anchorjs:    false
+enable_katex:       true
 
-# show author block at the end of a post ?
-show-author: true
+# -----------------------------------------------------------------------------
+# Collections
+# -----------------------------------------------------------------------------
+collections:
+  news:
+    defaults:
+      layout: post
+    output: true
+    permalink: /news/:path/
+  projects:
+    output: true
+    permalink: /projects/:path/
 
-# do you want some animations?
-animation: true
+news_limit: 5
 
-# add default values to specific pages or layouts
-defaults:
-  - scope:
-      path: "" # an empty string here means all files in the project
-      layout: "post"
-    values:
-      # setting all post to not hidden by default,
-      # can be overridden in the front matter for a specific post
-      hidden: false
+# -----------------------------------------------------------------------------
+# Jekyll settings
+# -----------------------------------------------------------------------------
 
+# Build settings
+markdown: kramdown
+highlighter: pygments
+
+# Includes & excludes
+include: ['_pages']
+exclude: [vendor]
+
+# Plug-ins
 plugins:
-  - jekyll-seo-tag
-  - jekyll-gist
-  - jekyll-feed
-  - jemoji
-  - jekyll-admin
-  - jekyll-paginate-v2
+    - jekyll-email-protect
+    - jekyll-paginate
+    - jekyll/scholar
+    - jemoji
 
-jekyll-mentions:
-  base_url: https://github.com
+# Jekyll-Scholar
+scholar:
 
-compress_html:
-  ignore:
-    envs:
-      - development
-      - stage
+  last_name: Khandelwal
 
-exclude:
-  [
-    "travis.sh",
-    "README.md",
-    "Gemfile",
-    "Gemfile.lock",
-    "FAQ.md",
-    "node_modules",
-    "vendor",
-  ]
+  style: apa
+  locale: en
+
+  sort_by: year
+  order: descending
+
+  source: /_bibliography/
+  bibliography: papers.bib
+  bibliography_template: bib
+
+  replace_strings: true
+  join_strings: true
+
+  details_dir: bibliography
+  details_layout: bibtex.html
+  details_link: Details
+
+  query: "@*"
+
+# -----------------------------------------------------------------------------
+# Other settings
+# -----------------------------------------------------------------------------
+jquery_version: "1.12.4"
+katex_version: "0.9.0"
+anchorjs_version: "3.2.2"

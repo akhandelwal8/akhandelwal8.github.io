@@ -1,15 +1,23 @@
-<div class="pagination">
+{% if paginator.total_pages != 1 %}
+<div class="pagination clearfix mb1 mt4">
+  <div class="left">
     {% if paginator.previous_page %}
-        <a href="{{ site.url }}{{ paginator.previous_page_path }}" class="previous">«</a>
+      {% if paginator.page == 2 %}
+        <a class="pagination-item" href="{{ site.baseurl }}/blog/">{{ site.text.pagination.newer }}</a>
+      {% else %}
+        <a class="pagination-item" href="{{ paginator.previous_page_path | prepend: site.baseurl }}">{{ site.text.pagination.newer }}</a>
+      {% endif %}
     {% else %}
-        <span class="previous hidden">«</span>
+      <span class="pagination-item disabled">{{ site.text.pagination.newer }}</span>
     {% endif %}
-
-    <span class="page_number ">page {{ paginator.page }} of {{ paginator.total_pages }}</span>
-
+  </div>
+  <div class="right">
     {% if paginator.next_page %}
-        <a href="{{ site.url }}{{ paginator.next_page_path }}" class="next">»</a>
+      <a class="pagination-item" href="{{ paginator.next_page_path | prepend: site.baseurl }}">{{ site.text.pagination.older }}</a>
     {% else %}
-        <span class="next hidden">»</span>
+      <span class="pagination-item disabled">{{ site.text.pagination.older }}</span>
     {% endif %}
+  </div>
+  <div class="pagination-meta">Page {{ paginator.page }} of {{ paginator.total_pages }}</div>
 </div>
+{% endif %}

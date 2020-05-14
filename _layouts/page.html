@@ -1,8 +1,23 @@
 ---
 layout: default
 ---
-{% include header.html %}
+<div class="post">
 
-{{content}}
+  <header class="post-header">
+    <h1 class="post-title">{{ page.title }}</h1>
+    <h5 class="post-description">{{ page.description }}</h5>
+  </header>
 
-{% include footer.html %}
+  <article class="post-content {{page.title}} clearfix">
+    {{ content }}
+  </article>
+
+  {% if page.news %}
+    {% include news.html %}
+  {% endif %}
+
+  {% if page.social %}
+    {% include social.html %}
+  {% endif %}
+
+</div>

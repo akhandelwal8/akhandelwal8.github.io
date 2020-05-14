@@ -1,15 +1,11 @@
-<footer class="footer-main">
-    {{ site.name }} © {{ site.time | date: '%Y' }}
+<footer>
 
-    <a class="link" href="{{ site.url }}/feed.xml" target="_blank">
-        <svg class="icon icon-rss">
-            <use xlink:href="#icon-rss"></use>
-        </svg>
-    </a>
+  <div class="wrapper">
+    &copy; Copyright {{ site.time | date: '%Y' }} {{ site.name }}.
+    {{ site.footer_text }}
+    {% if site.last_updated %}
+        Last updated: {{ site.last_updated }}.
+    {% endif %}
+  </div>
 
-    <p class="extra">
-        <a class="link" href="https://github.com/sergiokopplin/indigo">Indigo theme</a>
-        by
-        <a class="link" href="https://github.com/sergiokopplin/indigo">Kopplin</a>
-    </p>
 </footer>

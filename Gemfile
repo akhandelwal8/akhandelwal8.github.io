@@ -1,12 +1,10 @@
 source 'https://rubygems.org'
-
 group :jekyll_plugins do
     gem 'github-pages'
-    gem 'jekyll-admin'
-    gem 'jekyll-seo-tag'
-    gem 'jekyll-gist'
-    gem 'jekyll-feed'
+    gem 'jekyll'
+    gem 'jekyll-email-protect'
+    gem 'jekyll-paginate'
+    gem 'jekyll-scholar'
     gem 'jemoji'
-    gem "jekyll-paginate-v2", "~> 2.0"
-    gem "html-proofer"
+    gem 'unicode_utils'
 end
