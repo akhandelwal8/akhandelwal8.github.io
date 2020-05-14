@@ -1,6 +1,6 @@
 # main text of home
 name: Amit Khandelwal
-bio: Chazen Professor of Global Business, Co-Editor *Review of Economics & Statistics*
+bio: Chazen Professor of Global Business, Co-Editor **Review of Economics & Statistics**
 
 # twitter summary info
 description: economist
@@ -83,7 +83,7 @@ pagination:
 projects: true
 
 # if you don't need "about" or "blog", comment them out below
-about: true
+CV: true
 blog: true
 
 # do you want to show the "read time" of the posts?
