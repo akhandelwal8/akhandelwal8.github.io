@@ -1,5 +1,5 @@
 ---
-title:  "Publications"
+title:  "Research"
 categories: [jekyll]
 tags: [jekyll]
 ---
