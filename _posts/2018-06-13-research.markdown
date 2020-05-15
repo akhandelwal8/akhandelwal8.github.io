@@ -8,9 +8,7 @@ tags: [jekyll]
 
 - 2020, [The Return to Protectionism]({{site.baseurl}}/files/qje_RTP/RTP.pdf), **Quarterly Journal of Economics** [Editor's Choice]
     * w/ P. Goldberg, P. Fajgelbaum, P. Kennedy
-    * [+2019 update]({{site.baseurl}}/files/qje_RTP/RTP_update.pdf)&nbsp;&nbsp;&nbsp;&nbsp;[slides]({{site.baseurl}}/files/qje_RTP/RTP_slides.pdf)&nbsp;&nbsp;&nbsp;&nbsp;[data]({{site.baseurl}}/files/qje_RTP/RTP_data.zip))&nbsp;&nbsp;&nbsp;&nbsp;[summary](https://voxeu.org/article/return-protectionism)
-
-
+    * [+2019 update]({{site.baseurl}}/files/qje_RTP/RTP_update.pdf)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[slides]({{site.baseurl}}/files/qje_RTP/RTP_slides.pdf)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[data]({{site.baseurl}}/files/qje_RTP/RTP_data.zip)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[summary](https://voxeu.org/article/return-protectionism)
 <br/>
 
 - 2020, [How Distortions Alter the Impacts of International Trade in Developing Countries]({{site.baseurl}}/files/are_DAIIT/DAIIT.pdf), **Annual Review of Economics** 
@@ -23,7 +21,7 @@ tags: [jekyll]
 
 - 2019, [Detecting Urban Markets with Satellite Imagery: An Application to India]({{site.baseurl}}/files/jue_DUM/DUM.pdf), **Journal of Urban Economics**
     * w/ K. Baragwanath, R. Goldblatt, G. Hanson
-    * [slides]({{site.baseurl}}/files/jue_DUM/DUM_data.zip)&nbsp;&nbsp;&nbsp;&nbsp;[summary](https://voxdev.org/topic/infrastructure-urbanisation/satellite-imagery-future-tracking-urban-markets)
+    * [slides]({{site.baseurl}}/files/jue_DUM/DUM_data.zip)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[summary](https://voxdev.org/topic/infrastructure-urbanisation/satellite-imagery-future-tracking-urban-markets)
 <br/>
 
 - 2018, [Using Landsat and Nighttime Lights for Supervised Pixel-Based Image Classification of Urban Land Cover]({{site.baseurl}}/files/rse_ULNLSPBIC/ULNLSPBIC.pdf), **Remote Sensing of Environment**
@@ -37,7 +35,7 @@ tags: [jekyll]
 
 - 2017, [Exporting and Firm Performance: Evidence from a Randomized Trial]({{site.baseurl}}/files/qje_EFP/EFP.pdf), **Quarterly Journal of Economics** [Editor's Choice]
     * w/ D. Atkin, A. Osman
-    * [slides]({{site.baseurl}}/files/qje_EFP/EFP_slides.pdf)&nbsp;&nbsp;&nbsp;&nbsp;[summary](https://voxeu.org/article/exports-and-firm-performance-randomised-trial-evidence)
+    * [slides]({{site.baseurl}}/files/qje_EFP/EFP_slides.pdf)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[summary](https://voxeu.org/article/exports-and-firm-performance-randomised-trial-evidence)
 <br/>
 
 - 2016, [Detecting the Boundaries of Urban Areas in India: A Dataset for Pixel-Based Image Classification in Google Earth Engine]({{site.baseurl}}/files/rs_DBUAI/DBUAI.pdf), **Remote Sensing**
@@ -63,7 +61,7 @@ tags: [jekyll]
 
 - 2013, [Trade Liberalization and Embedded Institutional Reform: Evidence from Chinese Exporters]({{site.baseurl}}/files/aer_TLEIR/TLEIR.pdf), **American Economic Review**
     * w/ P. Schott, S.J. Wei
-    * [data](https://sompks4.github.io/sub_data.html)&nbsp;&nbsp;&nbsp;&nbsp;[slides]({{site.baseurl}}/files/aer_TLEIR/TLEIR_slides.pptx)&nbsp;&nbsp;&nbsp;&nbsp;[summary](https://voxeu.org/article/hidden-gains-trade-liberalisation)
+    * [data](https://sompks4.github.io/sub_data.html)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[slides]({{site.baseurl}}/files/aer_TLEIR/TLEIR_slides.pptx)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[summary](https://voxeu.org/article/hidden-gains-trade-liberalisation)
 <br/>
 
 - 2013, [Import Competition and Quality Upgrading]({{site.baseurl}}/files/restat_ICQU/ICQU.pdf), **Review of Economics and Statistics**
@@ -78,7 +76,7 @@ tags: [jekyll]
 
 - 2011, [The Role of Intermediaries in Facilitating Trade]({{site.baseurl}}/files/jie_RIFT/RIFT.pdf), **Journal of International Economics** 
     * w/ J.B. Ahn, S.J. Wei
-	: [appendix]({{site.baseurl}}/files/jie_RIFT/RIFT_appendix.pdf)&nbsp;&nbsp;&nbsp;&nbsp;[data]
+	: [appendix]({{site.baseurl}}/files/jie_RIFT/RIFT_appendix.pdf)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[data]
 <br/>
 
 - 2010, [Imported Intermediate Inputs and Domestic Product Growth: Evidence from India]({{site.baseurl}}/files/qje_IIIDPG/IIDPG.pdf), **Quarterly Journal of Economics** 
@@ -121,7 +119,7 @@ tags: [jekyll]
     * w/ Goldberg, Pavcnik
 <br/>
 
-- 2009, [China's Experience under the Multifiber Arrangement and the Agreement on Textile and Clothing][pdf]({{site.baseurl}}/files/book_MFA/MFA.pdf), *China's Growing Role in World Trade*. 
+- 2009, [China's Experience under the Multifiber Arrangement and the Agreement on Textile and Clothing]({{site.baseurl}}/files/book_MFA/MFA.pdf), *China's Growing Role in World Trade*. 
     * w/ Brambilla, Schott
     * [data](https://sompks4.github.io/sub_data.html)
 <br/>
