@@ -3,19 +3,6 @@ title:  "Teaching"
 categories: [jekyll]
 tags: [jekyll]
 ---
-<h4 id="columbia-university"><strong>Columbia University</strong></h4>
-<p>I have been a teaching assistant or an instructor for the following courses -
-<!---
-<br />(<a href="" target="_blank">Course evaluations</a>)</p>
--->
-<h5 id="masters"><strong>Masters</strong></h5>
-<ul>
- <li> MA Math Camp (Instructor)  &middot; <em>2019</em> -- (<a href="https://github.com/vinayakiyer/Columbia-MA-Math-Camp-2019" target="_blank">Course Material</a>) </li>
-  <li>Microeconomic Theory &middot; <em>2019</em> -- (<a href="{{ site.baseurl }}/files/micro2019spring.pdf" target="_blank">Evaluation</a>)</li>
-  <li>Math Method for Economists &middot;  <em>2018 , 2019</em> -- (<a href="{{ site.baseurl }}/files/math2018fall-merged.pdf" target="_blank">Evaluation (2018)</a>, <a href="{{ site.baseurl }}/files/math2019fall.pdf" target="_blank">Evaluation (2019)</a>)</li>
-</ul>
 
-<h5 id="undergrad"><strong>Undergraduate</strong></h5>
-<ul>
-  <li>Principles of Economics  &middot; <em>2017 , 2018</em> -- (<a href="{{ site.baseurl }}/files/principles2017.pdf" target="_blank">Evaluation (2017)</a> , <a href="{{ site.baseurl }}/files/principles2018.pdf" target="_blank">Evaluation (2018)</a>)</li>
-</ul>
+
+# TBA
