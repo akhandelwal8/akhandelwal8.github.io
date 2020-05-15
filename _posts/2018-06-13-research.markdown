@@ -7,102 +7,90 @@ tags: [jekyll]
 ### Publications
 
 - 2020, [The Return to Protectionism]({{site.baseurl}}/files/qje_RTP/RTP.pdf), **Quarterly Journal of Economics** [Editor's Choice]
-	:: (Goldberg, Fajgelbaum, Kennedy)
-	:: [pdf]({{site.baseurl}}/files/qje_RTP/RTP.pdf)&nbsp;&nbsp;&nbsp;&nbsp;[+2019 update]({{site.baseurl}}/files/qje_RTP/RTP_update.pdf)&nbsp;&nbsp;&nbsp;&nbsp;[slides]({{site.baseurl}}/files/qje_RTP/RTP_slides.pdf)&nbsp;&nbsp;&nbsp;&nbsp;[data]({{site.baseurl}}/files/qje_RTP/RTP_data.zip)
+	: (Goldberg, Fajgelbaum, Kennedy)
+	: [+2019 update]({{site.baseurl}}/files/qje_RTP/RTP_update.pdf)&nbsp;&nbsp;&nbsp;&nbsp;[slides]({{site.baseurl}}/files/qje_RTP/RTP_slides.pdf)&nbsp;&nbsp;&nbsp;&nbsp;[data]({{site.baseurl}}/files/qje_RTP/RTP_data.zip)
 <br/>
 
-- 2020, How Distortions Alter the Impacts of International Trade in Developing Countries, **Annual Review of Economics** 
-	:: (Aktin)
-	:: [pdf]({{site.baseurl}}/files/are_DAIIT/DAIIT.pdf)
+- 2020, [How Distortions Alter the Impacts of International Trade in Developing Countries]({{site.baseurl}}/files/are_DAIIT/DAIIT.pdf), **Annual Review of Economics** 
+	: (Aktin)
 <br/>
 
-- 2019, Measuring Productivity: Lessons from Tailored Surveys and Productivity Benchmarking, **American Economic Review Papers & Proceedings**
-	:: (Atkin, Osman)
-	:: [pdf]({{site.baseurl}}/files/aerpp_MPTSPB/MPTSPB.pdf)
+- 2019, [Measuring Productivity: Lessons from Tailored Surveys and Productivity Benchmarking]({{site.baseurl}}/files/aerpp_MPTSPB/MPTSPB.pdf), **American Economic Review Papers & Proceedings**
+	: (Atkin, Osman)
 <br/>
 
-- 2019, Detecting Urban Markets with Satellite Imagery: An Application to India, **Journal of Urban Economics**
+- 2019, [Detecting Urban Markets with Satellite Imagery: An Application to India]({{site.baseurl}}/files/jue_DUM/DUM.pdf), **Journal of Urban Economics**
 	: (Baragwanath, Goldblatt, Hanson)
-	: [pdf]({{site.baseurl}}/files/jue_DUM/DUM.pdf)&nbsp;&nbsp;&nbsp;&nbsp;[slides]({{site.baseurl}}/files/jue_DUM/DUM_data.zip)
+	: [slides]({{site.baseurl}}/files/jue_DUM/DUM_data.zip)
 <br/>
 
-- 2018, Using Landsat and Nighttime Lights for Supervised Pixel-Based Image Classification of Urban Land Cover, **Remote Sensing of Environment**
+- 2018, [Using Landsat and Nighttime Lights for Supervised Pixel-Based Image Classification of Urban Land Cover]({{site.baseurl}}/files/rse_ULNLSPBIC/ULNLSPBIC.pdf), **Remote Sensing of Environment**
 	: (Goldblatt, Stuhlmacher, Tellman, Clinton, Hanson, Georgescu, Wang, Serrano-Candela, Cheng, Balling)
-	: [pdf]({{site.baseurl}}/files/rse_ULNLSPBIC/ULNLSPBIC.pdf)
 <br/>
 	
-- 2017, Organizational Barriers to Technology Adoption: Evidence from Soccer-ball Producers in Pakistan, **Quarterly Journal of Economics** 
+- 2017, [Organizational Barriers to Technology Adoption: Evidence from Soccer-ball Producers in Pakistan]({{site.baseurl}}/files/qje_OBTAP/OBTA.pdf), **Quarterly Journal of Economics** 
 	: (Atkin, Chaudhry, Chaudry, Verhoogen)
-	: [pdf]({{site.baseurl}}/files/qje_OBTAP/OBTA.pdf)
 <br/>
 
-- 2017, Exporting and Firm Performance: Evidence from a Randomized Trial, **Quarterly Journal of Economics** [Editor's Choice]
+- 2017, [Exporting and Firm Performance: Evidence from a Randomized Trial]({{site.baseurl}}/files/qje_EFP/EFP.pdf), **Quarterly Journal of Economics** [Editor's Choice]
 	: (Atkin, Osman)
-	: [pdf]({{site.baseurl}}/files/qje_EFP/EFP.pdf)&nbsp;&nbsp;&nbsp;&nbsp;[slides]({{site.baseurl}}/files/qje_EFP/EFP_slides.pdf)
+	: [slides]({{site.baseurl}}/files/qje_EFP/EFP_slides.pdf)
 <br/>
 
-- 2016, Detecting the Boundaries of Urban Areas in India: A Dataset for Pixel-Based Image Classification in Google Earth Engine, **Remote Sensing**
+- 2016, [Detecting the Boundaries of Urban Areas in India: A Dataset for Pixel-Based Image Classification in Google Earth Engine]({{site.baseurl}}/files/rs_DBUAI/DBUAI.pdf), **Remote Sensing**
 	: (Goldblatt, You, Hanson) 
-	: [pdf]({{site.baseurl}}/files/rs_DBUAI/DBUAI.pdf)
 <br/>
 
-- 2016, On the Orgins and Development of the Pakistan's Soccer-Ball Cluster, **World Bank Economic Review (ABCDE Conference Papers & Proceedings)**
+- 2016, [On the Orgins and Development of the Pakistan's Soccer-Ball Cluster]({{site.baseurl}}/files/wbr_ODPCBC/ODPCBC.pdf), **World Bank Economic Review (ABCDE Conference Papers & Proceedings)**
 	: (Atkin, Chaudhry, Chaudry, Raza)
-	: [pdf]({{site.baseurl}}/files/wbr_ODPCBC/ODPCBC.pdf)
 <br/>
 
-- 2016, Measuring the Unequal Gains from Trade, **Quarterly Journal of Economics** 
+- 2016, [Measuring the Unequal Gains from Trade]({{site.baseurl}}/files/qje_MUGFT/MUGFT.pdf), **Quarterly Journal of Economics** 
 	: (Fajgelbaum)
-	: [pdf]({{site.baseurl}}/files/qje_MUGFT/MUGFT.pdf)
 <br/>
 
-- 2016, Prices, Markups and Trade Reform, **Econometrica**
+- 2016, [Prices, Markups and Trade Reform]({{site.baseurl}}/files/ecma_PMTR/PMTR.pdf), **Econometrica**
 	: (De Loecker, Goldberg, Pavcnik).
-	: [pdf]({{site.baseurl}}/files/ecma_PMTR/PMTR.pdf)
 <br/>
 
-- 2015, Mark-up and Cost Dispersion Across Firms: Direct Evidence from Producer Surveys in Pakistan, **American Economic Review Papers & Proceedings**
+- 2015, [Mark-up and Cost Dispersion Across Firms: Direct Evidence from Producer Surveys in Pakistan]({{site.baseurl}}/files/aerpp_MCDAF/MCDAF.pdf), **American Economic Review Papers & Proceedings**
 	: (Atkin, Chaudhry, Chaudry, Verhoogen)
-	: [pdf]({{site.baseurl}}/files/aerpp_MCDAF/MCDAF.pdf)
 <br/>
 
-- 2013, Trade Liberalization and Embedded Institutional Reform: Evidence from Chinese Exporters, **American Economic Review**
+- 2013, [Trade Liberalization and Embedded Institutional Reform: Evidence from Chinese Exporters]({{site.baseurl}}/files/aer_TLEIR/TLEIR.pdf), **American Economic Review**
 	: (Schott, Wei)
-	: [pdf]({{site.baseurl}}/files/aer_TLEIR/TLEIR.pdf)&nbsp;&nbsp;&nbsp;&nbsp;[data](https://sompks4.github.io/sub_data.html)&nbsp;&nbsp;&nbsp;&nbsp;[slides]({{site.baseurl}}/files/aer_TLEIR/TLEIR_slides.pptx)
+	: [data](https://sompks4.github.io/sub_data.html)&nbsp;&nbsp;&nbsp;&nbsp;[slides]({{site.baseurl}}/files/aer_TLEIR/TLEIR_slides.pptx)
 <br/>
 
-- 2013, Import Competition and Quality Upgrading, **Review of Economics and Statistics**
+- 2013, [Import Competition and Quality Upgrading]({{site.baseurl}}/files/restat_ICQU/ICQU.pdf), **Review of Economics and Statistics**
 	: (Amiti)
-	: [pdf]({{site.baseurl}}/files/restat_ICQU/ICQU.pdf)
 <br/>
 
-- 2011, Trade Liberalization and Firm Productivity: The Case of India, **Review of Economics and Statistics**
+- 2011, [Trade Liberalization and Firm Productivity: The Case of India]({{site.baseurl}}/files/restat_TFLP/TFLP.pdf), **Review of Economics and Statistics**
 	: (Topalova)
-	: [pdf]({{site.baseurl}}/files/restat_TFLP/TFLP.pdf)&nbsp;&nbsp;&nbsp;&nbsp;[appendix]({{site.baseurl}}/files/restat_TFLP/TLFP_appendix.pdf)
+	: [appendix]({{site.baseurl}}/files/restat_TFLP/TLFP_appendix.pdf)
 <br/>
 
-- 2011, The Role of Intermediaries in Facilitating Trade, **Journal of International Economics** 
+- 2011, [The Role of Intermediaries in Facilitating Trade]({{site.baseurl}}/files/jie_RIFT/RIFT.pdf), **Journal of International Economics** 
 	: (Ahn, Wei)
-	: [pdf]({{site.baseurl}}/files/jie_RIFT/RIFT.pdf)&nbsp;&nbsp;&nbsp;&nbsp;[appendix]({{site.baseurl}}/files/jie_RIFT/RIFT_appendix.pdf)&nbsp;&nbsp;&nbsp;&nbsp;[data]
+	: [appendix]({{site.baseurl}}/files/jie_RIFT/RIFT_appendix.pdf)&nbsp;&nbsp;&nbsp;&nbsp;[data]
 <br/>
 
-- 2010, Imported Intermediate Inputs and Domestic Product Growth: Evidence from India, **Quarterly Journal of Economics** 
+- 2010, [Imported Intermediate Inputs and Domestic Product Growth: Evidence from India]({{site.baseurl}}/files/qje_IIIDPG/IIDPG.pdf), **Quarterly Journal of Economics** 
 	:(Goldberg, Pavcnik, Topalova)
-	: [pdf]({{site.baseurl}}/files/qje_IIIDPG/IIDPG.pdf)
 <br/>
 
-- 2010, The Long and Short (of) Quality Ladders, **Review of Economic Studies**
-	: [pdf]({{site.baseurl}}/files/restud_LSQL/LSQL.pdf)&nbsp;&nbsp;&nbsp;&nbsp;[data]({{site.baseurl}}/files/restud_LSQL/ladders_100113.zip)
+- 2010, [The Long and Short (of) Quality Ladders]({{site.baseurl}}/files/restud_LSQL/LSQL.pdf), **Review of Economic Studies**
+	: [data]({{site.baseurl}}/files/restud_LSQL/ladders_100113.zip)
 <br/>
 
-- 2010, Multi-product Firms and Product Turnover in the Developing World: Evidence from India, **Review of Economics and Statistics** 
+- 2010, [Multi-product Firms and Product Turnover in the Developing World: Evidence from India]({{site.baseurl}}/files/restat_MFPTDW/MFPTDW.pdf), **Review of Economics and Statistics** 
 	: (Goldberg, Pavcnik,Topalova)
-	: [pdf]({{site.baseurl}}/files/restat_MFPTDW/MFPTDW.pdf)&nbsp;&nbsp;&nbsp;&nbsp;[appendix]({{site.baseurl}}/files/restat_mp/MFPTDW_appendix.pdf)
+	: [appendix]({{site.baseurl}}/files/restat_mp/MFPTDW_appendix.pdf)
 <br/>
 
-- 2019, Trade Liberalization and New Imported Inputs, **American Economic Review Papers and Proceedings** 
+- 2019, [Trade Liberalization and New Imported Inputs]({{site.baseurl}}/files/aerpp_TLNII/TLNII.pdf), **American Economic Review Papers and Proceedings** 
 	: (Goldberg, Pavcnik, Topalova)
-	: [pdf]({{site.baseurl}}/files/aerpp_TLNII/TLNII.pdf)
 <br/>
 
 ### Working Projects
@@ -114,22 +102,20 @@ tags: [jekyll]
 
 ### Book Chapters/Notes
 
-- 2016, Special Economic Zones for Myanmar, International Growth Centre
+- 2016, [Special Economic Zones for Myanmar]({{site.baseurl}}/files/policy/sez/SEZs-in-Myanmar) , International Growth Centre
 	: (Teachout) 
-	: [pdf]({{site.baseurl}}/files/policy/sez/SEZs-in-Myanmar) 
 <br/>	
 
-- 2015, Comment on [*Grasp the Large, Let Go of the Small*](https://www.nber.org/papers/w21006), *Brookings Papers in Economic Activity*.
-	: [pdf]({{site.baseurl}}/files/book_HS/CHS.pdf)
-<br/>
+- 2015, [Comment on "Grasp the Large, Let Go of the Small" by Hseih and Song]({{site.baseurl}}/files/book_HS/CHS.pdf), *Brookings Papers in Economic Activity*.
+	: 
+<br/>[pdf]
 
-- 2013, Variety In, Variety Out: Imported Inputs and Product Scope Expansion in India, *Reforms and Economic Transformation in India*. 
+- 2013, [Variety In, Variety Out: Imported Inputs and Product Scope Expansion in India]({{site.baseurl}}/files/book_VIVO/VIVO.pdf), *Reforms and Economic Transformation in India*. 
 	: (Goldberg, Pavcnik)
-	: [pdf]({{site.baseurl}}/files/book_VIVO/VIVO.pdf)
 <br/>
 
-- 2009, China's Experience under the Multifiber Arrangement and the Agreement on Textile and Clothing, *China's Growing Role in World Trade*. 
+- 2009, [China's Experience under the Multifiber Arrangement and the Agreement on Textile and Clothing][pdf]({{site.baseurl}}/files/book_MFA/MFA.pdf), *China's Growing Role in World Trade*. 
 	: (Brambilla, Schott)
-	: [pdf]({{site.baseurl}}/files/book_MFA/MFA.pdf)&nbsp;&nbsp;&nbsp;&nbsp;[data](https://sompks4.github.io/sub_data.html)
+	: [data](https://sompks4.github.io/sub_data.html)
 <br/>
 
