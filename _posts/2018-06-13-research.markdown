@@ -7,18 +7,18 @@ tags: [jekyll]
 ### Publications
 
 - 2020, The Return to Protectionism, **Quarterly Journal of Economics** [Editor's Choice]
-::(Goldberg, Fajgelbaum, Kennedy)
-::[pdf]({{site.baseurl}}/files/qje_RTP/RTP.pdf)&nbsp;&nbsp;&nbsp;&nbsp;[+2019 update]({{site.baseurl}}/files/qje_RTP/RTP_update.pdf)&nbsp;&nbsp;&nbsp;&nbsp;[slides]({{site.baseurl}}/files/qje_RTP/RTP_slides.pdf)&nbsp;&nbsp;&nbsp;&nbsp;[data]({{site.baseurl}}/files/qje_RTP/RTP_data.zip)
+	::(Goldberg, Fajgelbaum, Kennedy)
+	::[pdf]({{site.baseurl}}/files/qje_RTP/RTP.pdf)&nbsp;&nbsp;&nbsp;&nbsp;[+2019 update]({{site.baseurl}}/files/qje_RTP/RTP_update.pdf)&nbsp;&nbsp;&nbsp;&nbsp;[slides]({{site.baseurl}}/files/qje_RTP/RTP_slides.pdf)&nbsp;&nbsp;&nbsp;&nbsp;[data]({{site.baseurl}}/files/qje_RTP/RTP_data.zip)
 <br/>
 
 - 2020, How Distortions Alter the Impacts of International Trade in Developing Countries, **Annual Review of Economics** 
-::(Aktin)
-::[pdf]({{site.baseurl}}/files/are_DAIIT/DAIIT.pdf)
+	::(Aktin)
+	::[pdf]({{site.baseurl}}/files/are_DAIIT/DAIIT.pdf)
 <br/>
 
 - 2019, Measuring Productivity: Lessons from Tailored Surveys and Productivity Benchmarking, **American Economic Review Papers & Proceedings**
-::(Atkin, Osman)
-::[pdf]({{site.baseurl}}/files/aerpp_MPTSPB/MPTSPB.pdf)
+	::(Atkin, Osman)
+	::[pdf]({{site.baseurl}}/files/aerpp_MPTSPB/MPTSPB.pdf)
 <br/>
 
 - 2019, Detecting Urban Markets with Satellite Imagery: An Application to India, **Journal of Urban Economics**
