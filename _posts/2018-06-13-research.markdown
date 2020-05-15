@@ -7,8 +7,8 @@ tags: [jekyll]
 ### Publications
 
 - 2020, [The Return to Protectionism]({{site.baseurl}}/files/qje_RTP/RTP.pdf), **Quarterly Journal of Economics** [Editor's Choice]
-    * w/ P. Goldberg, P. Fajgelbaum, P. Kennedy
-    * [+2019 update]({{site.baseurl}}/files/qje_RTP/RTP_update.pdf)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[slides]({{site.baseurl}}/files/qje_RTP/RTP_slides.pdf)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[data]({{site.baseurl}}/files/qje_RTP/RTP_data.zip)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[summary](https://voxeu.org/article/return-protectionism)
+        * w/ P. Goldberg, P. Fajgelbaum, P. Kennedy
+        * [+2019 update]({{site.baseurl}}/files/qje_RTP/RTP_update.pdf)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[slides]({{site.baseurl}}/files/qje_RTP/RTP_slides.pdf)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[data]({{site.baseurl}}/files/qje_RTP/RTP_data.zip)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[summary](https://voxeu.org/article/return-protectionism)
 <br/>
 <br/>
 
@@ -102,17 +102,17 @@ tags: [jekyll]
 <br/>
 
 - 2010, [The Long and Short (of) Quality Ladders]({{site.baseurl}}/files/restud_LSQL/LSQL.pdf), **Review of Economic Studies**
-	: [data]({{site.baseurl}}/files/restud_LSQL/ladders_100113.zip)
+    - * [data]({{site.baseurl}}/files/restud_LSQL/ladders_100113.zip)
 <br/>
 <br/>
 
 - 2010, [Multi-product Firms and Product Turnover in the Developing World: Evidence from India]({{site.baseurl}}/files/restat_MFPTDW/MFPTDW.pdf), **Review of Economics and Statistics** 
     * w/ P. Goldberg, N. Pavcnik, P. Topalova
-	: [appendix]({{site.baseurl}}/files/restat_mp/MFPTDW_appendix.pdf)
+    - [appendix]({{site.baseurl}}/files/restat_mp/MFPTDW_appendix.pdf)
 <br/>
 <br/>
 
-- 2019, [Trade Liberalization and New Imported Inputs]({{site.baseurl}}/files/aerpp_TLNII/TLNII.pdf), **American Economic Review Papers and Proceedings** 
+- 2009, [Trade Liberalization and New Imported Inputs]({{site.baseurl}}/files/aerpp_TLNII/TLNII.pdf), **American Economic Review Papers and Proceedings** 
     * w/ P. Goldberg, N. Pavcnik, P. Topalova
 <br/>
 <br/>
