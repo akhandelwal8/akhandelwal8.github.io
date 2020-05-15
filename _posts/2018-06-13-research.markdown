@@ -4,5 +4,8 @@ categories: [jekyll]
 tags: [jekyll]
 ---
 
-[file1]({{ site.baseurl }}/files/variety_inout/bookdraft_19.pdf)
+
+
+### Book Chapters
+- Variety In, Variety Out: Imported Inputs and Product Scope Expansion in India, *Reforms and Economic Transformation in India*, 2013. (P. Goldberg, N. Pavcnik). [pdf]({{ site.baseurl }}/files/variety_inout/bookdraft_19.pdf)
 
