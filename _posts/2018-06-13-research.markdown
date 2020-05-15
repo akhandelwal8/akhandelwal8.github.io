@@ -5,12 +5,10 @@ tags: [jekyll]
 ---
 
 ### Publications
+
+2. 2010, Multi-product Firms and Product Turnover in the Developing World: Evidence from India, *Review of Economics and Statistics*. (P. Goldberg, N, Pavcnik, P. Topalova). [pdf]({{site.baseurl}}/files/restat_mp/MFPTDW_gkpt.pdf) [appendix]({{site.baseurl}}/files/restat_mp/MFPTDW_gkpt_appendix.pdf)
+
 1. 2019, Trade Liberalization and New Imported Inputs, **American Economic Review Papers and Proceedings**. (P. Goldberg, N. Pavcnik, and P. Topalova) [pdf]({{site.baseurl}}/files/aerpp_new_imported_inputs/TLNII_gkpt.pdf)
-
-
-
-
-
 
 ### Working Projects
 - Communication Frictions and Knowledge Transfers: Evidence from FDI (L. Guillouet, R. Macchiavello, M. Teachout)
