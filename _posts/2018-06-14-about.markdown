@@ -1,9 +1,14 @@
 ---
-title:  "About"
+title:  "Affiliations"
 categories: [jekyll]
 tags: [jekyll]
 ---
-#Affiliations
 
-##Columbia GSB, *Review of Economics and Statistics* (Co-Editor), *NBER*, *BREAD*, *JPAL*, *IGC*, *Brookings Non-Resident Fellow*
+- [Columbia GSB](https://www8.gsb.columbia.edu/)
+- [Review of Economics and Statistics (Co-Chair)](https://www.mitpressjournals.org/loi/rest)
+- [JPAL](https://www.povertyactionlab.org/)
+- [NBER](https://nber.org/)
+- [BREAD](http://ibread.org/bread/)
+- [IGC](https://www.theigc.org/)
+- [Brookings (Non-Resident Fellow)](https://www.brookings.edu/)
 
