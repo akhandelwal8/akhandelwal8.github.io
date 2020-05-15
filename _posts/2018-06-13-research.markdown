@@ -1,11 +1,8 @@
 ---
-title:  "Research"
+title:  "Publications"
 categories: [jekyll]
 tags: [jekyll]
 ---
 
-Test
+[file1]({{ site.baseurl }}/files/variety_inout/bookdraft_19.pdf)
 
-# Publications
-
-[file1](http://www.econ.ucla.edu/pfajgelbaum/RTP1.pdf)
