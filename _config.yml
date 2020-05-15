@@ -1,6 +1,8 @@
 # Site settings
 title: Amit Khandelwal
-description: Chazen Professor of Global Business, Columbia GSB
+description: Chazen Professor of Global Business
+Economics Division
+Columbia GSB
 url: 'https://akhandelwal8.github.io'
 baseurl: ""
 google_analytics: #'UA-154586808-1'
