@@ -6,10 +6,9 @@ tags: [jekyll]
 
 ### Publications
 
-- 2013, Trade Liberalization and Embedded Institutional Reform: Evidence from Chinese Exporters, **American Economic Review**. (Schott, Wei). 
-	[pdf]({{site.baseurl}}/files/aer_TLEIR/TLEIR.pdf)	[data](https://sompks4.github.io/sub_data.html)	[slides]({{site.baseurl}}/files/aer_TLEIR/TLEIR_slides.pptx)
+- 2013, Trade Liberalization and Embedded Institutional Reform: Evidence from Chinese Exporters, **American Economic Review**. (Schott, Wei)
+	: [pdf]({{site.baseurl}}/files/aer_TLEIR/TLEIR.pdf) [data](https://sompks4.github.io/sub_data.html)	[slides]({{site.baseurl}}/files/aer_TLEIR/TLEIR_slides.pptx)
 
-	Slides, Data (US, Canada, EU), Source Data
 
 - 2013, Import Competition and Quality Upgrading, *Review of Economics and Statistics*. (Amiti)
 	[pdf]({{site.baseurl}}/files/restat_ICQU/ICQU.pdf)
@@ -40,8 +39,9 @@ tags: [jekyll]
 ### Book Chapters/Notes
 
 - 2016, Special Economic Zones for Myanmar, International Growth Centre
-	- (with Teachout) 
-	- [pdf]({{site.baseurl}}/files/policy/sez/SEZs-in-Myanmar) 
+	[pdf]({{site.baseurl}}/files/policy/sez/SEZs-in-Myanmar) 
+	(with Teachout) 
+	
 
 - 2015, Comment on [*Grasp the Large, Let Go of the Small*](https://www.nber.org/papers/w21006), *Brookings Papers in Economic Activity*.
 	[pdf]({{site.baseurl}}/files/book_HS/CHS.pdf)
