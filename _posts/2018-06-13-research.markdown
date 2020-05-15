@@ -6,6 +6,11 @@ tags: [jekyll]
 
 ### Publications
 
+- 2013, Import Competition and Quality Upgrading, *Review of Economics and Statistics*. (Amiti)
+
+	[pdf]({{site.baseurl}}/files/restat_ICQU/ICQU.pdf)
+
+
 - 2011, Trade Liberalization and Firm Productivity: The Case of India, **Review of Economics and Statistics**. (Topalova)
 	
 	[pdf]({{site.baseurl}}/files/restat_TFLP/TFLP.pdf) [appendix]({{site.baseurl}}/files/restat_TFLP/TLFP_appendix.pdf)
