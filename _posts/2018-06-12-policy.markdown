@@ -1,8 +1,24 @@
 ---
-title:  "Policy, Non-Technical Writings"
+title:  "Policy"
 categories: [jekyll]
 tags: [jekyll]
 ---
 
 
-# TBA
+- [Return to Protectionism](https://voxeu.org/article/return-protectionism), voxeu, 2019. (P. Fajgelbaum, P. Goldberg, P. Kennedy)
+
+- [Satellite imagery: The future of tracking urban markets](https://voxdev.org/topic/infrastructure-urbanisation/satellite-imagery-future-tracking-urban-markets), voxdev, 2018. (G. Hanson)
+
+- [Incentivising technology adoption in Pakistani firms](https://voxdev.org/topic/technology-innovation/incentivising-technology-adoption-pakistani-firms), voxdev, 2017. (D. Atkin, A. Chaudhry, E. Verhoogen)
+
+- [Import competition the quality of domestic goods](https://voxdev.org/topic/firms-trade/import-competition-and-quality-domestic-goods), voxdev, 2017. (M. Amiti)
+
+- Special Economic Zones for Myanmar IGC, 2016. (M. Teachout) [pdf]({{site.baseurl}}/files/policy/sez/SEZs-in-Myanmar)
+
+- [Pro-poor bias of trade: New research on the expenditure channel](https://voxeu.org/article/pro-poor-bias-trade-new-research-expenditure-channel), voxeu, 2015. (P. Fajgelbaum)
+
+- [Exports firm performance: Randomised trial evidence](https://voxeu.org/article/exports-and-firm-performance-randomised-trial-evidence), voxeu, 2015. (D. Atkin, A. Osman)
+
+- [The hidden gains from trade liberalisation](https://voxeu.org/article/hidden-gains-trade-liberalisation), voxeu, 2013. (P. Schott, S.J. Wei).
+
+- [Imported inputs domestic product growth in India](https://voxeu.org/article/imported-inputs-and-domestic-product-growth-india), voxeu, 2008. (P. Goldberg, N. Pavcnik)
