@@ -4,31 +4,8 @@ categories: [jekyll]
 tags: [jekyll]
 ---
 
-<p>My primary fields are Urban Economics, Applied Micro and Industrial Organization.
-</p>
+Test
 
-<!---
-<h3 id="job-market-paper">Job Market Paper</h3>
-<ul>
-  <h4><b>Title of Paper</b>
-(<a href=" target="_blank"><em>Draft</em></a>)(<a href="" target="_blank"><em>Slides</em></a>)</h4>
-<details><summary>Abstract:</summary><p><font size="2">Abstract here</details>
-</ul>
--->
-<h4 id="working-papers"><strong>Working Papers</strong></h4>
-<ul>
-  <h5><b>Informational Barriers to Accessing Demand: Experimental Evidence from Liberian Firms</b>, (with <a href="https://sites.google.com/site/jonashjort/" target="_blank"><em>Jonas Hjort</em></a> and <a href="https://golvine.com/" target="_blank"><em>Golvine de Rochambeau</em></a>)
-<!--(<a href=".{{ site.baseurl }}/files/Paper2.pdf" target="_blank"><em>Draft</em></a>)--></h5>
-<details><summary>Abstract:</summary><p><font size="2">We hypothesize that many productive firms in poor countries stagnate due to informational barriers to accessing existing demand. To investigate, we gave a randomly chosen subset of Liberian firms the opportunity to participate in a 10 day-long training program. The program exclusively teaches how to bid on contracts from large buyers that are awarded through a formal procurement process. Overall, the program increased the number of bids firms submit; the total number and quality of contracts won; and the number of contracts won through other channels than a formal bidding process. We then show via a regularization procedure that, relative to otherwise similar firms, the impact of the program is especially large for firms that use the Internet at baseline. We interpret these results through a simple theoretical framework in which a “keys-to-the-door” training program facilitates firms’ growth by boosting their ability to win contracts they bid on, and firms that face lower costs of finding and selecting appropriate contracts to bid on—for example those that use the Internet—benefit more. This interpretation is supported by the way in which the differential impact of the program for firms that use the Internet varies with the share of tenders for contracts
-published around the time of treatment that are published online. In sum this paper’s findings suggest that, to grow, firms need both knowledge of how to win contracts and the technology necessary to cost-effectively access demand.</font></p></details>
-</ul>
+# Publications
 
-<h4 id="work-in-progress"><strong>Work in Progress</strong></h4>
-<ul>
-  <h5><b>What drives efficiency in Ridesharing markets?</b>, (with <em>Motaz al-Chanati</em>)</h5>
-</ul> 
-
-<ul>
-  <h5><b>Transparency and Polarization of Political Speech : Evidence from Canada</b>, (with <em>William Labasi Samartino</em>)</h5>
-</ul> 
-
+[file1](http://www.econ.ucla.edu/pfajgelbaum/RTP1.pdf)
