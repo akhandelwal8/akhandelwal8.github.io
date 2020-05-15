@@ -7,30 +7,30 @@ tags: [jekyll]
 ### Publications
 
 - 2015, Mark-up and Cost Dispersion Across Firms: Direct Evidence from Producer Surveys in Pakistan, **American Economic Review Papers & Proceedings**
-	: (w/ D. Atkin, A. Chaudhry, S. Chaudry and E. Verhoogen)
-	: [pdf]({{site.baseurl}}/files/aerpp_MCDAF/MCDAF.pdf)
+		: (w/ D. Atkin, A. Chaudhry, S. Chaudry and E. Verhoogen)
+		: [pdf]({{site.baseurl}}/files/aerpp_MCDAF/MCDAF.pdf)
 
 - 2013, Trade Liberalization and Embedded Institutional Reform: Evidence from Chinese Exporters, **American Economic Review**. (Schott, Wei)
-	: [pdf]({{site.baseurl}}/files/aer_TLEIR/TLEIR.pdf)&nbsp;&nbsp;[data](https://sompks4.github.io/sub_data.html)&nbsp;&nbsp;[slides]({{site.baseurl}}/files/aer_TLEIR/TLEIR_slides.pptx)
+		: [pdf]({{site.baseurl}}/files/aer_TLEIR/TLEIR.pdf)&nbsp;&nbsp;&nbsp;&nbsp;[data](https://sompks4.github.io/sub_data.html)&nbsp;&nbsp;&nbsp;&nbsp;[slides]({{site.baseurl}}/files/aer_TLEIR/TLEIR_slides.pptx)
 
 
 - 2013, Import Competition and Quality Upgrading, *Review of Economics and Statistics*. (Amiti)
-	: [pdf]({{site.baseurl}}/files/restat_ICQU/ICQU.pdf)
+		: [pdf]({{site.baseurl}}/files/restat_ICQU/ICQU.pdf)
 
 - 2011, Trade Liberalization and Firm Productivity: The Case of India, **Review of Economics and Statistics**. (Topalova)
-	: [pdf]({{site.baseurl}}/files/restat_TFLP/TFLP.pdf)&nbsp;&nbsp;[appendix]({{site.baseurl}}/files/restat_TFLP/TLFP_appendix.pdf)
+		: [pdf]({{site.baseurl}}/files/restat_TFLP/TFLP.pdf)&nbsp;&nbsp;&nbsp;&nbsp;[appendix]({{site.baseurl}}/files/restat_TFLP/TLFP_appendix.pdf)
 
 - 2011, The Role of Intermediaries in Facilitating Trade, **Journal of International Economics**. (Ahn, Wei)
-	: [pdf]({{site.baseurl}}/files/jie_RIFT/RIFT.pdf)&nbsp;&nbsp;[appendix]({{site.baseurl}}/files/jie_RIFT/RIFT_appendix.pdf)&nbsp;&nbsp;[data]
+		: [pdf]({{site.baseurl}}/files/jie_RIFT/RIFT.pdf)&nbsp;&nbsp;&nbsp;&nbsp;[appendix]({{site.baseurl}}/files/jie_RIFT/RIFT_appendix.pdf)&nbsp;&nbsp;&nbsp;&nbsp;[data]
 
 - 2010, Imported Intermediate Inputs and Domestic Product Growth: Evidence from India, **Quarterly Journal of Economics**. (Goldberg, Pavcnik, Topalova)
-	: [pdf]({{site.baseurl}}/files/qje_IIIDPG/IIDPG.pdf)
+		: [pdf]({{site.baseurl}}/files/qje_IIIDPG/IIDPG.pdf)
 
 - 2010, The Long and Short (of) Quality Ladders, **Review of Economic Studies**.
-	: [pdf]({{site.baseurl}}/files/restud_LSQL/LSQL.pdf)&nbsp;&nbsp;[data]({{site.baseurl}}/files/restud_LSQL/ladders_100113.zip)
+	: [pdf]({{site.baseurl}}/files/restud_LSQL/LSQL.pdf)&nbsp;&nbsp;&nbsp;&nbsp;[data]({{site.baseurl}}/files/restud_LSQL/ladders_100113.zip)
 
 - 2010, Multi-product Firms and Product Turnover in the Developing World: Evidence from India, **Review of Economics and Statistics**. (Goldberg, Pavcnik,Topalova)
-	: [pdf]({{site.baseurl}}/files/restat_MFPTDW/MFPTDW.pdf)&nbsp;&nbsp;[appendix]({{site.baseurl}}/files/restat_mp/MFPTDW_appendix.pdf)
+	: [pdf]({{site.baseurl}}/files/restat_MFPTDW/MFPTDW.pdf)&nbsp;&nbsp;&nbsp;&nbsp;[appendix]({{site.baseurl}}/files/restat_mp/MFPTDW_appendix.pdf)
 
 - 2019, Trade Liberalization and New Imported Inputs, **American Economic Review Papers and Proceedings**. (Goldberg, Pavcnik, Topalova)
 	: [pdf]({{site.baseurl}}/files/aerpp_TLNII/TLNII.pdf)
@@ -54,6 +54,6 @@ tags: [jekyll]
 	: [pdf]({{site.baseurl}}/files/book_VIVO/VIVO.pdf)
 
 - 2009, China's Experience under the Multifiber Arrangement and the Agreement on Textile and Clothing, *China's Growing Role in World Trade*. (Brambilla, Schott)
-	: [pdf]({{site.baseurl}}/files/book_MFA/MFA.pdf)&nbsp;&nbsp;[data](https://sompks4.github.io/sub_data.html)
+	: [pdf]({{site.baseurl}}/files/book_MFA/MFA.pdf)&nbsp;&nbsp;&nbsp;&nbsp;[data](https://sompks4.github.io/sub_data.html)
 
 
