@@ -7,9 +7,9 @@ tags: [jekyll]
 ### Publications
 
 
-3. 2010, The Long and Short (of) Quality Ladders, *Review of Economic Studies*. [pdf]({{site.baseurl}}/files/restud_LSQL/LSQL.pdf) [Ladders]({{site.baseurl}}/files/restud_LSQL/ladders_100113.zip)
+3. 2010, The Long and Short (of) Quality Ladders, *Review of Economic Studies*. [pdf]({{site.baseurl}}/files/restud_LSQL/lsql.pdf) | [Ladders]({{site.baseurl}}/files/restud_LSQL/ladders_100113.zip)
 
-2. 2010, Multi-product Firms and Product Turnover in the Developing World: Evidence from India, *Review of Economics and Statistics*. (P. Goldberg, N, Pavcnik, P. Topalova). [pdf]({{site.baseurl}}/files/restat_mp/MFPTDW_gkpt.pdf) [appendix]({{site.baseurl}}/files/restat_mp/MFPTDW_gkpt_appendix.pdf)
+2. 2010, Multi-product Firms and Product Turnover in the Developing World: Evidence from India, *Review of Economics and Statistics*. (P. Goldberg, N, Pavcnik, P. Topalova). [pdf]({{site.baseurl}}/files/restat_mp/MFPTDW_gkpt.pdf)|[appendix]({{site.baseurl}}/files/restat_mp/MFPTDW_gkpt_appendix.pdf)
 
 1. 2019, Trade Liberalization and New Imported Inputs, **American Economic Review Papers and Proceedings**. (P. Goldberg, N. Pavcnik, and P. Topalova) [pdf]({{site.baseurl}}/files/aerpp_new_imported_inputs/TLNII_gkpt.pdf)
 
@@ -26,6 +26,6 @@ tags: [jekyll]
 [pdf]({{site.baseurl}}/files/variety_inout/bookdraft_19.pdf)
 
 - China's Experience under the Multifiber Arrangement and the Agreement on Textile and Clothing, *China's Growing Role in World Trade*, 2009. (I. Brambilla, P. Schott). 
-[pdf]({{site.baseurl}}/files/mfa_boook/mfa_china_147.pdf) [data](https://sompks4.github.io/sub_data.html)
+[pdf]({{site.baseurl}}/files/mfa_boook/mfa_china_147.pdf)|[data](https://sompks4.github.io/sub_data.html)
 
 
