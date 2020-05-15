@@ -5,6 +5,12 @@ tags: [jekyll]
 ---
 
 ### Publications
+1. 2019, Trade Liberalization and New Imported Inputs, **American Economic Review Papers and Proceedings**. (P. Goldberg, N. Pavcnik, and P. Topalova
+
+[pdf]({{site.baseurl}}/files/aerpp_new_imported_inputs/TLNII_gkpt.pdf)
+
+
+
 
 
 
