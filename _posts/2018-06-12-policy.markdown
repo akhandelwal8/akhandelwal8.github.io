@@ -13,7 +13,6 @@ tags: [jekyll]
 
 - [Import competition the quality of domestic goods](https://voxdev.org/topic/firms-trade/import-competition-and-quality-domestic-goods), voxdev, 2017. (M. Amiti)
 
-- [Special Economic Zones for Myanmar IGC]({{site.baseurl}}/files/policy/sez/SEZs-in-Myanmar), IGC, 2016. (M. Teachout)
 
 - [Pro-poor bias of trade: New research on the expenditure channel](https://voxeu.org/article/pro-poor-bias-trade-new-research-expenditure-channel), voxeu, 2015. (P. Fajgelbaum)
 
