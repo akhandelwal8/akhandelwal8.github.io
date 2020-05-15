@@ -7,8 +7,8 @@ tags: [jekyll]
 ### Publications
 
 - 2020, [The Return to Protectionism]({{site.baseurl}}/files/qje_RTP/RTP.pdf), **Quarterly Journal of Economics** [Editor's Choice]
-	: <li>w/ Goldberg, Fajgelbaum, Kennedy)</li>
-	: [+2019 update]({{site.baseurl}}/files/qje_RTP/RTP_update.pdf)&nbsp;&nbsp;&nbsp;&nbsp;[slides]({{site.baseurl}}/files/qje_RTP/RTP_slides.pdf)&nbsp;&nbsp;&nbsp;&nbsp;[data]({{site.baseurl}}/files/qje_RTP/RTP_data.zip)
+<li>w/ Goldberg, Fajgelbaum, Kennedy)
+<li>[+2019 update]({{site.baseurl}}/files/qje_RTP/RTP_update.pdf)&nbsp;&nbsp;&nbsp;&nbsp;[slides]({{site.baseurl}}/files/qje_RTP/RTP_slides.pdf)&nbsp;&nbsp;&nbsp;&nbsp;[data]({{site.baseurl}}/files/qje_RTP/RTP_data.zip)</li>
 <br/>
 
 - 2020, [How Distortions Alter the Impacts of International Trade in Developing Countries]({{site.baseurl}}/files/are_DAIIT/DAIIT.pdf), **Annual Review of Economics** 
