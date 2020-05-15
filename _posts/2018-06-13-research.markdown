@@ -7,8 +7,7 @@ tags: [jekyll]
 ### Publications
 
 - 2020, [The Return to Protectionism]({{site.baseurl}}/files/qje_RTP/RTP.pdf), **Quarterly Journal of Economics** [Editor's Choice]
-        * w/ P. Goldberg, P. Fajgelbaum, P. Kennedy
-        * [+2019 update]({{site.baseurl}}/files/qje_RTP/RTP_update.pdf)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[slides]({{site.baseurl}}/files/qje_RTP/RTP_slides.pdf)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[data]({{site.baseurl}}/files/qje_RTP/RTP_data.zip)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[summary](https://voxeu.org/article/return-protectionism)
+        * w/ P. Goldberg, P. Fajgelbaum, P. Kennedy&nbsp;&nbsp;&nbsp;[+2019 update]({{site.baseurl}}/files/qje_RTP/RTP_update.pdf)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[slides]({{site.baseurl}}/files/qje_RTP/RTP_slides.pdf)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[data]({{site.baseurl}}/files/qje_RTP/RTP_data.zip)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[summary](https://voxeu.org/article/return-protectionism)
 <br/>
 <br/>
 
@@ -23,8 +22,7 @@ tags: [jekyll]
 <br/>
 
 - 2019, [Detecting Urban Markets with Satellite Imagery: An Application to India]({{site.baseurl}}/files/jue_DUM/DUM.pdf), **Journal of Urban Economics**
-    * w/ K. Baragwanath, R. Goldblatt, G. Hanson
-    * [data]({{site.baseurl}}/files/jue_DUM/DUM_data.zip)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[summary](https://voxdev.org/topic/infrastructure-urbanisation/satellite-imagery-future-tracking-urban-markets)
+    * w/ K. Baragwanath, R. Goldblatt, G. Hanson &nbsp;&nbsp;&nbsp;[data]({{site.baseurl}}/files/jue_DUM/DUM_data.zip)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[summary](https://voxdev.org/topic/infrastructure-urbanisation/satellite-imagery-future-tracking-urban-markets)
 <br/>
 <br/>
 
@@ -102,7 +100,7 @@ tags: [jekyll]
 <br/>
 
 - 2010, [The Long and Short (of) Quality Ladders]({{site.baseurl}}/files/restud_LSQL/LSQL.pdf), **Review of Economic Studies**
-    - * [data]({{site.baseurl}}/files/restud_LSQL/ladders_100113.zip)
+    - [data]({{site.baseurl}}/files/restud_LSQL/ladders_100113.zip)
 <br/>
 <br/>
 
