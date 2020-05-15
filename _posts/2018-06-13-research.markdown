@@ -14,7 +14,6 @@ tags: [jekyll]
 - 2013, Import Competition and Quality Upgrading, *Review of Economics and Statistics*. (Amiti)
 	[pdf]({{site.baseurl}}/files/restat_ICQU/ICQU.pdf)
 
-
 - 2011, Trade Liberalization and Firm Productivity: The Case of India, **Review of Economics and Statistics**. (Topalova)
 	[pdf]({{site.baseurl}}/files/restat_TFLP/TFLP.pdf)	[appendix]({{site.baseurl}}/files/restat_TFLP/TLFP_appendix.pdf)
 
@@ -38,7 +37,12 @@ tags: [jekyll]
 - Using Satellite Imagery to Detect the Impacts of New Highways: An Application to India (Baragwanath, Hanson, Liu, Park)
 
 
-### Book Chapters
+### Book Chapters/Notes
+
+- 2016, Special Economic Zones for Myanmar, International Growth Centre
+	- (with Teachout) 
+	- [pdf]({{site.baseurl}}/files/policy/sez/SEZs-in-Myanmar) 
+
 - 2015, Comment on [*Grasp the Large, Let Go of the Small*](https://www.nber.org/papers/w21006), *Brookings Papers in Economic Activity*.
 	[pdf]({{site.baseurl}}/files/book_HS/CHS.pdf)
 
