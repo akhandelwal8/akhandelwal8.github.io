@@ -10,11 +10,16 @@ tags: [jekyll]
 4. 2010, Imported Intermediate Inputs and Domestic Product Growth: Evidence from India, **Quarterly Journal of Economics**. (Goldberg, Pavcnik, Topalova)
 
 3. 2010, The Long and Short (of) Quality Ladders, **Review of Economic Studies**.
-...[pdf]({{site.baseurl}}/files/restud_LSQL/lsql.pdf) | [Ladders]({{site.baseurl}}/files/restud_LSQL/ladders_100113.zip)
 
-2. 2010, Multi-product Firms and Product Turnover in the Developing World: Evidence from India, **Review of Economics and Statistics**. (Goldberg, Pavcnik,Topalova) [pdf]({{site.baseurl}}/files/restat_mp/MFPTDW_gkpt.pdf)|[appendix]({{site.baseurl}}/files/restat_mp/MFPTDW_gkpt_appendix.pdf)
+	[pdf]({{site.baseurl}}/files/restud_LSQL/lsql.pdf) [Ladders]({{site.baseurl}}/files/restud_LSQL/ladders_100113.zip)
 
-1. 2019, Trade Liberalization and New Imported Inputs, **American Economic Review Papers and Proceedings**. (Goldberg, Pavcnik, Topalova) [pdf]({{site.baseurl}}/files/aerpp_new_imported_inputs/TLNII_gkpt.pdf)
+2. 2010, Multi-product Firms and Product Turnover in the Developing World: Evidence from India, **Review of Economics and Statistics**. (Goldberg, Pavcnik,Topalova)
+
+	[pdf]({{site.baseurl}}/files/restat_mp/MFPTDW_gkpt.pdf)|[appendix]({{site.baseurl}}/files/restat_mp/MFPTDW_gkpt_appendix.pdf)
+
+1. 2019, Trade Liberalization and New Imported Inputs, **American Economic Review Papers and Proceedings**. (Goldberg, Pavcnik, Topalova)
+
+	[pdf]({{site.baseurl}}/files/aerpp_new_imported_inputs/TLNII_gkpt.pdf)
 
 ### Working Projects
 - Communication Frictions and Knowledge Transfers: Evidence from FDI (Guillouet, Macchiavello, Teachout)
@@ -22,13 +27,15 @@ tags: [jekyll]
 
 
 ### Book Chapters
-- Comment on [*Grasp the Large, Let Go of the Small*](https://www.nber.org/papers/w21006), *Brookings Papers in Economic Activity*, 2015.
-[pdf]({{site.baseurl}}/files/comment_hsieh_song/comment_hsieh_song.pdf)
+- 2015, Comment on [*Grasp the Large, Let Go of the Small*](https://www.nber.org/papers/w21006), *Brookings Papers in Economic Activity*.
 
-- Variety In, Variety Out: Imported Inputs and Product Scope Expansion in India, *Reforms and Economic Transformation in India*, 2013. (Goldberg, Pavcnik). 
-[pdf]({{site.baseurl}}/files/variety_inout/bookdraft_19.pdf)
+	[pdf]({{site.baseurl}}/files/comment_hsieh_song/comment_hsieh_song.pdf)
 
-- China's Experience under the Multifiber Arrangement and the Agreement on Textile and Clothing, *China's Growing Role in World Trade*, 2009. (Brambilla, Schott). 
+- 2013, Variety In, Variety Out: Imported Inputs and Product Scope Expansion in India, *Reforms and Economic Transformation in India*. (Goldberg, Pavcnik)
+
+	[pdf]({{site.baseurl}}/files/variety_inout/bookdraft_19.pdf)
+
+- 2009, China's Experience under the Multifiber Arrangement and the Agreement on Textile and Clothing, *China's Growing Role in World Trade*. (Brambilla, Schott). 
 [pdf]({{site.baseurl}}/files/mfa_boook/mfa_china_147.pdf)|[data](https://sompks4.github.io/sub_data.html)
 
 
