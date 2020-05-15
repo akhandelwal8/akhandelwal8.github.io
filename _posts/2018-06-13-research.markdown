@@ -4,6 +4,13 @@ categories: [jekyll]
 tags: [jekyll]
 ---
 
+### Publications
+
+
+
+### Working Projects
+- Communication Frictions and Knowledge Transfers: Evidence from FDI (L. Guillouet, R. Macchiavello, M. Teachout)
+- Using Satellite Imagery to Detect the Impacts of New Highways: An Application to India (K. Baragwanath, G. Hanson, C. Liu, H. Park)
 
 
 ### Book Chapters
