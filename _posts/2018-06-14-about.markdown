@@ -11,4 +11,5 @@ tags: [jekyll]
 - [BREAD](http://ibread.org/bread/)
 - [IGC](https://www.theigc.org/)
 - [Brookings (Non-Resident Fellow)](https://www.brookings.edu/)
+- [CFR (Term Member)](https://www.cfr.org/)
 
