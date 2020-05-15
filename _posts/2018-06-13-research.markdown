@@ -7,7 +7,7 @@ tags: [jekyll]
 ### Publications
 
 - 2020, [The Return to Protectionism]({{site.baseurl}}/files/qje_RTP/RTP.pdf), **Quarterly Journal of Economics** [Editor's Choice]
-        * w/ P. Goldberg, P. Fajgelbaum, P. Kennedy&nbsp;&nbsp;&nbsp;[+2019 update]({{site.baseurl}}/files/qje_RTP/RTP_update.pdf)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[slides]({{site.baseurl}}/files/qje_RTP/RTP_slides.pdf)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[data]({{site.baseurl}}/files/qje_RTP/RTP_data.zip)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[summary](https://voxeu.org/article/return-protectionism)
+		* w/ P. Goldberg, P. Fajgelbaum, P. Kennedy&nbsp;&nbsp;&nbsp;[+2019 update]({{site.baseurl}}/files/qje_RTP/RTP_update.pdf)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[slides]({{site.baseurl}}/files/qje_RTP/RTP_slides.pdf)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[data]({{site.baseurl}}/files/qje_RTP/RTP_data.zip)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[summary](https://voxeu.org/article/return-protectionism)
 <br/>
 <br/>
 
@@ -32,8 +32,7 @@ tags: [jekyll]
 <br/>
 
 - 2017, [Organizational Barriers to Technology Adoption: Evidence from Soccer-ball Producers in Pakistan]({{site.baseurl}}/files/qje_OBTAP/OBTAP.pdf), **Quarterly Journal of Economics** 
-    * w/ D. Atkin, A. Chaudhry, S. Chaudry, E. Verhoogen
-    * [summary](https://voxdev.org/topic/technology-innovation/incentivising-technology-adoption-pakistani-firms)
+    * w/ D. Atkin, A. Chaudhry, S. Chaudry, E. Verhoogen&nbsp;&nbsp;&nbsp;[summary](https://voxdev.org/topic/technology-innovation/incentivising-technology-adoption-pakistani-firms)
 <br/>
 <br/>
 
@@ -54,8 +53,7 @@ tags: [jekyll]
 <br/>
 
 - 2016, [Measuring the Unequal Gains from Trade]({{site.baseurl}}/files/qje_MUGFT/MUGFT.pdf), **Quarterly Journal of Economics** 
-    * w/ P. Fajgelbaum
-    * [summary](https://voxeu.org/article/pro-poor-bias-trade-new-research-expenditure-channel)
+    * w/ P. Fajgelbaum&nbsp;&nbsp;&nbsp;[summary](https://voxeu.org/article/pro-poor-bias-trade-new-research-expenditure-channel)
 <br/>
 <br/>
 
@@ -70,8 +68,7 @@ tags: [jekyll]
 <br/>
 
 - 2013, [Trade Liberalization and Embedded Institutional Reform: Evidence from Chinese Exporters]({{site.baseurl}}/files/aer_TLEIR/TLEIR.pdf), **American Economic Review**
-    * w/ P. Schott, S.J. Wei
-    * [data](https://sompks4.github.io/sub_data.html)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[slides]({{site.baseurl}}/files/aer_TLEIR/TLEIR_slides.pptx)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[summary](https://voxeu.org/article/hidden-gains-trade-liberalisation)
+    * w/ P. Schott, S.J. Wei&nbsp;&nbsp;&nbsp;[data](https://sompks4.github.io/sub_data.html)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[slides]({{site.baseurl}}/files/aer_TLEIR/TLEIR_slides.pptx)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[summary](https://voxeu.org/article/hidden-gains-trade-liberalisation)
 <br/>
 <br/>
 
