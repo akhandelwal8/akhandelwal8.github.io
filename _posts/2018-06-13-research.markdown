@@ -6,6 +6,9 @@ tags: [jekyll]
 
 ### Publications
 
+- 2011, Trade Liberalization and Firm Productivity: The Case of India, **Review of Economics and Statistics**. (Topalova)
+	[pdf]({{site.baseurl}}/files/restat_TFLP/TFLP.pdf) [appendix]({{site.baseurl}}/files/restat_TFLP/TLFP_appendix.pdf)
+
 - 2011, The Role of Intermediaries in Facilitating Trade, **Journal of International Economics**. (Ahn, Wei)
 	[pdf]({{site.baseurl}}/files/jie_RIFT/RIFT.pdf) [appendix]({{site.baseurl}}/files/jie_RIFT/RIFT_appendix.pdf) [data]
 
