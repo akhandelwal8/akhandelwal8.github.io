@@ -7,5 +7,10 @@ tags: [jekyll]
 
 
 ### Book Chapters
+- Comment on [*Grasp the Large, Let Go of the Small*](https://www.nber.org/papers/w21006), *Brookings Papers in Economic Activity*, 2015. [pdf]({{site.baseurl}}/files/comment_hsieh_song/comment_hsieh_song.pdf)
+
 - Variety In, Variety Out: Imported Inputs and Product Scope Expansion in India, *Reforms and Economic Transformation in India*, 2013. (P. Goldberg, N. Pavcnik). [pdf]({{site.baseurl}}/files/variety_inout/bookdraft_19.pdf)
+
+- China's Experience under the Multifiber Arrangement and the Agreement on Textile and Clothing, *China's Growing Role in World Trade*, 2009. (I. Brambilla, P. Schott). [pdf]({{site.baseurl}}/files/mfa_boook/mfa_china_147.pdf) [data](https://sompks4.github.io/sub_data.html)
+
 
