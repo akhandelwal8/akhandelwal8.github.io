@@ -3,6 +3,7 @@ title:  "Affiliations"
 categories: [jekyll]
 tags: [jekyll]
 ---
+I am an economist who studies international trade and economic development.
 
 - [Columbia GSB](https://www8.gsb.columbia.edu/)
 - [Review of Economics and Statistics (Co-Chair)](https://www.mitpressjournals.org/loi/rest)
@@ -10,6 +11,6 @@ tags: [jekyll]
 - [NBER](https://nber.org/)
 - [BREAD](http://ibread.org/bread/)
 - [IGC](https://www.theigc.org/)
-- [Brookings (Non-Resident Fellow)](https://www.brookings.edu/)
-- [CFR (Term Member)](https://www.cfr.org/)
+- [Brookings](https://www.brookings.edu/) (Non-Resident Fellow)
+- [CFR](https://www.cfr.org/) (Term Member)
 
