@@ -6,6 +6,24 @@ tags: [jekyll]
 
 ### Publications
 
+
+
+- Detecting Urban Markets with Satellite Imagery: An Application to India, **Journal of Urban Economics**
+	: (Baragwanath, Goldblatt, Hanson)
+	: [pdf]({{site.baseurl}}/files/jue_DUM/DUM.pdf)&nbsp;&nbsp;&nbsp;&nbsp;[slides]({{site.baseurl}}/files/jue_DUM/DUM_data.zip)
+
+- 2020, The Return to Protectionism, **Quarterly Journal of Economics** [Editor's Choice]
+	: (Goldberg, Fajgelbaum, Kennedy) 
+	: [pdf]({{site.baseurl}}/files/qje_RTP/RTP.pdf)&nbsp;&nbsp;&nbsp;&nbsp;[+2019 update]({{site.baseurl}}/files/qje_RTP/RTP_update.pdf)&nbsp;&nbsp;&nbsp;&nbsp;[slides]({{site.baseurl}}/files/qje_RTP/RT_slides.pdf)&nbsp;&nbsp;&nbsp;&nbsp;[data]({{site.baseurl}}/files/qje_RTP/RT_data.zip)
+
+- 2020, How Distortions Alter the Impacts of International Trade in Developing Countries, **Annual Review of Economics** 
+	: (Aktin)
+	: [pdf]({{site.baseurl}}/files/are_DAIIT/DAIIT.pdf)
+
+- 2019, Measuring Productivity: Lessons from Tailored Surveys and Productivity Benchmarking, **American Economic Review Papers & Proceedings**
+	: (Atkin, Osman)
+	: [pdf]({{site.baseurl}}/files/aerpp_MPTSPB/MPTSPB.pdf)
+
 - 2018, Using Landsat and Nighttime Lights for Supervised Pixel-Based Image Classification of Urban Land Cover, **Remote Sensing of Environment**
 	: (Goldblatt, Stuhlmacher, Tellman, Clinton, Hanson, Georgescu, Wang, Serrano-Candela, Cheng, Balling)
 	: [pdf]({{site.baseurl}}/files/rse_ULNLSPBIC/ULNLSPBIC.pdf)
