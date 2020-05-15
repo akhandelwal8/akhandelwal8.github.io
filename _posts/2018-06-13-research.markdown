@@ -7,7 +7,8 @@ tags: [jekyll]
 ### Publications
 
 
-3. 2010, Yuvi Yash The Long and Short (of) Quality Ladders, *Review of Economic Studies*. [pdf]({{site.baseurl}}/files/restud_LSQL/lsql.pdf) | [Ladders]({{site.baseurl}}/files/restud_LSQL/ladders_100113.zip)
+3. 2010, Yuvi Yash The Long and Short (of) Quality Ladders, *Review of Economic Studies*. 
+...[pdf]({{site.baseurl}}/files/restud_LSQL/lsql.pdf) | [Ladders]({{site.baseurl}}/files/restud_LSQL/ladders_100113.zip)
 
 2. 2010, Multi-product Firms and Product Turnover in the Developing World: Evidence from India, *Review of Economics and Statistics*. (P. Goldberg, N, Pavcnik, P. Topalova). [pdf]({{site.baseurl}}/files/restat_mp/MFPTDW_gkpt.pdf)|[appendix]({{site.baseurl}}/files/restat_mp/MFPTDW_gkpt_appendix.pdf)
 
