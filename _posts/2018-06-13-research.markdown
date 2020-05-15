@@ -6,6 +6,10 @@ tags: [jekyll]
 
 ### Publications
 
+- 2016, Prices, Markups and Trade Reform, **Econometrica**
+	: (J. De Loecker, P. Goldberg and N. Pavcnik).
+	: [pdf]({{site.baseurl}}/files/ecma_PMTR/PMTR.pdf)
+
 - 2015, Mark-up and Cost Dispersion Across Firms: Direct Evidence from Producer Surveys in Pakistan, **American Economic Review Papers & Proceedings**
 	: (Atkin, Chaudhry, Chaudry, Verhoogen)
 	: [pdf]({{site.baseurl}}/files/aerpp_MCDAF/MCDAF.pdf)
