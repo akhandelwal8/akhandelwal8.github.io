@@ -21,7 +21,7 @@ tags: [jekyll]
 
 - 2019, [Detecting Urban Markets with Satellite Imagery: An Application to India]({{site.baseurl}}/files/jue_DUM/DUM.pdf), **Journal of Urban Economics**
     * w/ K. Baragwanath, R. Goldblatt, G. Hanson
-    * [slides]({{site.baseurl}}/files/jue_DUM/DUM_data.zip)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[summary](https://voxdev.org/topic/infrastructure-urbanisation/satellite-imagery-future-tracking-urban-markets)
+    * [data]({{site.baseurl}}/files/jue_DUM/DUM_data.zip)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[summary](https://voxdev.org/topic/infrastructure-urbanisation/satellite-imagery-future-tracking-urban-markets)
 <br/>
 
 - 2018, [Using Landsat and Nighttime Lights for Supervised Pixel-Based Image Classification of Urban Land Cover]({{site.baseurl}}/files/rse_ULNLSPBIC/ULNLSPBIC.pdf), **Remote Sensing of Environment**
@@ -108,7 +108,7 @@ tags: [jekyll]
 
 ### Book Chapters/Notes
 
-- 2016, [Special Economic Zones for Myanmar]({{site.baseurl}}/files/policy/sez/SEZs-in-Myanmar) , International Growth Centre
+- 2016, [Special Economic Zones for Myanmar]({{site.baseurl}}/files/policy/sez/SEZs-in-Myanmar), International Growth Centre
     * w/ M. Teachout
 <br/>	
 
