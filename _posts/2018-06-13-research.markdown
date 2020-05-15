@@ -73,26 +73,22 @@ tags: [jekyll]
 <br/>
 
 - 2013, [Import Competition and Quality Upgrading]({{site.baseurl}}/files/restat_ICQU/ICQU.pdf), **Review of Economics and Statistics**
-    * w/ M. Amiti
-    * [summary](https://voxdev.org/topic/firms-trade/import-competition-and-quality-domestic-goods)
+    * w/ M. Amiti&nbsp;&nbsp;&nbsp;[summary](https://voxdev.org/topic/firms-trade/import-competition-and-quality-domestic-goods)
 <br/>
 <br/>
 
 - 2011, [Trade Liberalization and Firm Productivity: The Case of India]({{site.baseurl}}/files/restat_TFLP/TFLP.pdf), **Review of Economics and Statistics**
-    * w/ P. Topalova
-    * [appendix]({{site.baseurl}}/files/restat_TFLP/TLFP_appendix.pdf)
+    * w/ P. Topalova&nbsp;&nbsp;&nbsp;[appendix]({{site.baseurl}}/files/restat_TFLP/TLFP_appendix.pdf)
 <br/>
 <br/>
 
 - 2011, [The Role of Intermediaries in Facilitating Trade]({{site.baseurl}}/files/jie_RIFT/RIFT.pdf), **Journal of International Economics** 
-    * w/ J.B. Ahn, S.J. Wei
-	: [appendix]({{site.baseurl}}/files/jie_RIFT/RIFT_appendix.pdf)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[data]
+    * w/ J.B. Ahn, S.J. Wei&nbsp;&nbsp;&nbsp;[appendix]({{site.baseurl}}/files/jie_RIFT/RIFT_appendix.pdf)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[data]
 <br/>
 <br/>
 
 - 2010, [Imported Intermediate Inputs and Domestic Product Growth: Evidence from India]({{site.baseurl}}/files/qje_IIIDPG/IIDPG.pdf), **Quarterly Journal of Economics** 
-    * w/ P. Goldberg, N. Pavcnik, P. Topalova
-    * [summary](https://voxeu.org/article/imported-inputs-and-domestic-product-growth-india)
+    * w/ P. Goldberg, N. Pavcnik, P. Topalova&nbsp;&nbsp;&nbsp;[summary](https://voxeu.org/article/imported-inputs-and-domestic-product-growth-india)
 <br/>
 <br/>
 
@@ -102,8 +98,7 @@ tags: [jekyll]
 <br/>
 
 - 2010, [Multi-product Firms and Product Turnover in the Developing World: Evidence from India]({{site.baseurl}}/files/restat_MFPTDW/MFPTDW.pdf), **Review of Economics and Statistics** 
-    * w/ P. Goldberg, N. Pavcnik, P. Topalova
-    - [appendix]({{site.baseurl}}/files/restat_mp/MFPTDW_appendix.pdf)
+    * w/ P. Goldberg, N. Pavcnik, P. Topalova&nbsp;&nbsp;&nbsp;[appendix]({{site.baseurl}}/files/restat_mp/MFPTDW_appendix.pdf)
 <br/>
 <br/>
 
@@ -127,6 +122,7 @@ tags: [jekyll]
 - 2016, [Special Economic Zones for Myanmar]({{site.baseurl}}/files/policy/sez/SEZs-in-Myanmar), International Growth Centre
     * w/ M. Teachout
 <br/>	
+<br/>
 
 - 2015, [Comment on "Grasp the Large, Let Go of the Small" by Hseih and Song]({{site.baseurl}}/files/book_HS/CHS.pdf), *Brookings Papers in Economic Activity*.
 <br/>
@@ -138,8 +134,7 @@ tags: [jekyll]
 <br/>
 
 - 2009, [China's Experience under the Multifiber Arrangement and the Agreement on Textile and Clothing]({{site.baseurl}}/files/book_MFA/MFA.pdf), *China's Growing Role in World Trade*. 
-    * w/ Brambilla, Schott
-    * [data](https://sompks4.github.io/sub_data.html)
+    * w/ Brambilla, Schott&nbsp;&nbsp;&nbsp;[data](https://sompks4.github.io/sub_data.html)
 <br/>
 <br/>
 
