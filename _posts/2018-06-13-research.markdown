@@ -6,49 +6,75 @@ tags: [jekyll]
 
 ### Publications
 
+- 2018, Using Landsat and Nighttime Lights for Supervised Pixel-Based Image Classification of Urban Land Cover, **Remote Sensing of Environment**
+	: (Goldblatt, Stuhlmacher, Tellman, Clinton, Hanson, Georgescu, Wang, Serrano-Candela, Cheng, Balling)
+	: [pdf]({{site.baseurl}}/files/rse_ULNLSPBIC/ULNLSPBIC.pdf)
+	
+- 2017, Organizational Barriers to Technology Adoption: Evidence from Soccer-ball Producers in Pakistan, **Quarterly Journal of Economics** 
+	: (Atkin, Chaudhry, Chaudry, Verhoogen)
+	: [pdf]({{site.baseurl}}/files/qje_OBTAP/OBTA.pdf)
+
+- 2017, Exporting and Firm Performance: Evidence from a Randomized Trial, **Quarterly Journal of Economics** [Editor's Choice]
+	: (Atkin, Osman)
+	: [pdf]({{site.baseurl}}/files/qje_EFP/EFP.pdf)&nbsp;&nbsp;&nbsp;&nbsp;[slides]({{site.baseurl}}/files/qje_EFP/EFP_slides.pdf)
+
+- 2016, Detecting the Boundaries of Urban Areas in India: A Dataset for Pixel-Based Image Classification in Google Earth Engine, **Remote Sensing**
+	: (Goldblatt, You, Hanson) 
+	: [pdf]({{site.baseurl}}/files/rs_DBUAI/DBUAI.pdf)
+
+- 2016, On the Orgins and Development of the Pakistan's Soccer-Ball Cluster, **World Bank Economic Review (ABCDE Conference Papers & Proceedings)**
+	: (Atkin, Chaudhry, Chaudry, Raza)
+	: [pdf]({{site.baseurl}}/files/wbr_ODPCBC/ODPCBC.pdf)
+
+
+- 2016, Measuring the Unequal Gains from Trade, **Quarterly Journal of Economics** 
+	: (Fajgelbaum)
+	: [pdf]({{site.baseurl}}/files/qje_MUGFT/MUGFT.pdf)
+
 - 2016, Prices, Markups and Trade Reform, **Econometrica**
-	: (J. De Loecker, P. Goldberg and N. Pavcnik).
+	: (De Loecker, Goldberg, Pavcnik).
 	: [pdf]({{site.baseurl}}/files/ecma_PMTR/PMTR.pdf)
+
 
 - 2015, Mark-up and Cost Dispersion Across Firms: Direct Evidence from Producer Surveys in Pakistan, **American Economic Review Papers & Proceedings**
 	: (Atkin, Chaudhry, Chaudry, Verhoogen)
 	: [pdf]({{site.baseurl}}/files/aerpp_MCDAF/MCDAF.pdf)
 
-<br/><br/>
+
 - 2013, Trade Liberalization and Embedded Institutional Reform: Evidence from Chinese Exporters, **American Economic Review**
 	: (Schott, Wei)
 	: [pdf]({{site.baseurl}}/files/aer_TLEIR/TLEIR.pdf)&nbsp;&nbsp;&nbsp;&nbsp;[data](https://sompks4.github.io/sub_data.html)&nbsp;&nbsp;&nbsp;&nbsp;[slides]({{site.baseurl}}/files/aer_TLEIR/TLEIR_slides.pptx)
 
-<br/><br/>
+
 - 2013, Import Competition and Quality Upgrading, *Review of Economics and Statistics*.
 	: (Amiti)
 	: [pdf]({{site.baseurl}}/files/restat_ICQU/ICQU.pdf)
 
-<br/><br/>
+
 - 2011, Trade Liberalization and Firm Productivity: The Case of India, **Review of Economics and Statistics**.
 	: (Topalova)
 	: [pdf]({{site.baseurl}}/files/restat_TFLP/TFLP.pdf)&nbsp;&nbsp;&nbsp;&nbsp;[appendix]({{site.baseurl}}/files/restat_TFLP/TLFP_appendix.pdf)
 
-<br/><br/>
+
 - 2011, The Role of Intermediaries in Facilitating Trade, **Journal of International Economics**. 
 	: (Ahn, Wei)
 	: [pdf]({{site.baseurl}}/files/jie_RIFT/RIFT.pdf)&nbsp;&nbsp;&nbsp;&nbsp;[appendix]({{site.baseurl}}/files/jie_RIFT/RIFT_appendix.pdf)&nbsp;&nbsp;&nbsp;&nbsp;[data]
 
-<br/><br/>
+
 - 2010, Imported Intermediate Inputs and Domestic Product Growth: Evidence from India, **Quarterly Journal of Economics**. 
 	:(Goldberg, Pavcnik, Topalova)
 	: [pdf]({{site.baseurl}}/files/qje_IIIDPG/IIDPG.pdf)
 
-<br/><br/>
+
 - 2010, The Long and Short (of) Quality Ladders, **Review of Economic Studies**.
 	: [pdf]({{site.baseurl}}/files/restud_LSQL/LSQL.pdf)&nbsp;&nbsp;&nbsp;&nbsp;[data]({{site.baseurl}}/files/restud_LSQL/ladders_100113.zip)
 
-<br/><br/>
+
 - 2010, Multi-product Firms and Product Turnover in the Developing World: Evidence from India, **Review of Economics and Statistics**. 
 	: (Goldberg, Pavcnik,Topalova)
 	: [pdf]({{site.baseurl}}/files/restat_MFPTDW/MFPTDW.pdf)&nbsp;&nbsp;&nbsp;&nbsp;[appendix]({{site.baseurl}}/files/restat_mp/MFPTDW_appendix.pdf)
 
-<br/><br/>
+
 - 2019, Trade Liberalization and New Imported Inputs, **American Economic Review Papers and Proceedings**. 
 	: (Goldberg, Pavcnik, Topalova)
 	: [pdf]({{site.baseurl}}/files/aerpp_TLNII/TLNII.pdf)
