@@ -6,6 +6,10 @@ tags: [jekyll]
 
 ### Publications
 
+- 2015, Mark-up and Cost Dispersion Across Firms: Direct Evidence from Producer Surveys in Pakistan, **American Economic Review Papers & Proceedings**
+	: (w/ D. Atkin, A. Chaudhry, S. Chaudry and E. Verhoogen)
+	: [pdf]({{site.baseurl}}/files/aerpp_MCDAF/MCDAF.pdf)
+
 - 2013, Trade Liberalization and Embedded Institutional Reform: Evidence from Chinese Exporters, **American Economic Review**. (Schott, Wei)
 	: [pdf]({{site.baseurl}}/files/aer_TLEIR/TLEIR.pdf)&nbsp;&nbsp;[data](https://sompks4.github.io/sub_data.html)&nbsp;&nbsp;[slides]({{site.baseurl}}/files/aer_TLEIR/TLEIR_slides.pptx)
 
