@@ -1,12 +1,12 @@
 ---
-title:  "Affiliations"
+title:  "About"
 categories: [jekyll]
 tags: [jekyll]
 ---
 I am an economist who studies international trade and economic development.
 
 - [Columbia GSB](https://www8.gsb.columbia.edu/)
-- [Review of Economics and Statistics (Co-Chair)](https://www.mitpressjournals.org/loi/rest)
+- [Review of Economics and Statistics](https://www.mitpressjournals.org/loi/rest) (Co-Chair)
 - [JPAL](https://www.povertyactionlab.org/)
 - [NBER](https://nber.org/)
 - [BREAD](http://ibread.org/bread/)
