@@ -1,0 +1,7 @@
+---
+title:  "About"
+categories: [jekyll]
+tags: [jekyll]
+---
+Affiliations: Columbia GSB, Chazen Professor of Global Business. Co-Editor, Review of Economics and Statistics. NBER, BREAD, JPAL, IGC, Brookings
+
