@@ -96,7 +96,7 @@ tags: [jekyll]
 <br/>
 <br/>
 
-- 2010, [The Long and Short (of) Quality Ladders]({{site.baseurl}}/files/restud_LSQL/LSQL.pdf), **Review of Economic Studies**&nbsp;&nbsp;&nbsp;&#10098;[dat]({{site.baseurl}}/files/restud_LSQL/ladders_100113.zip), [bib]({{site.baseurl}}/files/restud_LSQL/LSQL_bib.bib)&#10099;
+- 2010, [The Long and Short (of) Quality Ladders]({{site.baseurl}}/files/restud_TLSQL/TLSQL.pdf), **Review of Economic Studies**&nbsp;&nbsp;&nbsp;&#10098;[dat]({{site.baseurl}}/files/restud_TLSQL/ladders_100113.zip), [bib]({{site.baseurl}}/files/restud_TLSQL/TLSQL_bib.bib)&#10099;
 <br/>
 <br/>
 
@@ -122,7 +122,7 @@ tags: [jekyll]
 
 ### Chapters & Policy Notes
 
-- 2016, [Special Economic Zones for Myanmar]({{site.baseurl}}/files/policy/sez/SEZs-in-Myanmar), International Growth Centre
+- 2016, [Special Economic Zones for Myanmar]({{site.baseurl}}/files/book_SEZ/book_SEZ.pdf), International Growth Centre
     * w/ M. Teachout
 <br/>	
 <br/>
