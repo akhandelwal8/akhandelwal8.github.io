@@ -136,7 +136,7 @@ tags: [jekyll]
 <br/>
 <br/>
 
-- 2009, [China's Experience under the Multifiber Arrangement and the Agreement on Textile and Clothing]({{site.baseurl}}/files/book_MFA/MFA.pdf), *China's Growing Role in World Trade*. &nbsp;&nbsp;&nbsp;[data](https://sompks4.github.io/sub_data.html)
+- 2009, [China's Experience under the Multifiber Arrangement and the Agreement on Textile and Clothing]({{site.baseurl}}/files/book_MFA/MFA.pdf), *China's Growing Role in World Trade*.&nbsp;&nbsp;&nbsp;[data](https://sompks4.github.io/sub_data.html)&nbsp;&nbsp;&nbsp;[bib]({{site.baseurl}}/files/book_MFA/MFA_bib.bib)
     * w/ Brambilla, Schott
 <br/>
 <br/>
