@@ -5,7 +5,7 @@ tags: [jekyll]
 ---
 
 ### Publications
-- 2020, [The Return to Protectionism]({{site.baseurl}}/files/qje_RTP/RTP.pdf), **Quarterly Journal of Economics** [Editor's Choice]&nbsp;&nbsp;&nbsp;\[[update]({{site.baseurl}}/files/qje_RTP/RTP_update.pdf),[slides]({{site.baseurl}}/files/qje_RTP/RTP_slides.pdf),[data]({{site.baseurl}}/files/qje_RTP/RTP_data.zip),[bib]({{site.baseurl}}/files/qje_RTP/RTP_bib.bib),[vox](https://voxeu.org/article/return-protectionism)\]
+- 2020, [The Return to Protectionism]({{site.baseurl}}/files/qje_RTP/RTP.pdf), **Quarterly Journal of Economics** [Editor's Choice]&nbsp;&nbsp;&nbsp;\[[+2019 waves]({{site.baseurl}}/files/qje_RTP/RTP_update.pdf),[sld]({{site.baseurl}}/files/qje_RTP/RTP_slides.pdf),[data]({{site.baseurl}}/files/qje_RTP/RTP_data.zip),[bib]({{site.baseurl}}/files/qje_RTP/RTP_bib.bib),[vox](https://voxeu.org/article/return-protectionism)\]
     * w/ P. Goldberg, P. Fajgelbaum, P. Kennedy
     * <a href="https://www.latimes.com/business/hiltzik/la-fi-hiltzik-trump-trade-war-20190304-story.html/" style="color:black;">LA Times</a>, <a href="https://www.economist.com/finance-and-economics/2019/04/04/trade-talks-will-probably-end-with-tariffs-still-in-place/" style="color:black;">Economist 2019.04</a>, <a href="https://www.economist.com/finance-and-economics/2019/05/09/so-far-donald-trumps-trade-war-has-not-derailed-the-global-economy" style="color:black;">Economist 2019.05</a>, <a href="https://www.piie.com/experts/peterson-perspectives/trade-talks-episode-77-happy-tariffversary" style="color:black">Trade Talks</a>, <a href="https://www.whitehouse.gov/wp-content/uploads/2020/02/2020-Economic-Report-of-the-President-WHCEA.pdf" style="color:black;">CEA</a>
 <br/>
@@ -37,7 +37,7 @@ tags: [jekyll]
 <br/>
 <br/>
 
-- 2017, [Exporting and Firm Performance: Evidence from a Randomized Trial]({{site.baseurl}}/files/qje_EFP/EFP.pdf), **Quarterly Journal of Economics** [Editor's Choice]&nbsp;&nbsp;&nbsp;\[[slides]({{site.baseurl}}/files/qje_EFP/EFP_slides.pdf),[bib]({{site.baseurl}}/files/qje_EFP/EFP_bib.bib),[vox](https://voxeu.org/article/exports-and-firm-performance-randomised-trial-evidence)\]
+- 2017, [Exporting and Firm Performance: Evidence from a Randomized Trial]({{site.baseurl}}/files/qje_EFP/EFP.pdf), **Quarterly Journal of Economics** [Editor's Choice]&nbsp;&nbsp;&nbsp;\[[sld]({{site.baseurl}}/files/qje_EFP/EFP_slides.pdf),[bib]({{site.baseurl}}/files/qje_EFP/EFP_bib.bib),[vox](https://voxeu.org/article/exports-and-firm-performance-randomised-trial-evidence)\]
     * w/ D. Atkin, A. Osman
     * <a href="https://www.forbes.com/sites/realspin/2016/12/09/bringing-gains-from-trade-to-the-arab-world/#574d9ad14d19/" style="color:black;">Forbes</a>, <a href="https://obamawhitehouse.archives.gov/sites/default/files/docs/cea_trade_report_final_non-embargoed_v2.pdf" style="color:black;">CEA</a>, <a href="https://www.bloomberg.com/opinion/articles/2017-12-14/u-s-could-give-exporters-a-helping-hand" style="color:black;">Bloomberg</a>, <a href="https://www.piie.com/experts/peterson-perspectives/trade-talks-episode-62-randomized-trade" style="color:black;">Trade Talks</a>
 <br/>
@@ -70,7 +70,7 @@ tags: [jekyll]
 <br/>
 <br/>
 
-- 2013, [Trade Liberalization and Embedded Institutional Reform: Evidence from Chinese Exporters]({{site.baseurl}}/files/aer_TLEIR/TLEIR.pdf), **American Economic Review**&nbsp;&nbsp;&nbsp;\[[data](https://sompks4.github.io/sub_data.html),[bib]({{site.baseurl}}/files/aer_TLEIR/TLEIR_bib.bib),[slides]({{site.baseurl}}/files/aer_TLEIR/TLEIR_slides.pptx),[vox](https://voxeu.org/article/hidden-gains-trade-liberalisation)\]
+- 2013, [Trade Liberalization and Embedded Institutional Reform: Evidence from Chinese Exporters]({{site.baseurl}}/files/aer_TLEIR/TLEIR.pdf), **American Economic Review**&nbsp;&nbsp;&nbsp;\[[data](https://sompks4.github.io/sub_data.html),[bib]({{site.baseurl}}/files/aer_TLEIR/TLEIR_bib.bib),[sld]({{site.baseurl}}/files/aer_TLEIR/TLEIR_slides.pptx),[vox](https://voxeu.org/article/hidden-gains-trade-liberalisation)\]
     * w/ P. Schott, S.J. Wei
 <br/>
 <br/>
