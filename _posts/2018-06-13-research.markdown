@@ -80,7 +80,7 @@ tags: [jekyll]
 <br/>
 <br/>
 
-- 2011, [Trade Liberalization and Firm Productivity: The Case of India]({{site.baseurl}}/files/restat_TFLP/TFLP.pdf), **Review of Economics and Statistics**&nbsp;&nbsp;&nbsp;&#10098;[app]({{site.baseurl}}/files/restat_TFLP/TLFP_appendix.pdf), [bib]({{site.baseurl}}/files/restat_TFLP/TFLP_bib.bib)&#10099;
+- 2011, [Trade Liberalization and Firm Productivity: The Case of India]({{site.baseurl}}/files/restat_TFLPI/TFLPI.pdf), **Review of Economics and Statistics**&nbsp;&nbsp;&nbsp;&#10098;[app]({{site.baseurl}}/files/restat_TFLPI/TLFP_appendix.pdf), [bib]({{site.baseurl}}/files/restat_TFLPI/TFLPI_bib.bib)&#10099;
     * w/ P. Topalova
 <br/>
 <br/>
