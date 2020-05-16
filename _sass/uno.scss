@@ -1226,8 +1226,8 @@ hr {
 	bottom: 0;
 	left: 0;
 	background-color: rgba(68, 68, 68, 0.6);
-	background-image: -webkit-linear-gradient(-410deg, rgba(68, 68, 68, 0.6) 150%, rgba(0, 0, 0, 0.9));
-	background-image: linear-gradient(140deg,rgba(68, 68, 68, 0.6) 150%, rgba(0, 0, 0, 0.9)); }
+	background-image: -webkit-linear-gradient(-410deg, rgba(68, 68, 68, 0.6) 10%, rgba(0, 0, 0, 0.9));
+	background-image: linear-gradient(140deg,rgba(68, 68, 68, 0.6) 10%, rgba(0, 0, 0, 0.9)); }
 
 .panel-cover__logo {
 	margin-bottom: .2em; }
@@ -1285,23 +1285,23 @@ hr {
 
 .cover-green {
 	background-color: rgba(21, 111, 120, 0.6);
-	background-image: -webkit-linear-gradient(-410deg, rgba(21, 111, 120, 0.6) 150%, rgba(6, 31, 33, 0.8));
-	background-image: linear-gradient(140deg,rgba(21, 111, 120, 0.6) 150%, rgba(6, 31, 33, 0.8)); }
+	background-image: -webkit-linear-gradient(-410deg, rgba(21, 111, 120, 0.6) 10%, rgba(6, 31, 33, 0.8));
+	background-image: linear-gradient(140deg,rgba(21, 111, 120, 0.6) 10%, rgba(6, 31, 33, 0.8)); }
 
 .cover-purple {
 	background-color: rgba(73, 50, 82, 0.6);
-	background-image: -webkit-linear-gradient(-410deg, rgba(73, 50, 82, 0.6) 150%, rgba(17, 11, 19, 0.8));
-	background-image: linear-gradient(140deg,rgba(73, 50, 82, 0.6) 150%, rgba(17, 11, 19, 0.8)); }
+	background-image: -webkit-linear-gradient(-410deg, rgba(73, 50, 82, 0.6) 10%, rgba(17, 11, 19, 0.8));
+	background-image: linear-gradient(140deg,rgba(73, 50, 82, 0.6) 10%, rgba(17, 11, 19, 0.8)); }
 
 .cover-red {
 	background-color: rgba(119, 31, 18, 0.6);
-	background-image: -webkit-linear-gradient(-410deg, rgba(119, 31, 18, 0.6) 150%, rgba(30, 8, 5, 0.8));
-	background-image: linear-gradient(140deg,rgba(119, 31, 18, 0.6) 150%, rgba(30, 8, 5, 0.8)); }
+	background-image: -webkit-linear-gradient(-410deg, rgba(119, 31, 18, 0.6) 10%, rgba(30, 8, 5, 0.8));
+	background-image: linear-gradient(140deg,rgba(119, 31, 18, 0.6) 10%, rgba(30, 8, 5, 0.8)); }
 
 .cover-slate {
 	background-color: rgba(61, 66, 96, 0.6);
-	background-image: -webkit-linear-gradient(-410deg, rgba(61, 66, 96, 0.6) 150%, rgba(21, 23, 34, 0.8));
-	background-image: linear-gradient(140deg,rgba(61, 66, 96, 0.6) 150%, rgba(21, 23, 34, 0.8)); }
+	background-image: -webkit-linear-gradient(-410deg, rgba(61, 66, 96, 0.6) 10%, rgba(21, 23, 34, 0.8));
+	background-image: linear-gradient(140deg,rgba(61, 66, 96, 0.6) 10%, rgba(21, 23, 34, 0.8)); }
 
 .cover-disabled {
 	background: none; }
