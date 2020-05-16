@@ -7,7 +7,7 @@ tags: [jekyll]
 ### Publications
 
 - 2020, [The Return to Protectionism]({{site.baseurl}}/files/qje_RTP/RTP.pdf), **Quarterly Journal of Economics** [Editor's Choice]
-    * w/ P. Goldberg, P. Fajgelbaum, P. Kennedy&nbsp;[update]({{site.baseurl}}/files/qje_RTP/RTP_update.pdf)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[slides]({{site.baseurl}}/files/qje_RTP/RTP_slides.pdf)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[data]({{site.baseurl}}/files/qje_RTP/RTP_data.zip)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[summary](https://voxeu.org/article/return-protectionism)
+    * w/ P. Goldberg, P. Fajgelbaum, P. Kennedy [update]({{site.baseurl}}/files/qje_RTP/RTP_update.pdf)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[slides]({{site.baseurl}}/files/qje_RTP/RTP_slides.pdf)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[data]({{site.baseurl}}/files/qje_RTP/RTP_data.zip)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[summary](https://voxeu.org/article/return-protectionism)
     * <a href="https://www.latimes.com/business/hiltzik/la-fi-hiltzik-trump-trade-war-20190304-story.html/" style="color:black;">LA Times</a>, <a href="https://www.economist.com/finance-and-economics/2019/04/04/trade-talks-will-probably-end-with-tariffs-still-in-place/" style="color:black;">Economist 2019.04</a>, <a href="https://www.economist.com/finance-and-economics/2019/05/09/so-far-donald-trumps-trade-war-has-not-derailed-the-global-economy" style="color:black;">Economist 2019.05</a>, <a href="https://www.piie.com/experts/peterson-perspectives/trade-talks-episode-77-happy-tariffversary" style="color:black">Trade Talks</a> <a href="https://www.whitehouse.gov/wp-content/uploads/2020/02/2020-Economic-Report-of-the-President-WHCEA.pdf" style="color:black;">CEA</a>
 <br/>
 <br/>
@@ -32,8 +32,6 @@ tags: [jekyll]
 <br/>
 <br/>
 
-    * "https://www.citylab.com/life/2017/04/you-can-now-help-map-the-human-footprint-urbanization/522903/" style="color:black;">Citylab</a>
-
 - 2017, [Organizational Barriers to Technology Adoption: Evidence from Soccer-ball Producers in Pakistan]({{site.baseurl}}/files/qje_OBTAP/OBTAP.pdf), **Quarterly Journal of Economics** 
     * w/ D. Atkin, A. Chaudhry, S. Chaudry, E. Verhoogen&nbsp;[summary](https://voxdev.org/topic/technology-innovation/incentivising-technology-adoption-pakistani-firms)
     * <a href="https://www.theatlantic.com/business/archive/2014/07/one-city-in-pakistan-produces-nearly-half-of-the-worlds-soccer-balls/373802/" style="color:black;">Atlantic</a>, <a href="https://newrepublic.com/article/118087/soccer-ball-manufacture-inefficiency-pakistan" style="color:black;">New Republic</a>, <a href="https://blogs.wsj.com/economics/2014/04/28/how-automation-fell-flat-in-the-worlds-soccer-ball-capital/" style="color:black;">WSJ</a>
@@ -42,8 +40,7 @@ tags: [jekyll]
 
 - 2017, [Exporting and Firm Performance: Evidence from a Randomized Trial]({{site.baseurl}}/files/qje_EFP/EFP.pdf), **Quarterly Journal of Economics** [Editor's Choice]
     * w/ D. Atkin, A. Osman&nbsp;&nbsp;&nbsp;[slides]({{site.baseurl}}/files/qje_EFP/EFP_slides.pdf)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[summary](https://voxeu.org/article/exports-and-firm-performance-randomised-trial-evidence)
-
-* <a href="https://www.forbes.com/sites/realspin/2016/12/09/bringing-gains-from-trade-to-the-arab-world/#574d9ad14d19/" style="color:black;">Forbes</a>, <a href="https://obamawhitehouse.archives.gov/sites/default/files/docs/cea_trade_report_final_non-embargoed_v2.pdf" style="color:black;">CEA</a>, <a href="https://www.bloomberg.com/opinion/articles/2017-12-14/u-s-could-give-exporters-a-helping-hand" style="color:black;">Bloomberg</a>, <a href="https://www.piie.com/experts/peterson-perspectives/trade-talks-episode-62-randomized-trade" style="color:black;">Trade Talks</a>
+    * <a href="https://www.forbes.com/sites/realspin/2016/12/09/bringing-gains-from-trade-to-the-arab-world/#574d9ad14d19/" style="color:black;">Forbes</a>, <a href="https://obamawhitehouse.archives.gov/sites/default/files/docs/cea_trade_report_final_non-embargoed_v2.pdf" style="color:black;">CEA</a>, <a href="https://www.bloomberg.com/opinion/articles/2017-12-14/u-s-could-give-exporters-a-helping-hand" style="color:black;">Bloomberg</a>, <a href="https://www.piie.com/experts/peterson-perspectives/trade-talks-episode-62-randomized-trade" style="color:black;">Trade Talks</a>
 <br/>
 <br/>
 
