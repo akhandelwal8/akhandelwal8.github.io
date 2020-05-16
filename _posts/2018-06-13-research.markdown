@@ -5,18 +5,18 @@ tags: [jekyll]
 ---
 
 ### Publications
-- 2020, [The Return to Protectionism]({{site.baseurl}}/files/qje_RTP/RTP.pdf), **Quarterly Journal of Economics** [Editor's Choice]&nbsp;&nbsp;&nbsp;&#10098;[+2019 waves]({{site.baseurl}}/files/qje_RTP/RTP_update.pdf), [sld]({{site.baseurl}}/files/qje_RTP/RTP_slides.pdf), [dat]({{site.baseurl}}/files/qje_RTP/RTP_data.zip), [bib]({{site.baseurl}}/files/qje_RTP/RTP_bib.bib), [vox](https://voxeu.org/article/return-protectionism)&#10099;
+- 2020, [The Return to Protectionism]({{site.baseurl}}/files/qje_RTP/RTP.pdf), **Quarterly Journal of Economics** [Editor's Choice]&nbsp;&nbsp;&nbsp;&#10098;[+2019 waves]({{site.baseurl}}/files/qje_RTP/RTP_update.pdf), [app]({{site.baseurl}}/files/qje_RTP/RTP_appendix.pdf), [sld]({{site.baseurl}}/files/qje_RTP/RTP_slides.pdf), [dat]({{site.baseurl}}/files/qje_RTP/RTP_data.zip), [rep](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/KSOVSE), [bib]({{site.baseurl}}/files/qje_RTP/RTP_bib.bib), [vox](https://voxeu.org/article/return-protectionism)&#10099;
     * w/ P. Goldberg, P. Fajgelbaum, P. Kennedy
     * <a href="https://www.latimes.com/business/hiltzik/la-fi-hiltzik-trump-trade-war-20190304-story.html/" style="color:black;">LA Times</a>, <a href="https://www.economist.com/finance-and-economics/2019/04/04/trade-talks-will-probably-end-with-tariffs-still-in-place/" style="color:black;">Economist 2019.04</a>, <a href="https://www.economist.com/finance-and-economics/2019/05/09/so-far-donald-trumps-trade-war-has-not-derailed-the-global-economy" style="color:black;">Economist 2019.05</a>, <a href="https://www.piie.com/experts/peterson-perspectives/trade-talks-episode-77-happy-tariffversary" style="color:black">Trade Talks</a>, <a href="https://www.whitehouse.gov/wp-content/uploads/2020/02/2020-Economic-Report-of-the-President-WHCEA.pdf" style="color:black;">CEA</a>
 <br/>
 <br/>
 
-- 2020, [How Distortions Alter the Impacts of International Trade in Developing Countries]({{site.baseurl}}/files/are_DAIIT/DAIIT.pdf), **Annual Review of Economics**&nbsp;&nbsp;&nbsp;&#10098;[sld]({{site.baseurl}}/files/are_DAIIT/DAIIT_slides.pdf), [bib]({{site.baseurl}}/files/are_DAIIT/DAIIT_bib.bib), [trade-dev jrs conf](https://egc.yale.edu/trade-and-development-mini-conference),&#10099;
+- 2020, [How Distortions Alter the Impacts of International Trade in Developing Countries]({{site.baseurl}}/files/are_DAIIT/DAIIT.pdf), **Annual Review of Economics**&nbsp;&nbsp;&nbsp;&#10098;[sld]({{site.baseurl}}/files/are_DAIIT/DAIIT_slides.pdf), [bib]({{site.baseurl}}/files/are_DAIIT/DAIIT_bib.bib), [trade-dev jrs conf](https://egc.yale.edu/trade-and-development-mini-conference)&#10099;
     * w/ D. Aktin
 <br/>
 <br/>
 
-- 2019, [Measuring Productivity: Lessons from Tailored Surveys and Productivity Benchmarking]({{site.baseurl}}/files/aerpp_MPTSPB/MPTSPB.pdf), **American Economic Review Papers & Proceedings**&nbsp;&nbsp;&nbsp;&#10098;[sld]({{site.baseurl}}/files/aerpp_MPTSPB/MPTSPB_slides.pdf), [bib]({{site.baseurl}}/files/aerpp_MPTSPB/MPTSPB_bib.bib)&#10099;
+- 2019, [Measuring Productivity: Lessons from Tailored Surveys and Productivity Benchmarking]({{site.baseurl}}/files/aerpp_MPTSPB/MPTSPB.pdf), **American Economic Review Papers & Proceedings**&nbsp;&nbsp;&nbsp;&#10098;[app]({{site.baseurl}}/files/aerpp_MPTSPB/MPTSPB_appendix.pdf), [sld]({{site.baseurl}}/files/aerpp_MPTSPB/MPTSPB_slides.pdf), [rep](https://www.openicpsr.org/openicpsr/project/116452/version/V1/view), [bib]({{site.baseurl}}/files/aerpp_MPTSPB/MPTSPB_bib.bib)&#10099;
     * w/ D. Atkin, A. Osman
 <br/>
 <br/>
@@ -70,7 +70,7 @@ tags: [jekyll]
 <br/>
 <br/>
 
-- 2013, [Trade Liberalization and Embedded Institutional Reform: Evidence from Chinese Exporters]({{site.baseurl}}/files/aer_TLEIR/TLEIR.pdf), **American Economic Review**&nbsp;&nbsp;&nbsp;&#10098;[dat](https://sompks4.github.io/sub_data.html), [bib]({{site.baseurl}}/files/aer_TLEIR/TLEIR_bib.bib), [sld]({{site.baseurl}}/files/aer_TLEIR/TLEIR_slides.pptx), [vox](https://voxeu.org/article/hidden-gains-trade-liberalisation)&#10099;
+- 2013, [Trade Liberalization and Embedded Institutional Reform: Evidence from Chinese Exporters]({{site.baseurl}}/files/aer_TLEIR/TLEIR.pdf), **American Economic Review**&nbsp;&nbsp;&nbsp;&#10098;[app]({{site.baseurl}}/files/aer_TLEIR/TLEIR_appendix.pdf), [dat](https://sompks4.github.io/sub_data.html), [rep](https://www.openicpsr.org/openicpsr/project/112671/version/V1/view), [bib]({{site.baseurl}}/files/aer_TLEIR/TLEIR_bib.bib), [sld]({{site.baseurl}}/files/aer_TLEIR/TLEIR_slides.pptx), [vox](https://voxeu.org/article/hidden-gains-trade-liberalisation)&#10099;
     * w/ P. Schott, S.J. Wei
 <br/>
 <br/>
