@@ -4,7 +4,7 @@ categories: [jekyll]
 tags: [jekyll]
 ---
 
-# Publications
+### Publications
 
 - 2020, [The Return to Protectionism]({{site.baseurl}}/files/qje_RTP/RTP.pdf), **Quarterly Journal of Economics** [Editor's Choice]&nbsp;&nbsp;&nbsp;[update]({{site.baseurl}}/files/qje_RTP/RTP_update.pdf)&nbsp;&nbsp;&nbsp;[slides]({{site.baseurl}}/files/qje_RTP/RTP_slides.pdf)&nbsp;&nbsp;&nbsp;[data]({{site.baseurl}}/files/qje_RTP/RTP_data.zip)&nbsp;&nbsp;&nbsp;[summary](https://voxeu.org/article/return-protectionism)
     * w/ P. Goldberg, P. Fajgelbaum, P. Kennedy 
@@ -111,7 +111,7 @@ tags: [jekyll]
 <br/>
 <br/>
 
-# Working Projects
+### Working Projects
 - Communication Frictions and Knowledge Transfers: Evidence from FDI
     * w/ L. Guillouet, R. Macchiavello, M. Teachout
 <br/>
@@ -121,7 +121,7 @@ tags: [jekyll]
     * w/ K. Baragwanath, G. Hanson, C. Liu, H. Park
 
 
-# Book Chapters, Policy Notes
+### Chapters & Policy Notes
 
 - 2016, [Special Economic Zones for Myanmar]({{site.baseurl}}/files/policy/sez/SEZs-in-Myanmar), International Growth Centre
     * w/ M. Teachout
@@ -142,9 +142,12 @@ tags: [jekyll]
 <br/>
 <br/>
 
-# Cases
+### Cases
 - 2018, [Innovation in Pakistan's Soccer Ball Industry: Barriers to Adoption](https://www8.gsb.columbia.edu/caseworks/node/681), Columbia CaseWorks 180311
     * w/ R.A. Farrokhnia, E. Verhoogen
+<br/>
+<br/>
 - 2017, [Pace Ethiopia: Gaining a Foothold in the Global Footwear Industry](https://www8.gsb.columbia.edu/caseworks/node/644), Columbia CaseWorks 180301
-
+<br/>
+<br/>
 - 2019, [Trade Liberalizations: Evidence from India](https://www8.gsb.columbia.edu/caseworks/node/270), Columbia CaseWorks 090315.
