@@ -8,7 +8,7 @@ tags: [jekyll]
 
 - 2020, [The Return to Protectionism]({{site.baseurl}}/files/qje_RTP/RTP.pdf), **Quarterly Journal of Economics** [Editor's Choice]
     * w/ P. Goldberg, P. Fajgelbaum, P. Kennedy&nbsp;&nbsp;&nbsp;[update]({{site.baseurl}}/files/qje_RTP/RTP_update.pdf)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[slides]({{site.baseurl}}/files/qje_RTP/RTP_slides.pdf)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[data]({{site.baseurl}}/files/qje_RTP/RTP_data.zip)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[summary](https://voxeu.org/article/return-protectionism)
-    * *Coverage*: [LA Times](https://www.latimes.com/business/hiltzik/la-fi-hiltzik-trump-trade-war-20190304-story.html), [Economist 2019.04](https://www.economist.com/finance-and-economics/2019/04/04/trade-talks-will-probably-end-with-tariffs-still-in-place), [Economist 2019.05](https://www.economist.com/finance-and-economics/2019/05/09/so-far-donald-trumps-trade-war-has-not-derailed-the-global-economy), [Trade Talks Podcast](https://www.piie.com/experts/peterson-perspectives/trade-talks-episode-77-happy-tariffversary)
+    * [LA Times](https://www.latimes.com/business/hiltzik/la-fi-hiltzik-trump-trade-war-20190304-story.html), [Economist 2019.04](https://www.economist.com/finance-and-economics/2019/04/04/trade-talks-will-probably-end-with-tariffs-still-in-place), [Economist 2019.05](https://www.economist.com/finance-and-economics/2019/05/09/so-far-donald-trumps-trade-war-has-not-derailed-the-global-economy), [Trade Talks Podcast](https://www.piie.com/experts/peterson-perspectives/trade-talks-episode-77-happy-tariffversary), [CEA](https://www.whitehouse.gov/wp-content/uploads/2020/02/2020-Economic-Report-of-the-President-WHCEA.pdf)
 <br/>
 <br/>
 
@@ -34,19 +34,19 @@ tags: [jekyll]
 
 - 2017, [Organizational Barriers to Technology Adoption: Evidence from Soccer-ball Producers in Pakistan]({{site.baseurl}}/files/qje_OBTAP/OBTAP.pdf), **Quarterly Journal of Economics** 
     * w/ D. Atkin, A. Chaudhry, S. Chaudry, E. Verhoogen&nbsp;&nbsp;&nbsp;[summary](https://voxdev.org/topic/technology-innovation/incentivising-technology-adoption-pakistani-firms)
-    * Coverage: [Atlantic](https://www.theatlantic.com/business/archive/2014/07/one-city-in-pakistan-produces-nearly-half-of-the-worlds-soccer-balls/373802/), [New Republic](https://newrepublic.com/article/118087/soccer-ball-manufacture-inefficiency-pakistan), [WSJ](https://blogs.wsj.com/economics/2014/04/28/how-automation-fell-flat-in-the-worlds-soccer-ball-capital/)
+    * [Atlantic](https://www.theatlantic.com/business/archive/2014/07/one-city-in-pakistan-produces-nearly-half-of-the-worlds-soccer-balls/373802/), [New Republic](https://newrepublic.com/article/118087/soccer-ball-manufacture-inefficiency-pakistan), [WSJ](https://blogs.wsj.com/economics/2014/04/28/how-automation-fell-flat-in-the-worlds-soccer-ball-capital/)
 <br/>
 <br/>
 
 - 2017, [Exporting and Firm Performance: Evidence from a Randomized Trial]({{site.baseurl}}/files/qje_EFP/EFP.pdf), **Quarterly Journal of Economics** [Editor's Choice]
     * w/ D. Atkin, A. Osman&nbsp;&nbsp;&nbsp;[slides]({{site.baseurl}}/files/qje_EFP/EFP_slides.pdf)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[summary](https://voxeu.org/article/exports-and-firm-performance-randomised-trial-evidence)
-    * Coverage: [Forbes](https://www.forbes.com/sites/realspin/2016/12/09/bringing-gains-from-trade-to-the-arab-world/#574d9ad14d19), Council of Economic Advisors, [Bloomberg](https://www.bloomberg.com/opinion/articles/2017-12-14/u-s-could-give-exporters-a-helping-hand), [Trade Talks Podcast](https://www.piie.com/experts/peterson-perspectives/trade-talks-episode-62-randomized-trade)
+    * [Forbes](https://www.forbes.com/sites/realspin/2016/12/09/bringing-gains-from-trade-to-the-arab-world/#574d9ad14d19), Council of Economic Advisors, [Bloomberg](https://www.bloomberg.com/opinion/articles/2017-12-14/u-s-could-give-exporters-a-helping-hand), [Trade Talks Podcast](https://www.piie.com/experts/peterson-perspectives/trade-talks-episode-62-randomized-trade)
 <br/>
 <br/>
 
 - 2016, [Detecting the Boundaries of Urban Areas in India: A Dataset for Pixel-Based Image Classification in Google Earth Engine]({{site.baseurl}}/files/rs_DBUAI/DBUAI.pdf), **Remote Sensing**
     * w/ R. Goldblatt, W. You, H. Hanson
-    * Coverage: [Citylab](https://www.citylab.com/life/2017/04/you-can-now-help-map-the-human-footprint-urbanization/522903/)
+    * [Citylab](https://www.citylab.com/life/2017/04/you-can-now-help-map-the-human-footprint-urbanization/522903/)
 <br/>
 <br/>
 
@@ -57,11 +57,12 @@ tags: [jekyll]
 
 - 2016, [Measuring the Unequal Gains from Trade]({{site.baseurl}}/files/qje_MUGFT/MUGFT.pdf), **Quarterly Journal of Economics** 
     * w/ P. Fajgelbaum&nbsp;&nbsp;&nbsp;[summary](https://voxeu.org/article/pro-poor-bias-trade-new-research-expenditure-channel)
+    * [Hill](https://thehill.com/blogs/pundits-blog/economy-budget/316137-the-hidden-benefit-of-global-trade), [Economist](https://www.economist.com/special-report/2016/09/29/coming-and-going), [Council of Economic Advisors](https://obamawhitehouse.archives.gov/sites/default/files/docs/cea_trade_report_final_non-embargoed_v2.pdf), [NYTimes](https://www.nytimes.com/2015/05/18/business/a-decade-later-loss-of-maytag-factory-still-resonates.html?smprod=nytcore-ipad&smid=nytcore-ipad-share), [Quartz](https://qz.com/407864/hey-average-american-heres-how-you-benefit-from-free-trade/), [Forbes](https://www.forbes.com/sites/realspin/2017/07/17/why-trade-should-be-core-to-trumps-pro-growth-economic-policy/#4587b23a3d07), [Newsweek](https://www.newsweek.com/trump-about-wage-dumb-trade-war-against-china-771775), [IMF](https://www.imf.org/en/News/Articles/2016/09/13/sp09132016-Making-Globalization-Work-for-All), [USNews](https://www.usnews.com/opinion/economic-intelligence/articles/2016-10-27/trumps-protectionist-trade-policy-would-hurt-poor-americans)
 <br/>
 <br/>
 
 - 2016, [Prices, Markups and Trade Reform]({{site.baseurl}}/files/ecma_PMTR/PMTR.pdf), **Econometrica**
-    * w/ J. De Loecker, P. Goldberg, N. Pavcnik
+    * w/ J. De Loecker, P. Goldberg, N. Pavcnik&nbsp;&nbsp;&nbsp;[summary](https://microeconomicinsights.org/prices-markups-and-trade-reform/)
 <br/>
 <br/>
 
@@ -76,7 +77,7 @@ tags: [jekyll]
 <br/>
 
 - 2013, [Import Competition and Quality Upgrading]({{site.baseurl}}/files/restat_ICQU/ICQU.pdf), **Review of Economics and Statistics**
-    * w/ M. Amiti&nbsp;&nbsp;&nbsp;[summary](https://voxdev.org/topic/firms-trade/import-competition-and-quality-domestic-goods)
+    * w/ M. Amiti&nbsp;&nbsp;&nbsp;[summary](https://voxdev.org/topic/firms-trade/import-competition-and-quality-domestic-goods)  
 <br/>
 <br/>
 
@@ -92,6 +93,7 @@ tags: [jekyll]
 
 - 2010, [Imported Intermediate Inputs and Domestic Product Growth: Evidence from India]({{site.baseurl}}/files/qje_IIIDPG/IIDPG.pdf), **Quarterly Journal of Economics** 
     * w/ P. Goldberg, N. Pavcnik, P. Topalova&nbsp;&nbsp;&nbsp;[summary](https://voxeu.org/article/imported-inputs-and-domestic-product-growth-india)
+    * [Economist](https://www.economist.com/finance-and-economics/2009/05/07/opening-the-floodgates)
 <br/>
 <br/>
 
