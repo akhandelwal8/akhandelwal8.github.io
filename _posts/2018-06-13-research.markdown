@@ -11,7 +11,7 @@ tags: [jekyll]
 <br/>
 <br/>
 
-- 2020, [How Distortions Alter the Impacts of International Trade in Developing Countries]({{site.baseurl}}/files/are_DAIIT/DAIIT.pdf), **Annual Review of Economics**&nbsp;&nbsp;&nbsp;[trade-dev juniors conference](https://egc.yale.edu/trade-and-development-mini-conference)
+- 2020, [How Distortions Alter the Impacts of International Trade in Developing Countries]({{site.baseurl}}/files/are_DAIIT/DAIIT.pdf), **Annual Review of Economics**&nbsp;&nbsp;&nbsp;\{[trade-dev juniors conference](https://egc.yale.edu/trade-and-development-mini-conference)\}
     * w/ D. Aktin
 <br/>
 <br/>
