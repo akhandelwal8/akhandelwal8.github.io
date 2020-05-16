@@ -46,7 +46,7 @@ tags: [jekyll]
 
 - 2016, [Detecting the Boundaries of Urban Areas in India: A Dataset for Pixel-Based Image Classification in Google Earth Engine]({{site.baseurl}}/files/rs_DBUAI/DBUAI.pdf), **Remote Sensing**
     * w/ R. Goldblatt, W. You, H. Hanson
-    * [Citylab](https://www.citylab.com/life/2017/04/you-can-now-help-map-the-human-footprint-urbanization/522903/)
+    * <a href="https://www.citylab.com/life/2017/04/you-can-now-help-map-the-human-footprint-urbanization/522903/" style="color:black;">Citylab</a>
 <br/>
 <br/>
 
@@ -77,7 +77,7 @@ tags: [jekyll]
 <br/>
 
 - 2013, [Import Competition and Quality Upgrading]({{site.baseurl}}/files/restat_ICQU/ICQU.pdf), **Review of Economics and Statistics**
-    * w/ M. Amiti&nbsp;&nbsp;&nbsp;[summary](https://voxdev.org/topic/firms-trade/import-competition-and-quality-domestic-goods)  
+    * w/ M. Amiti&nbsp;&nbsp;&nbsp;[summary](https://voxdev.org/topic/firms-trade/import-competition-and-quality-domestic-goods)
 <br/>
 <br/>
 
