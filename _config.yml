@@ -35,5 +35,12 @@ kramdown:
   # do not replace newlines by <br>s
   hard_wrap: false
 
+gems:
+  - jekyll-sitemap
+
+whitelist:
+  - jekyll-sitemap
+
 plugins: ['jekyll-paginate']
 exclude: ['README.md', 'Gemfile', 'Gemfile.lock']
+
