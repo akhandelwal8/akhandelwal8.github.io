@@ -4,7 +4,7 @@ categories: [jekyll]
 tags: [jekyll]
 ---
 
-{{ site.time | date: '%A' }}
+{{ site.time | date: '%w' }}
 
 
 ### Publications
