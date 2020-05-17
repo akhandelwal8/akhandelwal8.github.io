@@ -21,7 +21,7 @@ tags: [jekyll]
 <br/>
 <br/>
 
-- 2019, [Detecting Urban Markets with Satellite Imagery: An Application to India]({{site.baseurl}}/files/jue_DUM/DUM.pdf), **Journal of Urban Economics**&nbsp;&nbsp;&nbsp;&#10098;[dat]({{site.baseurl}}/files/jue_DUM/DUM_data.zip), [bib]({{site.baseurl}}/files/jue_DUM/DUM_bib.bib), [sld]({{site.baseurl}}/files/jue_DUM/DUM_slides.pptx), [vox](https://voxdev.org/topic/infrastructure-urbanisation/satellite-imagery-future-tracking-urban-markets)&#10099;
+- 2019, [Detecting Urban Markets with Satellite Imagery: An Application to India]({{site.baseurl}}/files/jue_DUM/DUM.pdf), **Journal of Urban Economics**&nbsp;&nbsp;&nbsp;&#10098;[dat]({{site.baseurl}}/files/jue_DUM/DUM_data.zip), [sld]({{site.baseurl}}/files/jue_DUM/DUM_slides.pptx), [bib]({{site.baseurl}}/files/jue_DUM/DUM_bib.bib), [vox](https://voxdev.org/topic/infrastructure-urbanisation/satellite-imagery-future-tracking-urban-markets)&#10099;
     * w/ K. Baragwanath, R. Goldblatt, G. Hanson
 <br/>
 <br/>
@@ -31,7 +31,7 @@ tags: [jekyll]
 <br/>
 <br/>
 
-- 2017, [Organizational Barriers to Technology Adoption: Evidence from Soccer-ball Producers in Pakistan]({{site.baseurl}}/files/qje_OBTAP/OBTAP.pdf), **Quarterly Journal of Economics**&nbsp;&nbsp;&nbsp;&#10098;[bib]({{site.baseurl}}/files/qje_OBTAP/OBTAP_bib.bib), [vox](https://voxdev.org/topic/technology-innovation/incentivising-technology-adoption-pakistani-firms)&#10099;
+- 2017, [Organizational Barriers to Technology Adoption: Evidence from Soccer-ball Producers in Pakistan]({{site.baseurl}}/files/qje_OBTAP/OBTAP.pdf), **Quarterly Journal of Economics**&nbsp;&nbsp;&nbsp;&#10098;[app]({{site.baseurl}}/files/qje_OBTAP/OBTAP_appendix.pdf), [bib]({{site.baseurl}}/files/qje_OBTAP/OBTAP_bib.bib), [vox](https://voxdev.org/topic/technology-innovation/incentivising-technology-adoption-pakistani-firms)&#10099;
     * w/ D. Atkin, A. Chaudhry, S. Chaudry, E. Verhoogen
     * <a href="https://www.theatlantic.com/business/archive/2014/07/one-city-in-pakistan-produces-nearly-half-of-the-worlds-soccer-balls/373802/" style="color:black;">Atlantic</a>, <a href="https://blogs.wsj.com/economics/2014/04/28/how-automation-fell-flat-in-the-worlds-soccer-ball-capital/" style="color:black;">WSJ</a>
 <br/>
@@ -40,7 +40,7 @@ tags: [jekyll]
 <a href="https://newrepublic.com/article/118087/soccer-ball-manufacture-inefficiency-pakistan" style="color:black;">New Republic</a>, 
 -->
 
-- 2017, [Exporting and Firm Performance: Evidence from a Randomized Trial]({{site.baseurl}}/files/qje_EFP/EFP.pdf), **Quarterly Journal of Economics** [Editor's Choice]&nbsp;&nbsp;&nbsp;&#10098;[sld]({{site.baseurl}}/files/qje_EFP/EFP_slides.pdf), [bib]({{site.baseurl}}/files/qje_EFP/EFP_bib.bib), [vox](https://voxeu.org/article/exports-and-firm-performance-randomised-trial-evidence)&#10099;
+- 2017, [Exporting and Firm Performance: Evidence from a Randomized Trial]({{site.baseurl}}/files/qje_EFP/EFP.pdf), **Quarterly Journal of Economics** [Editor's Choice]&nbsp;&nbsp;&nbsp;&#10098;[app]({{site.baseurl}}/files/qje_EFP/EFP_appendix.pdf), [sld]({{site.baseurl}}/files/qje_EFP/EFP_slides.pdf), [bib]({{site.baseurl}}/files/qje_EFP/EFP_bib.bib), [vox](https://voxeu.org/article/exports-and-firm-performance-randomised-trial-evidence)&#10099;
     * w/ D. Atkin, A. Osman
     * <a href="https://obamawhitehouse.archives.gov/sites/default/files/docs/cea_trade_report_final_non-embargoed_v2.pdf" style="color:black;">CEA</a>, <a href="https://www.bloomberg.com/opinion/articles/2017-12-14/u-s-could-give-exporters-a-helping-hand" style="color:black;">Bloomberg</a>, <a href="https://www.piie.com/experts/peterson-perspectives/trade-talks-episode-62-randomized-trade" style="color:black;">Trade Talks Podcast</a>
 <br/>
@@ -69,16 +69,16 @@ tags: [jekyll]
 -->    
 
 - 2016, [Prices, Markups and Trade Reform]({{site.baseurl}}/files/ecma_PMTR/PMTR.pdf), **Econometrica**
-    * w/ J. De Loecker, P. Goldberg, N. Pavcnik&nbsp;&nbsp;&nbsp;&#10098;[sld]({{site.baseurl}}/files/ecma_PMTR/PMTR_slides.pdf), [bib]({{site.baseurl}}/files/ecma_PMTR/PMTR_bib.bib), [microinsights](https://microeconomicinsights.org/prices-markups-and-trade-reform/)&#10099;
+    * w/ J. De Loecker, P. Goldberg, N. Pavcnik&nbsp;&nbsp;&nbsp;&#10098;[app]({{site.baseurl}}/files/ecma_PMTR/PMTR_appendix.pdf), [sld]({{site.baseurl}}/files/ecma_PMTR/PMTR_slides.pdf), [bib]({{site.baseurl}}/files/ecma_PMTR/PMTR_bib.bib), [microinsights](https://microeconomicinsights.org/prices-markups-and-trade-reform/)&#10099;
 <br/>
 <br/>
 
-- 2015, [Mark-up and Cost Dispersion Across Firms: Direct Evidence from Producer Surveys in Pakistan]({{site.baseurl}}/files/aerpp_MCDAF/MCDAF.pdf), **American Economic Review Papers & Proceedings**&nbsp;&nbsp;&nbsp;&#10098;[bib]({{site.baseurl}}/files/aerpp_MCDAF/MCDAF_bib.bib)&#10099;
+- 2015, [Mark-up and Cost Dispersion Across Firms: Direct Evidence from Producer Surveys in Pakistan]({{site.baseurl}}/files/aerpp_MCDAF/MCDAF.pdf), **American Economic Review Papers & Proceedings**&nbsp;&nbsp;&nbsp;&#10098;[app]({{site.baseurl}}/files/aerpp_MCDAF/MCDAF_appendix.pdf), [bib]({{site.baseurl}}/files/aerpp_MCDAF/MCDAF_bib.bib)&#10099;
     * w/ D. Atkin, A. Chaudhry, S. Chaudry, E. Verhoogen
 <br/>
 <br/>
 
-- 2013, [Trade Liberalization and Embedded Institutional Reform: Evidence from Chinese Exporters]({{site.baseurl}}/files/aer_TLEIR/TLEIR.pdf), **American Economic Review**&nbsp;&nbsp;&nbsp;&#10098;[app]({{site.baseurl}}/files/aer_TLEIR/TLEIR_appendix.pdf), [dat](https://sompks4.github.io/sub_data.html), [rep](https://www.openicpsr.org/openicpsr/project/112671/version/V1/view), [bib]({{site.baseurl}}/files/aer_TLEIR/TLEIR_bib.bib), [sld]({{site.baseurl}}/files/aer_TLEIR/TLEIR_slides.pptx), [vox](https://voxeu.org/article/hidden-gains-trade-liberalisation)&#10099;
+- 2013, [Trade Liberalization and Embedded Institutional Reform: Evidence from Chinese Exporters]({{site.baseurl}}/files/aer_TLEIR/TLEIR.pdf), **American Economic Review**&nbsp;&nbsp;&nbsp;&#10098;[app]({{site.baseurl}}/files/aer_TLEIR/TLEIR_appendix.pdf), [dat](https://sompks4.github.io/sub_data.html), [bib]({{site.baseurl}}/files/aer_TLEIR/TLEIR_bib.bib), [sld]({{site.baseurl}}/files/aer_TLEIR/TLEIR_slides.pptx), [vox](https://voxeu.org/article/hidden-gains-trade-liberalisation)&#10099;
     * w/ P. Schott, S.J. Wei
 <br/>
 <br/>
@@ -88,7 +88,7 @@ tags: [jekyll]
 <br/>
 <br/>
 
-- 2011, [Trade Liberalization and Firm Productivity: The Case of India]({{site.baseurl}}/files/restat_TFLPI/TFLPI.pdf), **Review of Economics and Statistics**&nbsp;&nbsp;&nbsp;&#10098;[app]({{site.baseurl}}/files/restat_TFLPI/TLFP_appendix.pdf), [bib]({{site.baseurl}}/files/restat_TFLPI/TFLPI_bib.bib)&#10099;
+- 2011, [Trade Liberalization and Firm Productivity: The Case of India]({{site.baseurl}}/files/restat_TLFPI/TLFPI.pdf), **Review of Economics and Statistics**&nbsp;&nbsp;&nbsp;&#10098;[app]({{site.baseurl}}/files/restat_TLFPI/TLFP_appendix.pdf), [bib]({{site.baseurl}}/files/restat_TLFPI/TLFPI_bib.bib)&#10099;
     * w/ P. Topalova
 <br/>
 <br/>
