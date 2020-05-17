@@ -5,9 +5,9 @@ tags: [jekyll]
 ---
 
 ### Publications
-- 2020, [The Return to Protectionism]({{site.baseurl}}/files/qje_RTP/RTP.pdf), **Quarterly Journal of Economics** [Editor's Choice]&nbsp;&nbsp;&nbsp;&#10098;[+2019 waves]({{site.baseurl}}/files/qje_RTP/RTP_update.pdf), [app]({{site.baseurl}}/files/qje_RTP/RTP_appendix.pdf), [sld]({{site.baseurl}}/files/qje_RTP/RTP_slides.pdf), [dat]({{site.baseurl}}/files/qje_RTP/RTP_data.zip), [rep](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/KSOVSE), [bib]({{site.baseurl}}/files/qje_RTP/RTP_bib.bib), [vox](https://voxeu.org/article/return-protectionism)&#10099;
+- 2020, [The Return to Protectionism]({{site.baseurl}}/files/qje_RTP/RTP.pdf), **Quarterly Journal of Economics** [Editor's Choice]&nbsp;&nbsp;&nbsp;&#10098;[+2019 waves]({{site.baseurl}}/files/qje_RTP/RTP_update.pdf), [app]({{site.baseurl}}/files/qje_RTP/RTP_appendix.pdf), [sld]({{site.baseurl}}/files/qje_RTP/RTP_slides.pdf), [dat]({{site.baseurl}}/files/qje_RTP/RTP_data.zip), [bib]({{site.baseurl}}/files/qje_RTP/RTP_bib.bib), [vox](https://voxeu.org/article/return-protectionism)&#10099;
     * w/ P. Goldberg, P. Fajgelbaum, P. Kennedy
-    * <a href="https://www.latimes.com/business/hiltzik/la-fi-hiltzik-trump-trade-war-20190304-story.html/" style="color:black;">LA Times</a>, <a href="https://www.economist.com/finance-and-economics/2019/04/04/trade-talks-will-probably-end-with-tariffs-still-in-place/" style="color:black;">Economist 2019.04</a>, <a href="https://www.economist.com/finance-and-economics/2019/05/09/so-far-donald-trumps-trade-war-has-not-derailed-the-global-economy" style="color:black;">Economist 2019.05</a>, <a href="https://www.piie.com/experts/peterson-perspectives/trade-talks-episode-77-happy-tariffversary" style="color:black">Trade Talks</a>, <a href="https://www.whitehouse.gov/wp-content/uploads/2020/02/2020-Economic-Report-of-the-President-WHCEA.pdf" style="color:black;">CEA</a>
+    * <a href="https://www.economist.com/finance-and-economics/2019/04/04/trade-talks-will-probably-end-with-tariffs-still-in-place/" style="color:black;">Economist.2019.04</a>, <a href="https://www.economist.com/finance-and-economics/2019/05/09/so-far-donald-trumps-trade-war-has-not-derailed-the-global-economy" style="color:black;">Economist.2019.05</a>, <a href="https://www.piie.com/experts/peterson-perspectives/trade-talks-episode-77-happy-tariffversary" style="color:black">Trade Talks Podcast</a>, <a href="https://www.whitehouse.gov/wp-content/uploads/2020/02/2020-Economic-Report-of-the-President-WHCEA.pdf" style="color:black;">CEA</a>
 <br/>
 <br/>
 
@@ -16,7 +16,7 @@ tags: [jekyll]
 <br/>
 <br/>
 
-- 2019, [Measuring Productivity: Lessons from Tailored Surveys and Productivity Benchmarking]({{site.baseurl}}/files/aerpp_MPTSPB/MPTSPB.pdf), **American Economic Review Papers & Proceedings**&nbsp;&nbsp;&nbsp;&#10098;[app]({{site.baseurl}}/files/aerpp_MPTSPB/MPTSPB_appendix.pdf), [sld]({{site.baseurl}}/files/aerpp_MPTSPB/MPTSPB_slides.pdf), [rep](https://www.openicpsr.org/openicpsr/project/116452/version/V1/view), [bib]({{site.baseurl}}/files/aerpp_MPTSPB/MPTSPB_bib.bib)&#10099;
+- 2019, [Measuring Productivity: Lessons from Tailored Surveys and Productivity Benchmarking]({{site.baseurl}}/files/aerpp_MPTSPB/MPTSPB.pdf), **American Economic Review Papers & Proceedings**&nbsp;&nbsp;&nbsp;&#10098;[app]({{site.baseurl}}/files/aerpp_MPTSPB/MPTSPB_appendix.pdf), [sld]({{site.baseurl}}/files/aerpp_MPTSPB/MPTSPB_slides.pdf), [bib]({{site.baseurl}}/files/aerpp_MPTSPB/MPTSPB_bib.bib)&#10099;
     * w/ D. Atkin, A. Osman
 <br/>
 <br/>
@@ -33,13 +33,16 @@ tags: [jekyll]
 
 - 2017, [Organizational Barriers to Technology Adoption: Evidence from Soccer-ball Producers in Pakistan]({{site.baseurl}}/files/qje_OBTAP/OBTAP.pdf), **Quarterly Journal of Economics**&nbsp;&nbsp;&nbsp;&#10098;[bib]({{site.baseurl}}/files/qje_OBTAP/OBTAP_bib.bib), [vox](https://voxdev.org/topic/technology-innovation/incentivising-technology-adoption-pakistani-firms)&#10099;
     * w/ D. Atkin, A. Chaudhry, S. Chaudry, E. Verhoogen
-    * <a href="https://www.theatlantic.com/business/archive/2014/07/one-city-in-pakistan-produces-nearly-half-of-the-worlds-soccer-balls/373802/" style="color:black;">Atlantic</a>, <a href="https://newrepublic.com/article/118087/soccer-ball-manufacture-inefficiency-pakistan" style="color:black;">New Republic</a>, <a href="https://blogs.wsj.com/economics/2014/04/28/how-automation-fell-flat-in-the-worlds-soccer-ball-capital/" style="color:black;">WSJ</a>
+    * <a href="https://www.theatlantic.com/business/archive/2014/07/one-city-in-pakistan-produces-nearly-half-of-the-worlds-soccer-balls/373802/" style="color:black;">Atlantic</a>, <a href="https://blogs.wsj.com/economics/2014/04/28/how-automation-fell-flat-in-the-worlds-soccer-ball-capital/" style="color:black;">WSJ</a>
 <br/>
 <br/>
+<!--
+<a href="https://newrepublic.com/article/118087/soccer-ball-manufacture-inefficiency-pakistan" style="color:black;">New Republic</a>, 
+-->
 
 - 2017, [Exporting and Firm Performance: Evidence from a Randomized Trial]({{site.baseurl}}/files/qje_EFP/EFP.pdf), **Quarterly Journal of Economics** [Editor's Choice]&nbsp;&nbsp;&nbsp;&#10098;[sld]({{site.baseurl}}/files/qje_EFP/EFP_slides.pdf), [bib]({{site.baseurl}}/files/qje_EFP/EFP_bib.bib), [vox](https://voxeu.org/article/exports-and-firm-performance-randomised-trial-evidence)&#10099;
     * w/ D. Atkin, A. Osman
-    * <a href="https://www.forbes.com/sites/realspin/2016/12/09/bringing-gains-from-trade-to-the-arab-world/#574d9ad14d19/" style="color:black;">Forbes</a>, <a href="https://obamawhitehouse.archives.gov/sites/default/files/docs/cea_trade_report_final_non-embargoed_v2.pdf" style="color:black;">CEA</a>, <a href="https://www.bloomberg.com/opinion/articles/2017-12-14/u-s-could-give-exporters-a-helping-hand" style="color:black;">Bloomberg</a>, <a href="https://www.piie.com/experts/peterson-perspectives/trade-talks-episode-62-randomized-trade" style="color:black;">Trade Talks</a>
+    * <a href="https://obamawhitehouse.archives.gov/sites/default/files/docs/cea_trade_report_final_non-embargoed_v2.pdf" style="color:black;">CEA</a>, <a href="https://www.bloomberg.com/opinion/articles/2017-12-14/u-s-could-give-exporters-a-helping-hand" style="color:black;">Bloomberg</a>, <a href="https://www.piie.com/experts/peterson-perspectives/trade-talks-episode-62-randomized-trade" style="color:black;">Trade Talks Podcast</a>
 <br/>
 <br/>
 
@@ -56,9 +59,14 @@ tags: [jekyll]
 
 - 2016, [Measuring the Unequal Gains from Trade]({{site.baseurl}}/files/qje_MUGFT/MUGFT.pdf), **Quarterly Journal of Economics** 
     * w/ P. Fajgelbaum&nbsp;&nbsp;&nbsp;&#10098;[sld]({{site.baseurl}}/files/qje_MUGFT/MUGFT_slides.pdf), [bib]({{site.baseurl}}/files/qje_MUGFT/MUGFT_bib.bib), [vox](https://voxeu.org/article/pro-poor-bias-trade-new-research-expenditure-channel)&#10099;
-    * <a href="https://thehill.com/blogs/pundits-blog/economy-budget/316137-the-hidden-benefit-of-global-trade/" style="color:black;">Hill</a>, <a href="https://www.economist.com/special-report/2016/09/29/coming-and-going/" style="color:black;">Economist</a>, <a href="https://obamawhitehouse.archives.gov/sites/default/files/docs/cea_trade_report_final_non-embargoed_v2.pdf/" style="color:black;">CEA</a>, <a href="https://www.nytimes.com/2015/05/18/business/a-decade-later-loss-of-maytag-factory-still-resonates.html?smprod=nytcore-ipad&smid=nytcore-ipad-share/" style="color:black;">NYTimes</a>, <a href="https://qz.com/407864/hey-average-american-heres-how-you-benefit-from-free-trade/" style="color:black;">Quartz</a>, <a href="https://www.forbes.com/sites/realspin/2017/07/17/why-trade-should-be-core-to-trumps-pro-growth-economic-policy/#4587b23a3d07/" style="color:black;">Forbes</a>, <a href="https://www.newsweek.com/trump-about-wage-dumb-trade-war-against-china-771775/" style="color:black;">Newsweek</a>, <a href="https://www.imf.org/en/News/Articles/2016/09/13/sp09132016-Making-Globalization-Work-for-All/" style="color:black;">IMF</a>, <a href="https://www.usnews.com/opinion/economic-intelligence/articles/2016-10-27/trumps-protectionist-trade-policy-would-hurt-poor-americans/" style="color:black;">USNews</a>
+    * <a href="https://www.economist.com/special-report/2016/09/29/coming-and-going/" style="color:black;">Economist</a>, <a href="https://obamawhitehouse.archives.gov/sites/default/files/docs/cea_trade_report_final_non-embargoed_v2.pdf/" style="color:black;">CEA</a>, <a href="https://www.nytimes.com/2015/05/18/business/a-decade-later-loss-of-maytag-factory-still-resonates.html?smprod=nytcore-ipad&smid=nytcore-ipad-share/" style="color:black;">NYTimes</a>, <a href="https://www.imf.org/en/News/Articles/2016/09/13/sp09132016-Making-Globalization-Work-for-All/" style="color:black;">IMF</a>
 <br/>
 <br/>
+<!--<a href="https://www.forbes.com/sites/realspin/2017/07/17/why-trade-should-be-core-to-trumps-pro-growth-economic-policy/#4587b23a3d07/" style="color:black;">Forbes</a>, <a href="https://www.newsweek.com/trump-about-wage-dumb-trade-war-against-china-771775/" style="color:black;">Newsweek</a>, 
+, <a href="https://www.usnews.com/opinion/economic-intelligence/articles/2016-10-27/trumps-protectionist-trade-policy-would-hurt-poor-americans/" style="color:black;">USNews</a>
+<a href="https://qz.com/407864/hey-average-american-heres-how-you-benefit-from-free-trade/" style="color:black;">Quartz</a>, 
+<a href="https://thehill.com/blogs/pundits-blog/economy-budget/316137-the-hidden-benefit-of-global-trade/" style="color:black;">Hill</a>, 
+-->    
 
 - 2016, [Prices, Markups and Trade Reform]({{site.baseurl}}/files/ecma_PMTR/PMTR.pdf), **Econometrica**
     * w/ J. De Loecker, P. Goldberg, N. Pavcnik&nbsp;&nbsp;&nbsp;&#10098;[sld]({{site.baseurl}}/files/ecma_PMTR/PMTR_slides.pdf), [bib]({{site.baseurl}}/files/ecma_PMTR/PMTR_bib.bib), [vox](https://microeconomicinsights.org/prices-markups-and-trade-reform/)&#10099;
