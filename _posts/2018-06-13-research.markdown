@@ -78,7 +78,7 @@ tags: [jekyll]
 <br/>
 <br/>
 
-- 2013, [Trade Liberalization and Embedded Institutional Reform: Evidence from Chinese Exporters]({{site.baseurl}}/files/aer_TLEIR/TLEIR.pdf), **American Economic Review**&nbsp;&nbsp;&nbsp;&#10098;[app]({{site.baseurl}}/files/aer_TLEIR/TLEIR_appendix.pdf), [dat](https://sompks4.github.io/sub_data.html), [rep](https://www.openicpsr.org/openicpsr/project/112671/version/V1/view), [bib]({{site.baseurl}}/files/aer_TLEIR/TLEIR_bib.bib), [sld]({{site.baseurl}}/files/aer_TLEIR/TLEIR_slides.pptx), [vox](https://voxeu.org/article/hidden-gains-trade-liberalisation)&#10099;
+- 2013, [Trade Liberalization and Embedded Institutional Reform: Evidence from Chinese Exporters]({{site.baseurl}}/files/aer_TLEIR/TLEIR.pdf), **American Economic Review**&nbsp;&nbsp;&nbsp;&#10098;[app]({{site.baseurl}}/files/aer_TLEIR/TLEIR_appendix.pdf), [dat](https://sompks4.github.io/sub_data.html), [bib]({{site.baseurl}}/files/aer_TLEIR/TLEIR_bib.bib), [sld]({{site.baseurl}}/files/aer_TLEIR/TLEIR_slides.pptx), [vox](https://voxeu.org/article/hidden-gains-trade-liberalisation)&#10099;
     * w/ P. Schott, S.J. Wei
 <br/>
 <br/>
