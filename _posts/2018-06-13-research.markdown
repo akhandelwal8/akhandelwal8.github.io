@@ -21,7 +21,7 @@ tags: [jekyll]
 <br/>
 <br/>
 
-- 2019, [Detecting Urban Markets with Satellite Imagery: An Application to India]({{site.baseurl}}/files/jue_DUM/DUM.pdf), **Journal of Urban Economics**&nbsp;&nbsp;&nbsp;&#10098;[dat]({{site.baseurl}}/files/jue_DUM/DUM_data.zip), [bib]({{site.baseurl}}/files/jue_DUM/DUM_bib.bib), [sld]({{site.baseurl}}/files/jue_DUM/DUM_slides.pptx), [vox](https://voxdev.org/topic/infrastructure-urbanisation/satellite-imagery-future-tracking-urban-markets)&#10099;
+- 2019, [Detecting Urban Markets with Satellite Imagery: An Application to India]({{site.baseurl}}/files/jue_DUM/DUM.pdf), **Journal of Urban Economics**&nbsp;&nbsp;&nbsp;&#10098;[dat]({{site.baseurl}}/files/jue_DUM/DUM_data.zip), [sld]({{site.baseurl}}/files/jue_DUM/DUM_slides.pptx), [bib]({{site.baseurl}}/files/jue_DUM/DUM_bib.bib), [vox](https://voxdev.org/topic/infrastructure-urbanisation/satellite-imagery-future-tracking-urban-markets)&#10099;
     * w/ K. Baragwanath, R. Goldblatt, G. Hanson
 <br/>
 <br/>
@@ -88,7 +88,7 @@ tags: [jekyll]
 <br/>
 <br/>
 
-- 2011, [Trade Liberalization and Firm Productivity: The Case of India]({{site.baseurl}}/files/restat_TFLPI/TFLPI.pdf), **Review of Economics and Statistics**&nbsp;&nbsp;&nbsp;&#10098;[app]({{site.baseurl}}/files/restat_TFLPI/TLFP_appendix.pdf), [bib]({{site.baseurl}}/files/restat_TFLPI/TFLPI_bib.bib)&#10099;
+- 2011, [Trade Liberalization and Firm Productivity: The Case of India]({{site.baseurl}}/files/restat_TLFPI/TLFPI.pdf), **Review of Economics and Statistics**&nbsp;&nbsp;&nbsp;&#10098;[app]({{site.baseurl}}/files/restat_TLFPI/TLFP_appendix.pdf), [bib]({{site.baseurl}}/files/restat_TLFPI/TLFPI_bib.bib)&#10099;
     * w/ P. Topalova
 <br/>
 <br/>
