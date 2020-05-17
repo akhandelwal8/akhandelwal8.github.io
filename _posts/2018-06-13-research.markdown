@@ -4,9 +4,6 @@ categories: [jekyll]
 tags: [jekyll]
 ---
 
-{{ site.time | date: '%w' }}
-
-
 ### Publications
 - 2020, [The Return to Protectionism]({{site.baseurl}}/files/qje_RTP/RTP.pdf), **Quarterly Journal of Economics** [Editor's Choice]&nbsp;&nbsp;&nbsp;&#10098;[+2019 waves]({{site.baseurl}}/files/qje_RTP/RTP_update.pdf), [app]({{site.baseurl}}/files/qje_RTP/RTP_appendix.pdf), [sld]({{site.baseurl}}/files/qje_RTP/RTP_slides.pdf), [dat]({{site.baseurl}}/files/qje_RTP/RTP_data.zip), [bib]({{site.baseurl}}/files/qje_RTP/RTP_bib.bib), [vox](https://voxeu.org/article/return-protectionism)&#10099;
     * w/ P. Goldberg, P. Fajgelbaum, P. Kennedy
