@@ -21,7 +21,7 @@ tags: [jekyll]
 <br/>
 <br/>
 
-- 2019, <a href="{{site.baseurl}}/files/jue_DUM/DUM.pdf" style="color:#e25440;">Detecting Urban Markets with Satellite Imagery: An Application to India</a>, **Journal of Urban Economics**&nbsp;&nbsp;&nbsp;&#10098;[dat]({{site.baseurl}}/files/jue_DUM/DUM_data.zip), [sld]({{site.baseurl}}/files/jue_DUM/DUM_slides.pptx), [bib]({{site.baseurl}}/files/jue_DUM/DUM_bib.bib), [vox](https://voxdev.org/topic/infrastructure-urbanisation/satellite-imagery-future-tracking-urban-markets)&#10099;
+- 2019, <a href="{{site.baseurl}}/files/jue_DUM/DUM.pdf" style="color:#e25440;">Detecting Urban Markets with Satellite Imagery: An Application to India</a>, **Journal of Urban Economics**&nbsp;&nbsp;&nbsp;&#10098;[app]({{site.baseurl}}/files/jue_DUM/DUM_appendix.pdf), [dat]({{site.baseurl}}/files/jue_DUM/DUM_data.zip), [sld]({{site.baseurl}}/files/jue_DUM/DUM_slides.pptx), [bib]({{site.baseurl}}/files/jue_DUM/DUM_bib.bib), [vox](https://voxdev.org/topic/infrastructure-urbanisation/satellite-imagery-future-tracking-urban-markets)&#10099;
     * w/ K. Baragwanath, R. Goldblatt, G. Hanson
 <br/>
 <br/>
@@ -73,12 +73,12 @@ tags: [jekyll]
 <br/>
 <br/>
 
-- 2015, <a href="{{site.baseurl}}/files/aerpp_MCDAF/MCDAF.pdf)" style="color:#e25440;">Mark-up and Cost Dispersion Across Firms: Direct Evidence from Producer Surveys in Pakistan</a>, **American Economic Review Papers & Proceedings**&nbsp;&nbsp;&nbsp;&#10098;[app]({{site.baseurl}}/files/aerpp_MCDAF/MCDAF_appendix.pdf), [bib]({{site.baseurl}}/files/aerpp_MCDAF/MCDAF_bib.bib)&#10099;
+- 2015, <a href="{{site.baseurl}}/files/aerpp_MCDAF/MCDAF.pdf" style="color:#e25440;">Mark-up and Cost Dispersion Across Firms: Direct Evidence from Producer Surveys in Pakistan</a>, **American Economic Review Papers & Proceedings**&nbsp;&nbsp;&nbsp;&#10098;[app]({{site.baseurl}}/files/aerpp_MCDAF/MCDAF_appendix.pdf), [bib]({{site.baseurl}}/files/aerpp_MCDAF/MCDAF_bib.bib)&#10099;
     * w/ D. Atkin, A. Chaudhry, S. Chaudry, E. Verhoogen
 <br/>
 <br/>
 
-- 2013, <a href="{{site.baseurl}}/files/aer_TLEIR/TLEIR.pdf" style="color:#e25440;">Trade Liberalization and Embedded Institutional Reform: Evidence from Chinese Exporters</a>, **American Economic Review**&nbsp;&nbsp;&nbsp;&#10098;[app]({{site.baseurl}}/files/aer_TLEIR/TLEIR_appendix.pdf), [dat](https://sompks4.github.io/sub_data.html), [bib]({{site.baseurl}}/files/aer_TLEIR/TLEIR_bib.bib), [sld]({{site.baseurl}}/files/aer_TLEIR/TLEIR_slides.pptx), [vox](https://voxeu.org/article/hidden-gains-trade-liberalisation)&#10099;
+- 2013, <a href="{{site.baseurl}}/files/aer_TLEIR/TLEIR.pdf" style="color:#e25440;">Trade Liberalization and Embedded Institutional Reform: Evidence from Chinese Exporters</a>, **American Economic Review**&nbsp;&nbsp;&nbsp;&#10098;[app]({{site.baseurl}}/files/aer_TLEIR/TLEIR_appendix.pdf), [dat](https://sompks4.github.io/sub_data.html), [sld]({{site.baseurl}}/files/aer_TLEIR/TLEIR_slides.pptx), [bib]({{site.baseurl}}/files/aer_TLEIR/TLEIR_bib.bib), [vox](https://voxeu.org/article/hidden-gains-trade-liberalisation)&#10099;
     * w/ P. Schott, S.J. Wei
 <br/>
 <br/>
@@ -88,7 +88,7 @@ tags: [jekyll]
 <br/>
 <br/>
 
-- 2011, <a href="{{site.baseurl}}/files/restat_TLFPI/TLFPI.pdf" style="color:#e25440;">Trade Liberalization and Firm Productivity: The Case of India</a>, **Review of Economics and Statistics**&nbsp;&nbsp;&nbsp;&#10098;[app]({{site.baseurl}}/files/restat_TLFPI/TLFP_appendix.pdf), [bib]({{site.baseurl}}/files/restat_TLFPI/TLFPI_bib.bib)&#10099;
+- 2011, <a href="{{site.baseurl}}/files/restat_TLFPI/TLFPI.pdf" style="color:#e25440;">Trade Liberalization and Firm Productivity: The Case of India</a>, **Review of Economics and Statistics**&nbsp;&nbsp;&nbsp;&#10098;[app]({{site.baseurl}}/files/restat_TLFPI/TLFPI_appendix.pdf), [bib]({{site.baseurl}}/files/restat_TLFPI/TLFPI_bib.bib)&#10099;
     * w/ P. Topalova
 <br/>
 <br/>
@@ -108,7 +108,7 @@ tags: [jekyll]
 <br/>
 <br/>
 
-- 2010, <a href="{{site.baseurl}}/files/restat_MFPTDW/MFPTDW.pdf" style="color:#e25440;">Multi-product Firms and Product Turnover in the Developing World: Evidence from India</a>, **Review of Economics and Statistics**&nbsp;&nbsp;&nbsp;&#10098;[app]({{site.baseurl}}/files/restat_mp/MFPTDW_appendix.pdf), [bib]({{site.baseurl}}/files/restat_MFPTDW/MFPTDW_bib.bib)&#10099;
+- 2010, <a href="{{site.baseurl}}/files/restat_MFPTDW/MFPTDW.pdf" style="color:#e25440;">Multi-product Firms and Product Turnover in the Developing World: Evidence from India</a>, **Review of Economics and Statistics**&nbsp;&nbsp;&nbsp;&#10098;[app]({{site.baseurl}}/files/restat_MFPTDW/MFPTDW_appendix.pdf), [bib]({{site.baseurl}}/files/restat_MFPTDW/MFPTDW_bib.bib)&#10099;
     * w/ P. Goldberg, N. Pavcnik, P. Topalova
 <br/>
 <br/>
@@ -135,9 +135,11 @@ tags: [jekyll]
 <br/>	
 <br/>
 
-- 2015, <a href="{{site.baseurl}}/files/book_HS/CHS.pdf" style="color:#e25440;">Comment on "Grasp the Large, Let Go of the Small" by Hseih and Song</a>, *Brookings Papers in Economic Activity*.
+- 2015, <a href="{{site.baseurl}}/files/book_HS/CHS.pdf" style="color:#e25440;">Comment</a> on ["Grasp the Large, Let Go of the Small"](https://www.brookings.edu/wp-content/uploads/2016/07/2015a_hsieh.pdf) by Hseih and Song, *Brookings Papers in Economic Activity*.
 <br/>
 <br/>
+
+
 
 - 2013, <a href="{{site.baseurl}}/files/book_VIVO/VIVO.pdf" style="color:#e25440;">Variety In, Variety Out: Imported Inputs and Product Scope Expansion in India</a>, *Reforms and Economic Transformation in India*. 
     * w/ Goldberg, Pavcnik
