@@ -1,9 +1,9 @@
 ---
-title:  "About"
+title:  ""
 categories: [jekyll]
 tags: [jekyll]
 ---
-I am an economist who studies international trade and economic development.
+I am an economist who studies international trade and economic development. 
 
 Affiliations:
 - [Columbia GSB](https://www8.gsb.columbia.edu/)
