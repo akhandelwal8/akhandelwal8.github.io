@@ -27,7 +27,7 @@ tags: [jekyll]
 <br/>
 
 - 2018, <a href="{{site.baseurl}}/files/rse_ULNLSPBIC/ULNLSPBIC.pdf" style="color:#e25440;">Using Landsat and Nighttime Lights for Supervised Pixel-Based Image Classification of Urban Land Cover</a>, *Remote Sensing of Environment*&nbsp;&nbsp;&nbsp;&#10098;[bib]({{site.baseurl}}/files/rse_ULNLSPBIC/ULNLSPBIC_bib.bib)&#10099;
-    * w/ Goldblatt, Stuhlmacher, Tellman, Clinton, Hanson, Georgescu, Wang, Serrano-Candela, Cheng, Balling
+    * w/ R. Goldblatt, M. Stuhlmacher, B. Tellman, N. Clinton, G. Hanson, M. Georgescu, C. Wang, F. Serrano-Candela, W. Cheng, R. Balling
 <br/>
 <br/>
 
