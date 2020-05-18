@@ -83,12 +83,12 @@ tags: [jekyll]
 <br/>
 <br/>
 
-- 2013, <a href="{{site.baseurl}}/files/restat_ICQU/ICQU.pdf" style="color:#e25440;">Import Competition and Quality Upgrading</a>, *Review of Economics and Statistics*&nbsp;&nbsp;&nbsp;&#10098;[bib]({{site.baseurl}}/files/restat_ICQU/ICQU_bib.bib), [vox](https://voxdev.org/topic/firms-trade/import-competition-and-quality-domestic-goods)&#10099;
+- 2013, <a href="{{site.baseurl}}/files/restat_ICQU/ICQU.pdf" style="color:#e25440;">Import Competition and Quality Upgrading</a>, *Review of Economics & Statistics*&nbsp;&nbsp;&nbsp;&#10098;[bib]({{site.baseurl}}/files/restat_ICQU/ICQU_bib.bib), [vox](https://voxdev.org/topic/firms-trade/import-competition-and-quality-domestic-goods)&#10099;
     * w/ M. Amiti
 <br/>
 <br/>
 
-- 2011, <a href="{{site.baseurl}}/files/restat_TLFPI/TLFPI.pdf" style="color:#e25440;">Trade Liberalization and Firm Productivity: The Case of India</a>, *Review of Economics and Statistics*&nbsp;&nbsp;&nbsp;&#10098;[app]({{site.baseurl}}/files/restat_TLFPI/TLFPI_appendix.pdf), [bib]({{site.baseurl}}/files/restat_TLFPI/TLFPI_bib.bib)&#10099;
+- 2011, <a href="{{site.baseurl}}/files/restat_TLFPI/TLFPI.pdf" style="color:#e25440;">Trade Liberalization and Firm Productivity: The Case of India</a>, *Review of Economics & Statistics*&nbsp;&nbsp;&nbsp;&#10098;[app]({{site.baseurl}}/files/restat_TLFPI/TLFPI_appendix.pdf), [bib]({{site.baseurl}}/files/restat_TLFPI/TLFPI_bib.bib)&#10099;
     * w/ P. Topalova
 <br/>
 <br/>
@@ -108,12 +108,12 @@ tags: [jekyll]
 <br/>
 <br/>
 
-- 2010, <a href="{{site.baseurl}}/files/restat_MFPTDW/MFPTDW.pdf" style="color:#e25440;">Multi-product Firms and Product Turnover in the Developing World: Evidence from India</a>, *Review of Economics and Statistics*&nbsp;&nbsp;&nbsp;&#10098;[app]({{site.baseurl}}/files/restat_MFPTDW/MFPTDW_appendix.pdf), [bib]({{site.baseurl}}/files/restat_MFPTDW/MFPTDW_bib.bib)&#10099;
+- 2010, <a href="{{site.baseurl}}/files/restat_MFPTDW/MFPTDW.pdf" style="color:#e25440;">Multi-product Firms and Product Turnover in the Developing World: Evidence from India</a>, *Review of Economics & Statistics*&nbsp;&nbsp;&nbsp;&#10098;[app]({{site.baseurl}}/files/restat_MFPTDW/MFPTDW_appendix.pdf), [bib]({{site.baseurl}}/files/restat_MFPTDW/MFPTDW_bib.bib)&#10099;
     * w/ P. Goldberg, N. Pavcnik, P. Topalova
 <br/>
 <br/>
 
-- 2009, <a href="{{site.baseurl}}/files/aerpp_TLNII/TLNII.pdf" style="color:#e25440;">Trade Liberalization and New Imported Inputs</a>, *American Economic Review Papers and Proceedings*&nbsp;&nbsp;&nbsp;&#10098;[bib]({{site.baseurl}}/files/aerpp_TLNII/TLNII_bib.bib)&#10099; 
+- 2009, <a href="{{site.baseurl}}/files/aerpp_TLNII/TLNII.pdf" style="color:#e25440;">Trade Liberalization and New Imported Inputs</a>, *American Economic Review Papers & Proceedings*&nbsp;&nbsp;&nbsp;&#10098;[bib]({{site.baseurl}}/files/aerpp_TLNII/TLNII_bib.bib)&#10099; 
     * w/ P. Goldberg, N. Pavcnik, P. Topalova
 <br/>
 <br/>
