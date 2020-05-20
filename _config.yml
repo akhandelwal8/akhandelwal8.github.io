@@ -35,6 +35,8 @@ kramdown:
   # do not replace newlines by <br>s
   hard_wrap: false
 
+timezone: EST5EDT
+
 gems:
   - jekyll-sitemap
 
