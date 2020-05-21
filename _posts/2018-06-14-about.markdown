@@ -5,7 +5,7 @@ tags: [jekyll]
 ---
 I am an economist who studies international trade and economic development. 
 
-{{now|date:'%d'}}
+{{'now'|date:'%d'}}
 
 Affiliations:
 - [Columbia GSB](https://www8.gsb.columbia.edu/)
