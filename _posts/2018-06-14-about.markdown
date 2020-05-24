@@ -5,9 +5,6 @@ tags: [jekyll]
 ---
 I am an economist who studies international trade and economic development. 
 
-
-n = new Date(); y = n.getFullYear(); m = n.getMonth() + 1; d = n.getDate(); document.getElementById("date").innerHTML = m + "/" + d + "/" + y;<p id="date"></p>
-
 Affiliations:
 - [Columbia GSB](https://www8.gsb.columbia.edu/)
 - [Review of Economics and Statistics](https://www.mitpressjournals.org/loi/rest) (Co-Chair Editor)
