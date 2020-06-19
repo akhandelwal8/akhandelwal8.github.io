@@ -119,6 +119,9 @@ tags: [jekyll]
 <br/>
 
 ### Working Projects
+- 2020, <a href="http://www.econ.ucla.edu/pfajgelbaum/Covid-Spatial.pdf" style="color:#e25440;">Optimal Spatial Lockdowns in a Commuting Network</a>
+    * w/ P. Fajgelbaum, W. Kim, C. Mantovani, E. Schaal
+
 - Communication Frictions and Knowledge Transfers: Evidence from FDI
     * w/ L. Guillouet, R. Macchiavello, M. Teachout
 <br/>
