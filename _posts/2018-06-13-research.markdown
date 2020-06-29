@@ -5,7 +5,7 @@ tags: [jekyll]
 ---
 
 ### Working Projects
-- 2020, <a href="http://www.econ.ucla.edu/pfajgelbaum/Covid-Spatial.pdf" style="color:#e25440;">Optimal Lockdown in a Commuting Network</a>
+- 2020, <a href="http://www.econ.ucla.edu/pfajgelbaum/Covid-Spatial.pdf" style="color:#e25440;">Optimal Lockdown in a Commuting Network</a>, NBER 27441
     * w/ P. Fajgelbaum, W. Kim, C. Mantovani, E. Schaal
 <br/>
 <br/>
