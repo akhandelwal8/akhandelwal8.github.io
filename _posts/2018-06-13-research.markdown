@@ -5,7 +5,7 @@ tags: [jekyll]
 ---
 
 ### Working Projects
-- 2020, <a href="http://www.econ.ucla.edu/pfajgelbaum/Covid-Spatial.pdf" style="color:#e25440;">Optimal Lockdown in a Commuting Network</a>, *NBER 27441*&nbsp;&nbsp;&nbsp;&#10098;[sld](http://www.econ.ucla.edu/pfajgelbaum/slides_Covid-Spatial.pdf),[vox](https://voxeu.org/article/estimating-gains-spatially-targeted-lockdowns-against-covid-19)&#10099;
+- 2020, <a href="http://www.econ.ucla.edu/pfajgelbaum/Covid-Spatial.pdf" style="color:#e25440;">Optimal Lockdown in a Commuting Network</a>, *NBER 27441*&nbsp;&nbsp;&nbsp;&#10098;[sld](http://www.econ.ucla.edu/pfajgelbaum/slides_Covid-Spatial.pdf), [vox](https://voxeu.org/article/estimating-gains-spatially-targeted-lockdowns-against-covid-19)&#10099;
     * w/ P. Fajgelbaum, W. Kim, C. Mantovani, E. Schaal
 <br/>
 <br/>
