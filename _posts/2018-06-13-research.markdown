@@ -60,7 +60,7 @@ tags: [jekyll]
 <br/>
 <br/>
 
-- 2016, <a href="{{site.baseurl}}/files/rs_DBUAI/DBUAI.pdf" style="color:#e25440;">Detecting the Boundaries of Urban Areas in India: A Dataset for Pixel-Based Image Classification in Google Earth Engine</a>, *Remote Sensing*&nbsp;&nbsp;&nbsp;&#10098;[bib]({{site.baseurl}}/files/rs_DBUAI/DBUAI_bib.bib),[dat]({{site.baseurl}}/files/rs_DBUAI/IndiaFinal20k and IndiaFinal20k_5samples.kml)&#10099;
+- 2016, <a href="{{site.baseurl}}/files/rs_DBUAI/DBUAI.pdf" style="color:#e25440;">Detecting the Boundaries of Urban Areas in India: A Dataset for Pixel-Based Image Classification in Google Earth Engine</a>, *Remote Sensing*&nbsp;&nbsp;&nbsp;&#10098;[bib]({{site.baseurl}}/files/rs_DBUAI/DBUAI_bib.bib), [dat]({{site.baseurl}}/files/rs_DBUAI/IndiaFinal20k and IndiaFinal20k_5samples.kml)&#10099;
     * w/ R. Goldblatt, W. You, H. Hanson
     * [Citylab](https://www.citylab.com/life/2017/04/you-can-now-help-map-the-human-footprint-urbanization/522903/)
 <br/>
