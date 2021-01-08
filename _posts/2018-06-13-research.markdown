@@ -9,7 +9,7 @@ tags: [jekyll]
     * w/ P. Fajgelbaum, W. Kim, C. Mantovani, E. Schaal
 <br/>
 <br/>
-- <a href="{{site.baseurl}}/files/wp_LKBT/LBKTabstract_15.pdf" style="color:#e25440;">Language Barriers in MNCs and Knowledge Transfers</a>
+- <a href="{{site.baseurl}}/files/qje_RTP/LBKTabstract_15.pdf" style="color:#e25440;">Language Barriers in MNCs and Knowledge Transfers</a>
     * w/ L. Guillouet, R. Macchiavello, M. Teachout
 <br/>
 <br/>
