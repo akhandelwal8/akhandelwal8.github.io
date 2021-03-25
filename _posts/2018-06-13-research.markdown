@@ -41,7 +41,7 @@ tags: [jekyll]
 <br/>
 <br/>
 
-- 2018, <a href="{{site.baseurl}}/files/rse_ULNLSPBIC/ULNLSPBIC.pdf" style="color:#e25440;">Using Landsat and Nighttime Lights for Supervised Pixel-Based Image Classification of Urban Land Cover</a>, *Remote Sensing of Environment*&nbsp;&nbsp;&nbsp;&#10098;[dat]({{site.baseurl}}/files/rse_ULNLSPBIC/IndiaFinal20k_IndiaFinal20k_5samples.kml), [bib]({{site.baseurl}}/files/rse_ULNLSPBIC/ULNLSPBIC_bib.bib)&#10099;
+- 2018, <a href="{{site.baseurl}}/files/rse_ULNLSPBIC/ULNLSPBIC.pdf" style="color:#e25440;">Using Landsat and Nighttime Lights for Supervised Pixel-Based Image Classification of Urban Land Cover</a>, *Remote Sensing of Environment*&nbsp;&nbsp;&nbsp;&#10098;[bib]({{site.baseurl}}/files/rse_ULNLSPBIC/ULNLSPBIC_bib.bib)&#10099;
     * w/ R. Goldblatt, M. Stuhlmacher, B. Tellman, N. Clinton, G. Hanson, M. Georgescu, C. Wang, F. Serrano-Candela, W. Cheng, R. Balling
 <br/>
 <br/>
@@ -61,7 +61,7 @@ tags: [jekyll]
 <br/>
 <br/>
 
-- 2016, <a href="{{site.baseurl}}/files/rs_DBUAI/DBUAI.pdf" style="color:#e25440;">Detecting the Boundaries of Urban Areas in India: A Dataset for Pixel-Based Image Classification in Google Earth Engine</a>, *Remote Sensing*&nbsp;&nbsp;&nbsp;&#10098;[bib]({{site.baseurl}}/files/rs_DBUAI/DBUAI_bib.bib)&#10099;
+- 2016, <a href="{{site.baseurl}}/files/rs_DBUAI/DBUAI.pdf" style="color:#e25440;">Detecting the Boundaries of Urban Areas in India: A Dataset for Pixel-Based Image Classification in Google Earth Engine</a>, *Remote Sensing*&nbsp;&nbsp;&nbsp;&#10098;[dat]({{site.baseurl}}/files/rs_DBUAI/IndiaFinal20k_IndiaFinal20k_5samples.kml), [bib]({{site.baseurl}}/files/rs_DBUAI/DBUAI_bib.bib)&#10099;
     * w/ R. Goldblatt, W. You, H. Hanson
     * [Citylab](https://www.citylab.com/life/2017/04/you-can-now-help-map-the-human-footprint-urbanization/522903/)
 <br/>
