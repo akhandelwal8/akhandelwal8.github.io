@@ -5,7 +5,6 @@ tags: [jekyll]
 ---
 
 ### Working Projects
-
 - Communication Frictions and Knowledge Transfers: Evidence from FDI
     * w/ L. Guillouet, R. Macchiavello, M. Teachout
 <br/>
