@@ -5,7 +5,7 @@ tags: [jekyll]
 ---
 
 ### Working Projects
-- <a href="{{site.baseurl}}/files/wp_LBKT/LBKTdraft_submit.pdf" style="color:#e25440;">Communication Frictions and Knowledge Transfers: Evidence from FDI</a>
+- <a href="{{site.baseurl}}/files/wp_LBKT/LBKTdraft_submit.pdf" style="color:#e25440;">Language Barriers in Multinationals and Knowledge Transfers</a>
     * L. Guillouet, R. Macchiavello, M. Teachout
 <br/>
 <br/>
