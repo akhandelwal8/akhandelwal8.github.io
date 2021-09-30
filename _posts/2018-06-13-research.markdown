@@ -21,12 +21,14 @@ tags: [jekyll]
 <br/>
 <br/>
 
+- <a href="https://drive.google.com/file/d/1sWtjCDSvkmH0jMi6eWIRLE6K06p499mp/view" style="color:#e25440;">Using Neural Networks to Predict Micro-Spatial Economic Growth</a>, *c/a American Economic Review: Insights
+    * A. Khachiyan, A. Thomas, H. Zhou, G. Hanson, A. Cloninger, T. Rosing
+
 - Using Satellite Imagery to Detect the Impacts of New Highways: An Application to India
     * K. Baragwanath, G. Hanson, C. Liu, H. Park
 
-
 ### Publications
-- 2021, <a href="http://www.econ.ucla.edu/pfajgelbaum/Covid-Spatial.pdf" style="color:#e25440;">Optimal Lockdown in a Commuting Network</a>, *American Economic Review: Insights, accepted*&nbsp;&nbsp;&nbsp;&#10098;[sld](http://www.econ.ucla.edu/pfajgelbaum/slides_Covid-Spatial.pdf), [rep](https://www.dropbox.com/sh/orhsmuh08m5kykr/AACDOv73GH35jZt4hBdZg4Lxa?dl=0), [vox](https://voxeu.org/article/estimating-gains-spatially-targeted-lockdowns-against-covid-19)&#10099;
+- 2021, <a href="http://www.econ.ucla.edu/pfajgelbaum/Covid-Spatial.pdf" style="color:#e25440;">Optimal Lockdown in a Commuting Network</a>, *American Economic Review: Insights*&nbsp;&nbsp;&nbsp;&#10098;[sld](http://www.econ.ucla.edu/pfajgelbaum/slides_Covid-Spatial.pdf), [rep](https://www.dropbox.com/sh/orhsmuh08m5kykr/AACDOv73GH35jZt4hBdZg4Lxa?dl=0), [vox](https://voxeu.org/article/estimating-gains-spatially-targeted-lockdowns-against-covid-19)&#10099;
     * P. Fajgelbaum, W. Kim, C. Mantovani, E. Schaal
 <br/>
 <br/>
