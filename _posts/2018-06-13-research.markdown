@@ -6,7 +6,7 @@ tags: [jekyll]
 
 ### Working Projects
 
-- <a href="http://pfajgelb.mycpanel.princeton.edu/tradewar_0920.pdf" style="color:#e25440;">The Economic Impacts of the US-China Trade War</a>
+- <a href="http://pfajgelb.mycpanel.princeton.edu/tradewar_0920.pdf" style="color:#e25440;">The Economic Impacts of the US-China Trade War</a>, written for *Annual Review of Economics*
     - P. Fajgelbaum
 <br/>
 <br/>
