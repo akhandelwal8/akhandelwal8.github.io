@@ -14,7 +14,7 @@ tags: [jekyll]
     * C. Angelucci, A. Prat, A. Swanson
 <br/>
 <br/>
-- <a href="{{site.baseurl}}/files/wp_LBKT/LBKTdraft_submit.pdf" style="color:#e25440;">Language Barriers in Multinationals and Knowledge Transfers</a>, *NBER 28807*&nbsp;&nbsp;&nbsp;&#10098;[bib]({{site.baseurl}}/files/wp_LBKT/LBKT_bib.bib)
+- <a href="{{site.baseurl}}/files/wp_LBKT/LBKTdraft_submit.pdf" style="color:#e25440;">Language Barriers in Multinationals and Knowledge Transfers</a>, *NBER 28807*&nbsp;&nbsp;&nbsp;&#10098;[bib]({{site.baseurl}}/files/wp_LBKT/LBKT_bib.bib)&#10099;
     * L. Guillouet, R. Macchiavello, M. Teachout
 <br/>
 <br/>
