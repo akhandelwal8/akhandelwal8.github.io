@@ -14,7 +14,7 @@ tags: [jekyll]
     * C. Angelucci, A. Prat, A. Swanson
 <br/>
 <br/>
-- <a href="{{site.baseurl}}/files/wp_LBKT/LBKTdraft_submit.pdf" style="color:#e25440;">Language Barriers in Multinationals and Knowledge Transfers</a>
+- <a href="{{site.baseurl}}/files/wp_LBKT/LBKTdraft_submit.pdf" style="color:#e25440;">Language Barriers in Multinationals and Knowledge Transfers</a>, *NBER 28807*&nbsp;&nbsp;&nbsp;&#10098;[bib]({{site.baseurl}}/files/wp_LBKT/LBKT_bib.bib)
     * L. Guillouet, R. Macchiavello, M. Teachout
 <br/>
 <br/>
@@ -26,7 +26,7 @@ tags: [jekyll]
     * K. Baragwanath, G. Hanson, C. Liu, H. Park
 
 ### Publications
-- 2021, <a href="{{site.baseurl}}/files/aeri_OLCN/OLCN.pdf" style="color:#e25440;">Optimal Lockdown in a Commuting Network</a>, *American Economic Review: Insights*&nbsp;&nbsp;&nbsp;&#10098;[app]({{site.baseurl}}/files/aeri_OLCN/OLCN_appendix.pdf), [sld]({{site.baseurl}}/files/aeri_OLCN/OLCN_slides.pdf), [dat](https://www.openicpsr.org/openicpsr/project/127341/version/V1/view), [vox](https://voxeu.org/article/estimating-gains-spatially-targeted-lockdowns-against-covid-19)&#10099;
+- 2021, <a href="{{site.baseurl}}/files/aeri_OLCN/OLCN.pdf" style="color:#e25440;">Optimal Lockdown in a Commuting Network</a>, *American Economic Review: Insights*&nbsp;&nbsp;&nbsp;&#10098;[app]({{site.baseurl}}/files/aeri_OLCN/OLCN_appendix.pdf), [sld]({{site.baseurl}}/files/aeri_OLCN/OLCN_slides.pdf), [dat](https://www.openicpsr.org/openicpsr/project/127341/version/V1/view), [bib]({{site.baseurl}}/files/aeri_OLCN/OLCN_bib.bib), [vox](https://voxeu.org/article/estimating-gains-spatially-targeted-lockdowns-against-covid-19)&#10099;
     * P. Fajgelbaum, W. Kim, C. Mantovani, E. Schaal
 <br/>
 <br/>
