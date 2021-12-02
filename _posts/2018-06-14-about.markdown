@@ -3,13 +3,10 @@ title:  ""
 categories: [jekyll]
 tags: [jekyll]
 ---
-I am an economist who studies international trade and economic development. I am currently Chair of the Economics Division at Columbia Business School.
+I study international trade and economic development. I am currently Chair of the Economics Division at Columbia Business School.
 
-Affiliations:
-- [Columbia GSB](https://www8.gsb.columbia.edu/)
-- [Review of Economics and Statistics](https://www.mitpressjournals.org/loi/rest) (Co-Chair Editor)
+Current Affiliations:
 - [JPAL](https://www.povertyactionlab.org/)
 - [NBER](https://nber.org/)
 - [BREAD](http://ibread.org/bread/)
 - [IGC](https://www.theigc.org/)
-- [Brookings](https://www.brookings.edu/) (Non-Resident Fellow)
