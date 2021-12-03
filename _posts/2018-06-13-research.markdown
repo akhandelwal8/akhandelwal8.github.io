@@ -5,11 +5,6 @@ tags: [jekyll]
 ---
 
 ### Working Projects
-
-- <a href="{{site.baseurl}}/files/are_EITR/tradewar_1203.pdf" style="color:#e25440;">The Economic Impacts of the US-China Trade War</a>, written for *Annual Review of Economics, 2022*
-    - P. Fajgelbaum
-<br/>
-<br/>
 - <a href="https://www.ashley-terese-swanson.com/uploads/1/2/0/3/120330286/akps_aug2021.pdf" style="color:#e25440;">Knowledge Acquisition in a High-Stakes Environment: Evidence from the Covid-19 Pandemic</a>
     * C. Angelucci, A. Prat, A. Swanson
 <br/>
@@ -26,6 +21,11 @@ tags: [jekyll]
     * K. Baragwanath, G. Hanson, C. Liu, H. Park
 
 ### Publications
+- 2022, <a href="{{site.baseurl}}/files/are_EITR/tradewar_1203.pdf" style="color:#e25440;">The Economic Impacts of the US-China Trade War</a>, *Annual Review of Economics*
+    - P. Fajgelbaum
+<br/>
+<br/>
+
 - 2021, <a href="{{site.baseurl}}/files/aeri_OLCN/OLCN.pdf" style="color:#e25440;">Optimal Lockdown in a Commuting Network</a>, *American Economic Review: Insights*&nbsp;&nbsp;&nbsp;&#10098;[app]({{site.baseurl}}/files/aeri_OLCN/OLCN_appendix.pdf), [sld]({{site.baseurl}}/files/aeri_OLCN/OLCN_slides.pdf), [dat](https://www.openicpsr.org/openicpsr/project/127341/version/V1/view), [bib]({{site.baseurl}}/files/aeri_OLCN/OLCN_bib.bib), [vox](https://voxeu.org/article/estimating-gains-spatially-targeted-lockdowns-against-covid-19)&#10099;
     * P. Fajgelbaum, W. Kim, C. Mantovani, E. Schaal
 <br/>
