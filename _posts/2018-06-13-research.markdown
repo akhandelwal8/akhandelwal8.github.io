@@ -6,7 +6,7 @@ tags: [jekyll]
 
 ### Working Projects
 
-- <a href="{{site.baseurl}}/files/are_EITR/tradewar_1202.pdf" style="color:#e25440;">The Economic Impacts of the US-China Trade War</a>, written for *Annual Review of Economics, 2022*
+- <a href="{{site.baseurl}}/files/are_EITR/tradewar_1203.pdf" style="color:#e25440;">The Economic Impacts of the US-China Trade War</a>, written for *Annual Review of Economics, 2022*
     - P. Fajgelbaum
 <br/>
 <br/>
