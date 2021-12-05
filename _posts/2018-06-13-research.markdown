@@ -13,7 +13,7 @@ tags: [jekyll]
     * L. Guillouet, R. Macchiavello, M. Teachout
 <br/>
 <br/>
-- <a href="https://drive.google.com/file/d/1sWtjCDSvkmH0jMi6eWIRLE6K06p499mp/view" style="color:#e25440;">Using Neural Networks to Predict Micro-Spatial Economic Growth</a>, c/a *American Economic Review: Insights*
+- <a href="{{site.baseurl}}/files/aeri_NN/aeri_NN.pdf" style="color:#e25440;">Using Neural Networks to Predict Micro-Spatial Economic Growth</a>, c/a *American Economic Review: Insights*
     * A. Khachiyan, A. Thomas, H. Zhou, G. Hanson, A. Cloninger, T. Rosing
 <br/>
 <br/>
