@@ -5,6 +5,9 @@ tags: [jekyll]
 ---
 
 ### Working Projects
+- <a href="http://pfajgelb.mycpanel.princeton.edu/TWGR_1206.pdf" style="color:#e25440;">The US-China Trade War and Global Reallocations</a>
+    * P. Goldberg, P. Fajgelbaum, P. Kennedy, D. Taglioni
+
 - <a href="https://www.ashley-terese-swanson.com/uploads/1/2/0/3/120330286/akps_aug2021.pdf" style="color:#e25440;">Knowledge Acquisition in a High-Stakes Environment: Evidence from the Covid-19 Pandemic</a>
     * C. Angelucci, A. Prat, A. Swanson
 <br/>
