@@ -23,7 +23,8 @@ tags: [jekyll]
 ### Publications
 - <a href="{{site.baseurl}}/files/aeri_NN/aeri_NN.pdf" style="color:#e25440;">Using Neural Networks to Predict Micro-Spatial Economic Growth</a>, *American Economic Review: Insights*, forthcoming
     * A. Khachiyan, A. Thomas, H. Zhou, G. Hanson, A. Cloninger, T. Rosing
-
+<br/>
+<br/>
 - 2022, <a href="{{site.baseurl}}/files/are_EITR/tradewar_1203.pdf" style="color:#e25440;">The Economic Impacts of the US-China Trade War</a>, *Annual Review of Economics*
     - P. Fajgelbaum
 <br/>
