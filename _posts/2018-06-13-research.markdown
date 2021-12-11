@@ -21,7 +21,7 @@ tags: [jekyll]
     * K. Baragwanath, G. Hanson, C. Liu, H. Park
 
 ### Publications
-- <a href="{{site.baseurl}}/files/aeri_NN/aeri_NN.pdf" style="color:#e25440;">Using Neural Networks to Predict Micro-Spatial Economic Growth</a>, ***American Economic Review: Insights*(*, forthcoming
+- <a href="{{site.baseurl}}/files/aeri_NN/aeri_NN.pdf" style="font-weight: bold;" style="color:#e25440;">Using Neural Networks to Predict Micro-Spatial Economic Growth</a>, ***American Economic Review: Insights***, forthcoming
     * A. Khachiyan, A. Thomas, H. Zhou, G. Hanson, A. Cloninger, T. Rosing
 <br/>
 <br/>
