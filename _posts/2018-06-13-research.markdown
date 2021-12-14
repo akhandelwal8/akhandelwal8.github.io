@@ -95,8 +95,8 @@ tags: [jekyll]
 <a href="https://thehill.com/blogs/pundits-blog/economy-budget/316137-the-hidden-benefit-of-global-trade/" style="color:black;">Hill</a>, 
 -->    
 
-- 2016, <a href="{{site.baseurl}}/files/ecma_PMTR/PMTR.pdf" style="color:#e25440;font-weight: bold;">Prices, Markups and Trade Reform</a>, ***Econometrica***
-    * J. De Loecker, P. Goldberg, N. Pavcnik&nbsp;&nbsp;&nbsp;&#10098;[app]({{site.baseurl}}/files/ecma_PMTR/PMTR_appendix.pdf), [sld]({{site.baseurl}}/files/ecma_PMTR/PMTR_slides.pdf), [bib]({{site.baseurl}}/files/ecma_PMTR/PMTR_bib.bib), [microinsights](https://microeconomicinsights.org/prices-markups-and-trade-reform/)&#10099;
+- 2016, <a href="{{site.baseurl}}/files/ecma_PMTR/PMTR.pdf" style="color:#e25440;font-weight: bold;">Prices, Markups and Trade Reform</a>, ***Econometrica***&nbsp;&nbsp;&nbsp;&#10098;[app]({{site.baseurl}}/files/ecma_PMTR/PMTR_appendix.pdf), [sld]({{site.baseurl}}/files/ecma_PMTR/PMTR_slides.pdf), [bib]({{site.baseurl}}/files/ecma_PMTR/PMTR_bib.bib), [microinsights](https://microeconomicinsights.org/prices-markups-and-trade-reform/)&#10099;
+    * J. De Loecker, P. Goldberg, N. Pavcnik
 <br/>
 <br/>
 
