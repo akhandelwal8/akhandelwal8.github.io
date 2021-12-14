@@ -21,11 +21,11 @@ tags: [jekyll]
     * K. Baragwanath, G. Hanson, C. Liu, H. Park
 
 ### Publications
-- fth, <a href="{{site.baseurl}}/files/aeri_NN/aeri_NN.pdf" style="color:#e25440;font-weight: bold;">Using Neural Networks to Predict Micro-Spatial Economic Growth</a>, ***American Economic Review: Insights***&nbsp;&nbsp;&nbsp;&#10098;[rep](https://github.com/thomas9t/spatial-econ-cnn)&#10099;
+- ***fth***, <a href="{{site.baseurl}}/files/aeri_NN/aeri_NN.pdf" style="color:#e25440;font-weight: bold;">Using Neural Networks to Predict Micro-Spatial Economic Growth</a>, ***American Economic Review: Insights***&nbsp;&nbsp;&nbsp;&#10098;[rep](https://github.com/thomas9t/spatial-econ-cnn)&#10099;
     * A. Khachiyan, A. Thomas, H. Zhou, G. Hanson, A. Cloninger, T. Rosing
 <br/>
 <br/>
-- 2022, <a href="{{site.baseurl}}/files/are_EITR/tradewar_1203.pdf" style="color:#e25440;font-weight: bold;">The Economic Impacts of the US-China Trade War</a>, ***Annual Review of Economics***
+- ***2022***, <a href="{{site.baseurl}}/files/are_EITR/tradewar_1203.pdf" style="color:#e25440;font-weight: bold;">The Economic Impacts of the US-China Trade War</a>, ***Annual Review of Economics***
     - P. Fajgelbaum
 <br/>
 <br/>
