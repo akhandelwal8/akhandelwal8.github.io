@@ -26,7 +26,7 @@ tags: [jekyll]
 <br/>
 <br/>
 - 2022, <a href="{{site.baseurl}}/files/are_EITR/tradewar_1203.pdf" style="color:#e25440;font-weight: bold;">The Economic Impacts of the US-China Trade War</a>, ***Annual Review of Economics***
-    -- P. Fajgelbaum
+    - P. Fajgelbaum
 <br/>
 <br/>
 
