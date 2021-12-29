@@ -21,7 +21,7 @@ tags: [jekyll]
     * K. Baragwanath, G. Hanson, C. Liu, H. Park
 
 ### Publications
-- fth, <a href="{{site.baseurl}}/files/aeri_NN/aeri_NN.pdf" style="color:#e25440;font-weight: bold;">Using Neural Networks to Predict Micro-Spatial Economic Growth</a>, ***American Economic Review: Insights***&nbsp;&nbsp;&nbsp;&#10098;[rep](https://github.com/thomas9t/spatial-econ-cnn)&#10099;
+- forth, <a href="{{site.baseurl}}/files/aeri_NN/aeri_NN.pdf" style="color:#e25440;font-weight: bold;">Using Neural Networks to Predict Micro-Spatial Economic Growth</a>, ***American Economic Review: Insights***&nbsp;&nbsp;&nbsp;&#10098;[git](https://github.com/thomas9t/spatial-econ-cnn)&#10099;
     * A. Khachiyan, A. Thomas, H. Zhou, G. Hanson, A. Cloninger, T. Rosing
 <br/>
 <br/>
@@ -41,12 +41,12 @@ tags: [jekyll]
 <br/>
 <br/>
 
-- 2020, <a href="{{site.baseurl}}/files/are_DAIIT/DAIIT.pdf" style="color:#e25440;font-weight: bold;">How Distortions Alter the Impacts of International Trade in Developing Countries</a>, ***Annual Review of Economics***&nbsp;&nbsp;&nbsp;&#10098;[sld]({{site.baseurl}}/files/are_DAIIT/DAIIT_slides.pdf), [bib]({{site.baseurl}}/files/are_DAIIT/DAIIT_bib.bib), [trade-dev jrs conf](https://egc.yale.edu/trade-and-development-mini-conference), [voxdev podcast](https://voxdev.org/topic/firms-trade/trade-developing-economies)&#10099;
+- 2020, <a href="{{site.baseurl}}/files/are_DAIIT/DAIIT.pdf" style="color:#e25440;font-weight: bold;">How Distortions Alter the Impacts of International Trade in Developing Countries</a>, ***Annual Review of Economics***&nbsp;&nbsp;&nbsp;&#10098;[sld]({{site.baseurl}}/files/are_DAIIT/DAIIT_slides.pdf), [bib]({{site.baseurl}}/files/are_DAIIT/DAIIT_bib.bib), [conf](https://egc.yale.edu/trade-and-development-mini-conference), [voxdev podcast](https://voxdev.org/topic/firms-trade/trade-developing-economies)&#10099;
     * D. Aktin
 <br/>
 <br/>
 
-- 2019, <a href="{{site.baseurl}}/files/aerpp_MPTSPB/MPTSPB.pdf" style="color:#e25440;font-weight: bold;">Measuring Productivity: Lessons from Tailored Surveys and Productivity Benchmarking</a>, ***American Economic Review Papers & Proceedings***&nbsp;&nbsp;&nbsp;&#10098;[app]({{site.baseurl}}/files/aerpp_MPTSPB/MPTSPB_appendix.pdf), [sld]({{site.baseurl}}/files/aerpp_MPTSPB/MPTSPB_slides.pdf), [bib]({{site.baseurl}}/files/aerpp_MPTSPB/MPTSPB_bib.bib)&#10099;
+- 2019, <a href="{{site.baseurl}}/files/aerpp_MPTSPB/MPTSPB.pdf" style="color:#e25440;font-weight: bold;">Measuring Productivity: Lessons from Tailored Surveys and Productivity Benchmarking</a>, ***American Economic Review Papers & Proceedings***&nbsp;&nbsp;&nbsp;&#10098;[app]({{site.baseurl}}/files/aerpp_MPTSPB/MPTSPB_appendix.pdf), [rep](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/PYWKJH), [sld]({{site.baseurl}}/files/aerpp_MPTSPB/MPTSPB_slides.pdf), [bib]({{site.baseurl}}/files/aerpp_MPTSPB/MPTSPB_bib.bib)&#10099;
     * D. Atkin, A. Osman
 <br/>
 <br/>
@@ -63,11 +63,11 @@ tags: [jekyll]
 
 - 2017, <a href="{{site.baseurl}}/files/qje_OBTAP/OBTAP.pdf" style="color:#e25440;font-weight: bold;">Organizational Barriers to Technology Adoption: Evidence from Soccer-ball Producers in Pakistan</a>, ***Quarterly Journal of Economics***&nbsp;&nbsp;&nbsp;&#10098;[app]({{site.baseurl}}/files/qje_OBTAP/OBTAP_appendix.pdf), [bib]({{site.baseurl}}/files/qje_OBTAP/OBTAP_bib.bib), [vox](https://voxdev.org/topic/technology-innovation/incentivising-technology-adoption-pakistani-firms)&#10099;
     * D. Atkin, A. Chaudhry, S. Chaudry, E. Verhoogen
-    * [Atlantic](https://www.theatlantic.com/business/archive/2014/07/one-city-in-pakistan-produces-nearly-half-of-the-worlds-soccer-balls/373802/), [WSJ](https://blogs.wsj.com/economics/2014/04/28/how-automation-fell-flat-in-the-worlds-soccer-ball-capital/),[NR](https://newrepublic.com/article/118087/soccer-ball-manufacture-inefficiency-pakistan)
+    * [Atlantic](https://www.theatlantic.com/business/archive/2014/07/one-city-in-pakistan-produces-nearly-half-of-the-worlds-soccer-balls/373802/), [WSJ](https://blogs.wsj.com/economics/2014/04/28/how-automation-fell-flat-in-the-worlds-soccer-ball-capital/)
 <br/>
 <br/>
 
-- 2017, <a href="{{site.baseurl}}/files/qje_EFP/EFP.pdf" style="color:#e25440;font-weight: bold;">Exporting and Firm Performance: Evidence from a Randomized Trial</a>, ***Quarterly Journal of Economics*** [Editor's Choice]&nbsp;&nbsp;&nbsp;&#10098;[app]({{site.baseurl}}/files/qje_EFP/EFP_appendix.pdf), [sld]({{site.baseurl}}/files/qje_EFP/EFP_slides.pdf), [bib]({{site.baseurl}}/files/qje_EFP/EFP_bib.bib), [vox](https://voxeu.org/article/exports-and-firm-performance-randomised-trial-evidence)&#10099;
+- 2017, <a href="{{site.baseurl}}/files/qje_EFP/EFP.pdf" style="color:#e25440;font-weight: bold;">Exporting and Firm Performance: Evidence from a Randomized Trial</a>, ***Quarterly Journal of Economics*** [Editor's Choice]&nbsp;&nbsp;&nbsp;&#10098;[app]({{site.baseurl}}/files/qje_EFP/EFP_appendix.pdf), [sld]({{site.baseurl}}/files/qje_EFP/EFP_slides.pdf), [rep](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/QOGMVI), [bib]({{site.baseurl}}/files/qje_EFP/EFP_bib.bib), [vox](https://voxeu.org/article/exports-and-firm-performance-randomised-trial-evidence)&#10099;
     * D. Atkin, A. Osman
     * [CEA](https://obamawhitehouse.archives.gov/sites/default/files/docs/cea_trade_report_final_non-embargoed_v2.pdf), [Bloomberg](https://www.bloomberg.com/opinion/articles/2017-12-14/u-s-could-give-exporters-a-helping-hand), [Trade Talks Podcast](https://www.piie.com/experts/peterson-perspectives/trade-talks-episode-62-randomized-trade)
 <br/>
@@ -95,7 +95,7 @@ tags: [jekyll]
 <a href="https://thehill.com/blogs/pundits-blog/economy-budget/316137-the-hidden-benefit-of-global-trade/" style="color:black;">Hill</a>, 
 -->    
 
-- 2016, <a href="{{site.baseurl}}/files/ecma_PMTR/PMTR.pdf" style="color:#e25440;font-weight: bold;">Prices, Markups and Trade Reform</a>, ***Econometrica***&nbsp;&nbsp;&nbsp;&#10098;[app]({{site.baseurl}}/files/ecma_PMTR/PMTR_appendix.pdf), [sld]({{site.baseurl}}/files/ecma_PMTR/PMTR_slides.pdf), [bib]({{site.baseurl}}/files/ecma_PMTR/PMTR_bib.bib), [microinsights](https://microeconomicinsights.org/prices-markups-and-trade-reform/)&#10099;
+- 2016, <a href="{{site.baseurl}}/files/ecma_PMTR/PMTR.pdf" style="color:#e25440;font-weight: bold;">Prices, Markups and Trade Reform</a>, ***Econometrica***&nbsp;&nbsp;&nbsp;&#10098;[app]({{site.baseurl}}/files/ecma_PMTR/PMTR_appendix.pdf), [sld]({{site.baseurl}}/files/ecma_PMTR/PMTR_slides.pdf), [bib]({{site.baseurl}}/files/ecma_PMTR/PMTR_bib.bib), [mi](https://microeconomicinsights.org/prices-markups-and-trade-reform/)&#10099;
     * J. De Loecker, P. Goldberg, N. Pavcnik
 <br/>
 <br/>
