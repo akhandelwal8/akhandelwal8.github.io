@@ -13,7 +13,7 @@ tags: [jekyll]
     * C. Angelucci, A. Prat, A. Swanson
 <br/>
 <br/>
-- <a href="{{site.baseurl}}/files/wp_LBKT/LBKTdraft_tosubmit.pdf" style="color:#e25440;font-weight: bold;">Language Barriers in Multinationals and Knowledge Transfers</a>, *NBER 28807*&nbsp;&nbsp;&nbsp;&#10098;[bib]({{site.baseurl}}/files/wp_LBKT/LBKT_bib.bib), [vox](https://voxeu.org/article/language-subsidies-improve-knowledge-transfers-multinationals?utm_source=hootsuite&utm_medium=&utm_term=&utm_content=&utm_campaign=)&#10099;
+- <a href="{{site.baseurl}}/files/wp_LBKT/LBKTdraft_tosubmit.pdf" style="color:#e25440;font-weight: bold;">Language Barriers in Multinationals and Knowledge Transfers</a>, *NBER 28807*&nbsp;&nbsp;&nbsp;&#10098;[bib]({{site.baseurl}}/files/wp_LBKT/LBKT_bib.bib), [vox](https://voxeu.org/article/language-subsidies-improve-knowledge-transfers-multinationals?utm_source=hootsuite&utm_medium=&utm_term=&utm_content=&utm_campaign=)&#10099; [newyorker](https://www.newyorker.com/business/currency/the-consequences-of-the-unprecedented-rush-of-companies-leaving-russia)
     * L. Guillouet, R. Macchiavello, M. Teachout
 <br/>
 <br/>
@@ -36,7 +36,7 @@ tags: [jekyll]
 <br/>
 <br/>
 
-- 2020, <a href="{{site.baseurl}}/files/qje_RTP/RTP.pdf" style="color:#e25440;font-weight: bold;">The Return to Protectionism</a>, ***Quarterly Journal of Economics*** [Editor's Choice]&nbsp;&nbsp;&nbsp;&#10098;[+2019 waves]({{site.baseurl}}/files/qje_RTP/RTP_update.pdf), [app]({{site.baseurl}}/files/qje_RTP/RTP_appendix.pdf), [sld]({{site.baseurl}}/files/qje_RTP/RTP_slides.pdf), [dat]({{site.baseurl}}/files/qje_RTP/RTP_data.zip), [rep](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/KSOVSE), [bib]({{site.baseurl}}/files/qje_RTP/RTP_bib.bib), [vox](https://voxeu.org/article/return-protectionism)&#10099;
+- 2020, <a href="{{site.baseurl}}/files/qje_RTP/RTP.pdf" style="color:#e25440;font-weight: bold;">The Return to Protectionism</a>, ***Quarterly Journal of Economics*** [Editor's Choice]&nbsp;&nbsp;&nbsp;&#10098;[+2019 waves]({{site.baseurl}}/files/qje_RTP/RTP_update.pdf), [app]({{site.baseurl}}/files/qje_RTP/RTP_appendix.pdf), [sld]({{site.baseurl}}/files/qje_RTP/RTP_slides.pdf), [dat]({{site.baseurl}}/files/qje_RTP/RTP_data.zip), [rep](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/KSOVSE), [bib]({{site.baseurl}}/files/qje_RTP/RTP_bib.bib), [vox](https://voxeu.org/article/return-protectionism)&#10099; [ft-oped](https://www.ft.com/content/30b10942-7d43-4d7b-ba74-925fb167d043)
     * P. Goldberg, P. Fajgelbaum, P. Kennedy
     * [Economist1](https://www.economist.com/finance-and-economics/2019/04/04/trade-talks-will-probably-end-with-tariffs-still-in-place/), [Economist2](https://www.economist.com/finance-and-economics/2019/05/09/so-far-donald-trumps-trade-war-has-not-derailed-the-global-economy), [Trade Talks Podcast](https://www.piie.com/experts/peterson-perspectives/trade-talks-episode-77-happy-tariffversary), [CEA](https://www.whitehouse.gov/wp-content/uploads/2020/02/2020-Economic-Report-of-the-President-WHCEA.pdf), [JEC](https://www.jec.senate.gov/public/_cache/files/0edc8a6c-d7b4-4e3d-a9ed-d854be73fcea/joint-response-to-the-economic-report-of-the-president.pdf)
 <br/>
