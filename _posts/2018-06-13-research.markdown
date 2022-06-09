@@ -13,7 +13,7 @@ tags: [jekyll]
     * C. Angelucci, A. Prat, A. Swanson
 <br/>
 <br/>
-- <a href="{{site.baseurl}}/files/wp_LBKT/LBKT_May22.pdf" style="color:#e25440;font-weight: bold;">Language Barriers in Multinationals and Knowledge Transfers</a>, *NBER 28807*&nbsp;&nbsp;&nbsp;&#10098;[bib]({{site.baseurl}}/files/wp_LBKT/LBKT_bib.bib), [vox](https://voxeu.org/article/language-subsidies-improve-knowledge-transfers-multinationals?utm_source=hootsuite&utm_medium=&utm_term=&utm_content=&utm_campaign=),[newyorker](https://www.newyorker.com/business/currency/the-consequences-of-the-unprecedented-rush-of-companies-leaving-russia);&#10099
+- <a href="{{site.baseurl}}/files/wp_LBKT/LBKT_May22.pdf" style="color:#e25440;font-weight: bold;">Language Barriers in Multinationals and Knowledge Transfers</a>, *NBER 28807*&nbsp;&nbsp;&nbsp;&#10098;[bib]({{site.baseurl}}/files/wp_LBKT/LBKT_bib.bib), [vox](https://voxeu.org/article/language-subsidies-improve-knowledge-transfers-multinationals?utm_source=hootsuite&utm_medium=&utm_term=&utm_content=&utm_campaign=);&#10099
     * L. Guillouet, R. Macchiavello, M. Teachout
 <br/>
 <br/>
