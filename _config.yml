@@ -1,6 +1,6 @@
 # Site settings
 title: Amit Khandelwal
-description: Chazen Professor of Global Business, Economics (Division Chair), Columbia GSB
+description: Professor of Economics & Global Affairs, Yale University
 url: 'https://akhandelwal8.github.io'
 baseurl: ""
 google_analytics: 'UA-91934237-1'
@@ -8,7 +8,7 @@ google_analytics: 'UA-91934237-1'
 
 author:
   name: 'Amit Khandelwal'
-  email: ak2796@columbia.edu
+  email: amit.khandelwal@yale.edu
 
 defaults:
   -
