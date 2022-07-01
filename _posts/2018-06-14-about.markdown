@@ -3,7 +3,7 @@ title:  ""
 categories: [jekyll]
 tags: [jekyll]
 ---
-I study international trade and economic development. I am a Professor of Economics at Yale University.
+I am a Professor of Economics and Global Affairs at Yale University. I study international trade and economic development. 
 
 Current Affiliations:
 - [JPAL](https://www.povertyactionlab.org/)
