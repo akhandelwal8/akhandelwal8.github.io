@@ -3,7 +3,7 @@ title:  ""
 categories: [jekyll]
 tags: [jekyll]
 ---
-I am a Professor of Economics and Global Affairs at Yale University. I study international trade and economic development. 
+I am the Dong-Soo Hahn Professor of Global Affairs and Economics at Yale University. My appointment is in the Economics Department and the Jackson School of Global Affairs. I study international trade and economic development. 
 
 Current Affiliations:
 - [JPAL](https://www.povertyactionlab.org/)
