@@ -25,7 +25,7 @@ tags: [jekyll]
     * A. Khachiyan, A. Thomas, H. Zhou, G. Hanson, A. Cloninger, T. Rosing
 <br/>
 <br/>
-- 2022, <a href="{{site.baseurl}}/files/are_EITR/tradewar_1203.pdf" style="color:#e25440;font-weight: bold;">The Economic Impacts of the US-China Trade War</a>, ***Annual Review of Economics***
+- 2022, <a href="{{site.baseurl}}/files/are_EITR/ARE_EITW.pdf" style="color:#e25440;font-weight: bold;">The Economic Impacts of the US-China Trade War</a>, ***Annual Review of Economics***
     - P. Fajgelbaum
     * [Economist](https://www.economist.com/finance-and-economics/2022/01/01/new-research-counts-the-costs-of-the-sino-american-trade-war)
 <br/>
