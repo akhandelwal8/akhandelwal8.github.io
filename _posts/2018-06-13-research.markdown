@@ -13,7 +13,7 @@ tags: [jekyll]
     * K. Baragwanath, G. Hanson, C. Liu, H. Park
 
 ### Publications
-- <a href="{{site.baseurl}}/files/wp_TWGR/TWGR.pdf" style="color:#e25440;font-weight: bold;">The US-China Trade War and Global Reallocations</a>, ***American Economic Review: Insights***&nbsp;&nbsp;&nbsp;&#10098;[bib]({{site.baseurl}}/files/wp_TWGR/TWGR_bib.bib), [vox](https://cepr.org/voxeu/columns/bystander-effect-us-china-trade-war)&#10099;
+- <a href="{{site.baseurl}}/files/aeri_TWGR/TWGR.pdf" style="color:#e25440;font-weight: bold;">The US-China Trade War and Global Reallocations</a>, ***American Economic Review: Insights***&nbsp;&nbsp;&nbsp;&#10098;[bib]({{site.baseurl}}/files/aeri_TWGR/TWGR_bib.bib), [sld]({{site.baseurl}}/files/aeri_TWGR/TWGR_slides.pdf), [vox](https://cepr.org/voxeu/columns/bystander-effect-us-china-trade-war)&#10099;
     * P. Goldberg, P. Fajgelbaum, P. Kennedy, D. Taglioni
 <br/>
 <br/>
