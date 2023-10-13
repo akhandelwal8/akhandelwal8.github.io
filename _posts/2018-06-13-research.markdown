@@ -41,7 +41,7 @@ tags: [jekyll]
 
 - 2020, <a href="{{site.baseurl}}/files/qje_RTP/RTP.pdf" style="color:#e25440;font-weight: bold;">The Return to Protectionism</a>, ***Quarterly Journal of Economics*** [Editor's Choice]&nbsp;&nbsp;&nbsp;&#10098;[+2019 waves]({{site.baseurl}}/files/qje_RTP/RTP_update.pdf), [apx]({{site.baseurl}}/files/qje_RTP/RTP_appendix.pdf), [ppt]({{site.baseurl}}/files/qje_RTP/RTP_slides.pdf), [dat]({{site.baseurl}}/files/qje_RTP/RTP_data.zip), [rep](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/KSOVSE), [bib]({{site.baseurl}}/files/qje_RTP/RTP_bib.bib), [vox](https://voxeu.org/article/return-protectionism), [ft]({{site.baseurl}}/files/qje_RTP/ft_20220608.pdf)&#10099; 
     * P. Goldberg, P. Fajgelbaum, P. Kennedy
-    * [Economist1](https://www.economist.com/finance-and-economics/2019/04/04/trade-talks-will-probably-end-with-tariffs-still-in-place/), [Economist2](https://www.economist.com/finance-and-economics/2019/05/09/so-far-donald-trumps-trade-war-has-not-derailed-the-global-economy), [Trade Talks Podcast](https://www.piie.com/experts/peterson-perspectives/trade-talks-episode-77-happy-tariffversary), [CEA](https://www.whitehouse.gov/wp-content/uploads/2020/02/2020-Economic-Report-of-the-President-WHCEA.pdf), [JEC](https://www.jec.senate.gov/public/_cache/files/0edc8a6c-d7b4-4e3d-a9ed-d854be73fcea/joint-response-to-the-economic-report-of-the-president.pdf)
+    - [Economist1](https://www.economist.com/finance-and-economics/2019/04/04/trade-talks-will-probably-end-with-tariffs-still-in-place/), [Economist2](https://www.economist.com/finance-and-economics/2019/05/09/so-far-donald-trumps-trade-war-has-not-derailed-the-global-economy), [Trade Talks Podcast](https://www.piie.com/experts/peterson-perspectives/trade-talks-episode-77-happy-tariffversary), [CEA](https://www.whitehouse.gov/wp-content/uploads/2020/02/2020-Economic-Report-of-the-President-WHCEA.pdf), [JEC](https://www.jec.senate.gov/public/_cache/files/0edc8a6c-d7b4-4e3d-a9ed-d854be73fcea/joint-response-to-the-economic-report-of-the-president.pdf)
 <br/>
 <br/>
 
@@ -62,19 +62,19 @@ tags: [jekyll]
 
 - 2017, <a href="{{site.baseurl}}/files/qje_OBTAP/OBTAP.pdf" style="color:#e25440;font-weight: bold;">Organizational Barriers to Technology Adoption: Evidence from Soccer-ball Producers in Pakistan</a>, ***Quarterly Journal of Economics***&nbsp;&nbsp;&nbsp;&#10098;[apx]({{site.baseurl}}/files/qje_OBTAP/OBTAP_appendix.pdf), [bib]({{site.baseurl}}/files/qje_OBTAP/OBTAP_bib.bib), [vox](https://voxdev.org/topic/technology-innovation/incentivising-technology-adoption-pakistani-firms)&#10099;
     * D. Atkin, A. Chaudhry, S. Chaudry, E. Verhoogen
-    * [Atlantic](https://www.theatlantic.com/business/archive/2014/07/one-city-in-pakistan-produces-nearly-half-of-the-worlds-soccer-balls/373802/), [WSJ](https://blogs.wsj.com/economics/2014/04/28/how-automation-fell-flat-in-the-worlds-soccer-ball-capital/)
+    - [Atlantic](https://www.theatlantic.com/business/archive/2014/07/one-city-in-pakistan-produces-nearly-half-of-the-worlds-soccer-balls/373802/), [WSJ](https://blogs.wsj.com/economics/2014/04/28/how-automation-fell-flat-in-the-worlds-soccer-ball-capital/)
 <br/>
 <br/>
 
 - 2017, <a href="{{site.baseurl}}/files/qje_EFP/EFP.pdf" style="color:#e25440;font-weight: bold;">Exporting and Firm Performance: Evidence from a Randomized Trial</a>, ***Quarterly Journal of Economics*** [Editor's Choice]&nbsp;&nbsp;&nbsp;&#10098;[apx]({{site.baseurl}}/files/qje_EFP/EFP_appendix.pdf), [ppt]({{site.baseurl}}/files/qje_EFP/EFP_slides.pdf), [rep](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/QOGMVI), [bib]({{site.baseurl}}/files/qje_EFP/EFP_bib.bib), [vox](https://voxeu.org/article/exports-and-firm-performance-randomised-trial-evidence)&#10099;
     * D. Atkin, A. Osman
-    * [CEA](https://obamawhitehouse.archives.gov/sites/default/files/docs/cea_trade_report_final_non-embargoed_v2.pdf), [Bloomberg](https://www.bloomberg.com/opinion/articles/2017-12-14/u-s-could-give-exporters-a-helping-hand), [Trade Talks Podcast](https://www.piie.com/experts/peterson-perspectives/trade-talks-episode-62-randomized-trade)
+    - [CEA](https://obamawhitehouse.archives.gov/sites/default/files/docs/cea_trade_report_final_non-embargoed_v2.pdf), [Bloomberg](https://www.bloomberg.com/opinion/articles/2017-12-14/u-s-could-give-exporters-a-helping-hand), [Trade Talks Podcast](https://www.piie.com/experts/peterson-perspectives/trade-talks-episode-62-randomized-trade)
 <br/>
 <br/>
 
 - 2016, <a href="{{site.baseurl}}/files/rs_DBUAI/DBUAI.pdf" style="color:#e25440;font-weight: bold;">Detecting the Boundaries of Urban Areas in India: A Dataset for Pixel-Based Image Classification in Google Earth Engine</a>, ***Remote Sensing***&nbsp;&nbsp;&nbsp;&#10098;[dat]({{site.baseurl}}/files/rs_DBUAI/IndiaFinal20k_IndiaFinal20k_5samples.kml), [bib]({{site.baseurl}}/files/rs_DBUAI/DBUAI_bib.bib)&#10099;
     * R. Goldblatt, W. You, H. Hanson
-    * [Citylab](https://www.citylab.com/life/2017/04/you-can-now-help-map-the-human-footprint-urbanization/522903/)
+    - [Citylab](https://www.citylab.com/life/2017/04/you-can-now-help-map-the-human-footprint-urbanization/522903/)
 <br/>
 <br/>
 
@@ -85,7 +85,7 @@ tags: [jekyll]
 
 - 2016, <a href="{{site.baseurl}}/files/qje_MUGFT/MUGFT.pdf" style="color:#e25440;font-weight: bold;">Measuring the Unequal Gains from Trade</a>, ***Quarterly Journal of Economics***&nbsp;&nbsp;&nbsp;&#10098;[ppt]({{site.baseurl}}/files/qje_MUGFT/MUGFT_slides.pdf), [bib]({{site.baseurl}}/files/qje_MUGFT/MUGFT_bib.bib), [vox](https://voxeu.org/article/pro-poor-bias-trade-new-research-expenditure-channel)&#10099; 
     * P. Fajgelbaum
-    * [Economist](https://www.economist.com/special-report/2016/09/29/coming-and-going/), [CEA](https://obamawhitehouse.archives.gov/sites/default/files/docs/cea_trade_report_final_non-embargoed_v2.pdf/), [NYTimes](https://www.nytimes.com/2015/05/18/business/a-decade-later-loss-of-maytag-factory-still-resonates.html?smprod=nytcore-ipad&smid=nytcore-ipad-share/), [IMF](https://www.imf.org/en/News/Articles/2016/09/13/sp09132016-Making-Globalization-Work-for-All/)
+    - [Economist](https://www.economist.com/special-report/2016/09/29/coming-and-going/), [CEA](https://obamawhitehouse.archives.gov/sites/default/files/docs/cea_trade_report_final_non-embargoed_v2.pdf/), [NYTimes](https://www.nytimes.com/2015/05/18/business/a-decade-later-loss-of-maytag-factory-still-resonates.html?smprod=nytcore-ipad&smid=nytcore-ipad-share/), [IMF](https://www.imf.org/en/News/Articles/2016/09/13/sp09132016-Making-Globalization-Work-for-All/)
 <br/>
 <br/>
 <!--<a href="https://www.forbes.com/sites/realspin/2017/07/17/why-trade-should-be-core-to-trumps-pro-growth-economic-policy/#4587b23a3d07/" style="color:black;">Forbes</a>, <a href="https://www.newsweek.com/trump-about-wage-dumb-trade-war-against-china-771775/" style="color:black;">Newsweek</a>, 
@@ -126,7 +126,7 @@ tags: [jekyll]
 
 - 2010, <a href="{{site.baseurl}}/files/qje_IIIDPG/IIDPG.pdf" style="color:#e25440;font-weight: bold;">Imported Intermediate Inputs and Domestic Product Growth: Evidence from India</a>, ***Quarterly Journal of Economics***&nbsp;&nbsp;&nbsp;&#10098;[bib]({{site.baseurl}}/files/qje_IIIDPG/IIDPG_bib.bib), [vox](https://voxeu.org/article/imported-inputs-and-domestic-product-growth-india)&#10099;
     * P. Goldberg, N. Pavcnik, P. Topalova
-    * [Economist](https://www.economist.com/finance-and-economics/2009/05/07/opening-the-floodgates/)
+    - [Economist](https://www.economist.com/finance-and-economics/2009/05/07/opening-the-floodgates/)
 <br/>
 <br/>
 
