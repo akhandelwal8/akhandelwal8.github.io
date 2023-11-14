@@ -5,7 +5,7 @@ tags: [jekyll]
 ---
 
 ### Working Papers
-- <a href="{{site.baseurl}}/files/wp_LBKT/LBKTdraft_91.pdf" style="color:#e25440;font-weight: bold;">Language Barriers in Multinationals and Knowledge Transfers</a>, *NBER 28807, r/r Review of Economics and Statistics *&nbsp;&nbsp;&nbsp;&#10098;[bib]({{site.baseurl}}/files/wp_LBKT/LBKT_bib.bib), [vox](https://voxeu.org/article/language-subsidies-improve-knowledge-transfers-multinationals?utm_source=hootsuite&utm_medium=&utm_term=&utm_content=&utm_campaign=), [voxdev](https://voxdev.org/topic/firms-trade/language-barriers-multinational-companies-evidence-myanmar)&#10099;
+- <a href="{{site.baseurl}}/files/wp_LBKT/LBKTdraft_91.pdf" style="color:#e25440;font-weight: bold;">Language Barriers in Multinationals and Knowledge Transfers</a>, *NBER 28807, ***r/r Review of Economics and Statistics***&nbsp;&nbsp;&nbsp;&#10098;[bib]({{site.baseurl}}/files/wp_LBKT/LBKT_bib.bib), [vox](https://voxeu.org/article/language-subsidies-improve-knowledge-transfers-multinationals?utm_source=hootsuite&utm_medium=&utm_term=&utm_content=&utm_campaign=), [voxdev](https://voxdev.org/topic/firms-trade/language-barriers-multinational-companies-evidence-myanmar)&#10099;
     * L. Guillouet, R. Macchiavello, M. Teachout
 <br/>
 <br/>
