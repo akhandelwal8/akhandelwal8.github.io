@@ -14,7 +14,7 @@ tags: [jekyll]
     * K. Baragwanath, G. Hanson, C. Liu, H. Park
 
 ### Publications
-- <a href="{{site.baseurl}}/files/aeri_TWGR/TWGR.pdf" style="color:#e25440;font-weight: bold;">The US-China Trade War and Global Reallocations</a>, ***American Economic Review: Insights***&nbsp;&nbsp;&nbsp;&#10098;[bib]({{site.baseurl}}/files/aeri_TWGR/TWGR_bib.bib), [replication](https://www.dropbox.com/scl/fi/lgey47dqk0rouv06e1990/TWGR_replication.zip?rlkey=a1g4wulrveq3m6n9pa0aqtmxj&dl=0), [tariffs-2018-2019](https://www.dropbox.com/scl/fi/d0ne2zu5wva0rz1x0du67/TWGR_monthlytariffs.zip?rlkey=rgbjw0mk9a783q9zumcu5d0r7&dl=0), [slides]({{site.baseurl}}/files/aeri_TWGR/TWGR_slides.pdf), [vox](https://cepr.org/voxeu/columns/bystander-effect-us-china-trade-war)&#10099;
+- <a href="{{site.baseurl}}/files/aeri_TWGR/TWGR.pdf" style="color:#e25440;font-weight: bold;">The US-China Trade War and Global Reallocations</a>, ***American Economic Review: Insights***&nbsp;&nbsp;&nbsp;&#10098;[bib]({{site.baseurl}}/files/aeri_TWGR/TWGR_bib.bib), [replication](https://www.dropbox.com/scl/fi/lgey47dqk0rouv06e1990/TWGR_replication.zip?rlkey=a1g4wulrveq3m6n9pa0aqtmxj&dl=0), [tariffs-2018-2019](https://www.dropbox.com/scl/fi/d0ne2zu5wva0rz1x0du67/TWGR_monthlytariffs.zip?rlkey=rgbjw0mk9a783q9zumcu5d0r7&dl=0), [note]({{site.baseurl}}/files/aeri_TWGR/TWGR_weights.pdf), [slides]({{site.baseurl}}/files/aeri_TWGR/TWGR_slides.pdf), [vox](https://cepr.org/voxeu/columns/bystander-effect-us-china-trade-war)&#10099;
     * P. Goldberg, P. Fajgelbaum, P. Kennedy, D. Taglioni
 <br/>
 <br/>
