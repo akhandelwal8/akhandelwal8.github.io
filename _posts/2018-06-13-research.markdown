@@ -19,7 +19,7 @@ tags: [jekyll]
 <br/>
 <br/>
 
-- 2023, <a href="{{site.baseurl}}/files/ipf_TWIE/ipf_TWIE.pdf" style="color:#e25440;font-weight: bold;">The US-China Trade War and India's Export Response</a>, ***India Policy Forum 2022***&nbsp;&nbsp;&nbsp;
+- 2023, <a href="{{site.baseurl}}/files/ipf_TWIE/ipf_TWIE.pdf" style="color:#e25440;font-weight: bold;">The US-China Trade War and India's Export Response</a>, ***India Policy Forum***&nbsp;&nbsp;&nbsp;
 <br/>
 <br/>
 
