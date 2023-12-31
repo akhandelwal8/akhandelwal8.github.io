@@ -109,6 +109,10 @@ tags: [jekyll]
 <br/>
 <br/>
 
+- 2015, <a href="{{site.baseurl}}/files/bpea_COMMENT/comment.pdf" style="color:#e25440;font-weight: bold;">Comment: “Grasp the Large, Let Go of the Small: The Transformation of the State Sector in China” by C. Hsieh & Z. Song</a>, ***Brookings Papers on Economic Activity***;
+<br/>
+<br/>
+
 - 2013, <a href="{{site.baseurl}}/files/aer_TLEIR/TLEIR.pdf" style="color:#e25440;font-weight: bold;">Trade Liberalization and Embedded Institutional Reform: Evidence from Chinese Exporters</a>, ***American Economic Review***&nbsp;&nbsp;&nbsp;&#10098;[appendix]({{site.baseurl}}/files/aer_TLEIR/TLEIR_appendix.pdf), [data](https://sompks4.github.io/sub_data.html), [slides]({{site.baseurl}}/files/aer_TLEIR/TLEIR_slides.pptx), [bib]({{site.baseurl}}/files/aer_TLEIR/TLEIR_bib.bib), [vox](https://voxeu.org/article/hidden-gains-trade-liberalisation)&#10099;
     * P. Schott, S.J. Wei
 <br/>
