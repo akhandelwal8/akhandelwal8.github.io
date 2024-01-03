@@ -10,7 +10,7 @@ tags: [jekyll]
     - [WTO Value Chain Report](https://www.wto.org/english/res_e/booksp_e/gvc_dev_rep23_e.pdf)
 <br/>
 <br/>
-- <a href="{{site.baseurl}}/files/wp_SDHI/SDHI.pdf" style="color:#e25440;font-weight: bold;">Using Satellite Imagery to Detect the Impacts of New Highways: An Application to India</a>&nbsp;&nbsp;&nbsp;&#10098;
+- <a href="{{site.baseurl}}/files/wp_SDHI/SDHI.pdf" style="color:#e25440;font-weight: bold;">Using Satellite Imagery to Detect the Impacts of New Highways: An Application to India</a>
 * K. Baragwanath, G. Hanson, C. Liu, H. Park
 
 ### Publications
