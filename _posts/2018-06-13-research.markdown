@@ -120,12 +120,12 @@ tags: [jekyll]
 <br/>
 
 - 2013, <a href="{{site.baseurl}}/files/restat_ICQU/ICQU.pdf" style="color:#e25440;font-weight: bold;">Import Competition and Quality Upgrading</a>, ***Review of Economics & Statistics***&nbsp;&nbsp;&nbsp;&#10098;[bib]({{site.baseurl}}/files/restat_ICQU/ICQU_bib.bib), [vox](https://voxdev.org/topic/firms-trade/import-competition-and-quality-domestic-goods)&#10099;
-    * M. Amiti
+    * [M. Amiti](https://www.newyorkfed.org/research/economists/amiti)
 <br/>
 <br/>
 
 - 2011, <a href="{{site.baseurl}}/files/restat_TLFPI/TLFPI.pdf" style="color:#e25440;font-weight: bold;">Trade Liberalization and Firm Productivity: The Case of India</a>, ***Review of Economics & Statistics***&nbsp;&nbsp;&nbsp;&#10098;[appendix]({{site.baseurl}}/files/restat_TLFPI/TLFPI_appendix.pdf), [bib]({{site.baseurl}}/files/restat_TLFPI/TLFPI_bib.bib)&#10099;
-    * P. Topalova
+    * [P. Topalova](https://www.imf.org/en/Research/Researcher-CV/Author/Topalova-Petia?AuthID=331#Background)
 <br/>
 <br/>
 
@@ -135,7 +135,7 @@ tags: [jekyll]
 <br/>
 
 - 2010, <a href="{{site.baseurl}}/files/qje_IIIDPG/IIDPG.pdf" style="color:#e25440;font-weight: bold;">Imported Intermediate Inputs and Domestic Product Growth: Evidence from India</a>, ***Quarterly Journal of Economics***&nbsp;&nbsp;&nbsp;&#10098;[bib]({{site.baseurl}}/files/qje_IIIDPG/IIDPG_bib.bib), [vox](https://voxeu.org/article/imported-inputs-and-domestic-product-growth-india)&#10099;
-    * [P. Goldberg](https://campuspress.yale.edu/pennygoldberg/), [N. Pavcnik](https://sites.dartmouth.edu/npavcnik/), P. Topalova
+    * [P. Goldberg](https://campuspress.yale.edu/pennygoldberg/), [N. Pavcnik](https://sites.dartmouth.edu/npavcnik/), [P. Topalova](https://www.imf.org/en/Research/Researcher-CV/Author/Topalova-Petia?AuthID=331#Background)
     - [Economist](https://www.economist.com/finance-and-economics/2009/05/07/opening-the-floodgates/)
 <br/>
 <br/>
@@ -145,12 +145,12 @@ tags: [jekyll]
 <br/>
 
 - 2010, <a href="{{site.baseurl}}/files/restat_MFPTDW/MFPTDW.pdf" style="color:#e25440;font-weight: bold;">Multi-product Firms and Product Turnover in the Developing World: Evidence from India</a>, ***Review of Economics & Statistics***&nbsp;&nbsp;&nbsp;&#10098;[appendix]({{site.baseurl}}/files/restat_MFPTDW/MFPTDW_appendix.pdf), [bib]({{site.baseurl}}/files/restat_MFPTDW/MFPTDW_bib.bib)&#10099;
-    * [P. Goldberg](https://campuspress.yale.edu/pennygoldberg/), [N. Pavcnik](https://sites.dartmouth.edu/npavcnik/), P. Topalova
+    * [P. Goldberg](https://campuspress.yale.edu/pennygoldberg/), [N. Pavcnik](https://sites.dartmouth.edu/npavcnik/), [P. Topalova](https://www.imf.org/en/Research/Researcher-CV/Author/Topalova-Petia?AuthID=331#Background)
 <br/>
 <br/>
 
 - 2009, <a href="{{site.baseurl}}/files/aerpp_TLNII/TLNII.pdf" style="color:#e25440;font-weight: bold;">Trade Liberalization and New Imported Inputs</a>, ***American Economic Review Papers & Proceedings***&nbsp;&nbsp;&nbsp;&#10098;[bib]({{site.baseurl}}/files/aerpp_TLNII/TLNII_bib.bib)&#10099; 
-    * [P. Goldberg](https://campuspress.yale.edu/pennygoldberg/), [N. Pavcnik](https://sites.dartmouth.edu/npavcnik/), P. Topalova
+    * [P. Goldberg](https://campuspress.yale.edu/pennygoldberg/), [N. Pavcnik](https://sites.dartmouth.edu/npavcnik/), [P. Topalova](https://www.imf.org/en/Research/Researcher-CV/Author/Topalova-Petia?AuthID=331#Background)
 <br/>
 <br/>
 
