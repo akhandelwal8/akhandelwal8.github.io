@@ -6,7 +6,7 @@ tags: [jekyll]
 
 ### Working Papers
 - <a href="{{site.baseurl}}/files/wp_LBKT/LBKTdraft_91.pdf" style="color:#e25440;font-weight: bold;">Language Barriers in Multinationals and Knowledge Transfers</a>, *NBER 28807, r/r Review of Economics and Statistics*&nbsp;&nbsp;&nbsp;&#10098;[bib]({{site.baseurl}}/files/wp_LBKT/LBKT_bib.bib), [vox](https://voxeu.org/article/language-subsidies-improve-knowledge-transfers-multinationals?utm_source=hootsuite&utm_medium=&utm_term=&utm_content=&utm_campaign=), [voxdev](https://voxdev.org/topic/firms-trade/language-barriers-multinational-companies-evidence-myanmar)&#10099;
-    * L. Guillouet, [R. Macchiavello](https://sites.google.com/site/roccomacchiavello/), M. Teachout
+    * [L. Guillouet](https://louiseguillouet.com), [R. Macchiavello](https://sites.google.com/site/roccomacchiavello/), [M. Teachout](https://sites.google.com/view/matthieuteachout/home)
     - [WTO Value Chain Report](https://www.wto.org/english/res_e/booksp_e/gvc_dev_rep23_e.pdf)
 <br/>
 <br/>
@@ -158,7 +158,7 @@ tags: [jekyll]
 ### Chapters & Policy Notes
 
 - 2016, <a href="{{site.baseurl}}/files/book_SEZ/book_SEZ.pdf" style="color:#e25440;font-weight: bold;">Special Economic Zones for Myanmar</a>, International Growth Centre
-    * M. Teachout
+    * [M. Teachout](https://sites.google.com/view/matthieuteachout/home)
 <br/>	
 <br/>
 
