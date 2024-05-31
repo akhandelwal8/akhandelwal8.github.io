@@ -48,7 +48,7 @@ tags: [jekyll]
 <br/>
 <br/>
 
-- 2021, <a href="{{site.baseurl}}/files/jue_DUM/DUM.pdf" style="color:#e25440;font-weight: bold;">Detecting Urban Markets with Satellite Imagery: An Application to India</a>, ***Journal of Urban Economics***&nbsp;&nbsp;&nbsp;&#10098;[appendix]({{site.baseurl}}/files/jue_DUM/DUM_appendix.pdf), [data]({{site.baseurl}}/files/jue_DUM/DUM_data.zip), [slides]({{site.baseurl}}/files/jue_DUM/DUM_slides.pptx), [bib]({{site.baseurl}}/files/jue_DUM/DUM_bib.bib), [vox](https://voxdev.org/topic/infrastructure-urbanisation/satellite-imagery-future-tracking-urban-markets)&#10099;
+- 2021, <a href="{{site.baseurl}}/files/jue_DUM/DUM.pdf" style="color:#e25440;font-weight: bold;">Detecting Urban Markets with Satellite Imagery: An Application to India</a>, ***Journal of Urban Economics***&nbsp;&nbsp;&nbsp;&#10098;[appendix]({{site.baseurl}}/files/jue_DUM/DUM_appendix.pdf), [data]({{site.baseurl}}/files/jue_DUM/DUM_data.zip), [rep](https://www.dropbox.com/scl/fo/25z37otazu2mces87mrg4/AGGgHAUMDGNf2qi-4Z0sWfc?rlkey=bsi9678bv2mvg9y6iwk2bmaq6&e=1&dl=0), [slides]({{site.baseurl}}/files/jue_DUM/DUM_slides.pptx), [bib]({{site.baseurl}}/files/jue_DUM/DUM_bib.bib), [vox](https://voxdev.org/topic/infrastructure-urbanisation/satellite-imagery-future-tracking-urban-markets)&#10099;
     * K. Baragwanath, R. Goldblatt, [G. Hanson](https://scholar.harvard.edu/gordonhanson)
 <br/>
 <br/>
