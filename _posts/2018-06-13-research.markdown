@@ -5,7 +5,7 @@ tags: [jekyll]
 ---
 
 ### Working Papers
-- <a href="{{site.baseurl}}/files/wp_DM/DM_post.pdf" style="color:#e25440;font-weight: bold;">The Value of De Minimis Imports</a>
+- <a href="{{site.baseurl}}/files/wp_DM/DM_post.pdf" style="color:#e25440;font-weight: bold;">The Value of De Minimis Imports</a>*&nbsp;&nbsp;&nbsp;&#10098;[summary]({{site.baseurl}}/files/wp_DM/DM_summary.pdf)
     * [P. Fajgelbaum](http://www.econ.ucla.edu/pfajgelbaum/)
 <br/>
 <br/>
