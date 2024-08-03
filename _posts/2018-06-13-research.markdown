@@ -183,11 +183,11 @@ tags: [jekyll]
 <br/>
 
 ### Cases
-- 2018, <a href="https://www8.gsb.columbia.edu/caseworks/node/681" style="color:#e25440;font-weight: bold;">Innovation in Pakistan's Soccer Ball Industry: Barriers to Adoption</a>, Columbia CaseWorks 180311
+- 2018, <a href="https://caseworks.business.columbia.edu/caseworks/innovation-pakistans-soccer-ball-industry-barriers-adoption" style="color:#e25440;font-weight: bold;">Innovation in Pakistan's Soccer Ball Industry: Barriers to Adoption</a>, Columbia CaseWorks 180311
     * R.A. Farrokhnia, [E. Verhoogen](https://www.columbia.edu/~ev2124/)
 <br/>
 <br/>
-- 2017, <a href="https://www8.gsb.columbia.edu/caseworks/node/644" style="color:#e25440;font-weight: bold;">Pace Ethiopia: Gaining a Foothold in the Global Footwear Industry</a>, Columbia CaseWorks 180301
+- 2017, <a href="https://caseworks.business.columbia.edu/caseworks/pace-ethiopia-gaining-foothold-global-footwear-industry" style="color:#e25440;font-weight: bold;">Pace Ethiopia: Gaining a Foothold in the Global Footwear Industry</a>, Columbia CaseWorks 180301
 <br/>
 <br/>
-- 2019, <a href="https://www8.gsb.columbia.edu/caseworks/node/270" style="color:#e25440;font-weight: bold;">Trade Liberalizations: Evidence from India</a>, Columbia CaseWorks 090315
+- 2019, <a href="https://caseworks.business.columbia.edu/caseworks/research-brief-trade-liberalizations-evidence-india" style="color:#e25440;font-weight: bold;">Trade Liberalizations: Evidence from India</a>, Columbia CaseWorks 090315
