@@ -24,7 +24,7 @@ tags: [jekyll]
 
 ### Publications
 - 2024, <a href="{{site.baseurl}}/files/aeri_TWGR/TWGR.pdf" style="color:#e25440;font-weight: bold;">The US-China Trade War and Global Reallocations</a>, ***American Economic Review: Insights***&nbsp;&nbsp;&nbsp;&#10098;[bib]({{site.baseurl}}/files/aeri_TWGR/TWGR_bib.bib), [replication](https://www.dropbox.com/scl/fi/lgey47dqk0rouv06e1990/TWGR_replication.zip?rlkey=a1g4wulrveq3m6n9pa0aqtmxj&dl=0), [tariffs-2018-2019](https://www.dropbox.com/scl/fi/d0ne2zu5wva0rz1x0du67/TWGR_monthlytariffs.zip?rlkey=rgbjw0mk9a783q9zumcu5d0r7&dl=0), [slides]({{site.baseurl}}/files/aeri_TWGR/TWGR_slides.pdf), [weights]({{site.baseurl}}/files/aeri_TWGR/TWGR_weights.pdf), [vox](https://cepr.org/voxeu/columns/bystander-effect-us-china-trade-war)&#10099;
-    * [P. Goldberg](https://campuspress.yale.edu/pennygoldberg/), [P. Fajgelbaum](http://www.econ.ucla.edu/pfajgelbaum/), [P. Kennedy](https://sites.google.com/view/patrick-kennedy/home), [D. Taglioni](https://sites.google.com/view/dariataglioni/)
+    * [P. Fajgelbaum](http://www.econ.ucla.edu/pfajgelbaum/), [P. Goldberg](https://campuspress.yale.edu/pennygoldberg/), [P. Kennedy](https://sites.google.com/view/patrick-kennedy/home), [D. Taglioni](https://sites.google.com/view/dariataglioni/)
 <br/>
 <br/>
 
@@ -54,7 +54,7 @@ tags: [jekyll]
 <br/>
 
 - 2020, <a href="{{site.baseurl}}/files/qje_RTP/RTP.pdf" style="color:#e25440;font-weight: bold;">The Return to Protectionism</a>, ***Quarterly Journal of Economics*** [Editor's Choice]&nbsp;&nbsp;&nbsp;&#10098;[+2019 waves]({{site.baseurl}}/files/qje_RTP/RTP_update.pdf), [appendix]({{site.baseurl}}/files/qje_RTP/RTP_appendix.pdf), [slides]({{site.baseurl}}/files/qje_RTP/RTP_slides.pdf), [tariffs-2018]({{site.baseurl}}/files/qje_RTP/RTP_data.zip), [replication](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/KSOVSE), [bib]({{site.baseurl}}/files/qje_RTP/RTP_bib.bib), [vox](https://voxeu.org/article/return-protectionism)&#10099; 
-    * [P. Goldberg](https://campuspress.yale.edu/pennygoldberg/), [P. Fajgelbaum](http://www.econ.ucla.edu/pfajgelbaum/), [P. Kennedy](https://sites.google.com/view/patrick-kennedy/home)
+    * [P. Fajgelbaum](http://www.econ.ucla.edu/pfajgelbaum/), [P. Goldberg](https://campuspress.yale.edu/pennygoldberg/), [P. Kennedy](https://sites.google.com/view/patrick-kennedy/home)
     - [FT Oped]({{site.baseurl}}/files/qje_RTP/ft_20220608.pdf), [Economist1](https://www.economist.com/finance-and-economics/2019/04/04/trade-talks-will-probably-end-with-tariffs-still-in-place/), [Economist2](https://www.economist.com/finance-and-economics/2019/05/09/so-far-donald-trumps-trade-war-has-not-derailed-the-global-economy), [Trade Talks Podcast](https://www.piie.com/experts/peterson-perspectives/trade-talks-episode-77-happy-tariffversary), [CEA](https://www.whitehouse.gov/wp-content/uploads/2020/02/2020-Economic-Report-of-the-President-WHCEA.pdf), [JEC](https://www.jec.senate.gov/public/_cache/files/0edc8a6c-d7b4-4e3d-a9ed-d854be73fcea/joint-response-to-the-economic-report-of-the-president.pdf)
 <br/>
 <br/>
@@ -183,11 +183,11 @@ tags: [jekyll]
 <br/>
 
 ### Cases
-- 2018, <a href="https://www8.gsb.columbia.edu/caseworks/node/681" style="color:#e25440;font-weight: bold;">Innovation in Pakistan's Soccer Ball Industry: Barriers to Adoption</a>, Columbia CaseWorks 180311
+- 2018, <a href="https://caseworks.business.columbia.edu/caseworks/innovation-pakistans-soccer-ball-industry-barriers-adoption" style="color:#e25440;font-weight: bold;">Innovation in Pakistan's Soccer Ball Industry: Barriers to Adoption</a>, Columbia CaseWorks 180311
     * R.A. Farrokhnia, [E. Verhoogen](https://www.columbia.edu/~ev2124/)
 <br/>
 <br/>
-- 2017, <a href="https://www8.gsb.columbia.edu/caseworks/node/644" style="color:#e25440;font-weight: bold;">Pace Ethiopia: Gaining a Foothold in the Global Footwear Industry</a>, Columbia CaseWorks 180301
+- 2017, <a href="https://caseworks.business.columbia.edu/caseworks/pace-ethiopia-gaining-foothold-global-footwear-industry" style="color:#e25440;font-weight: bold;">Pace Ethiopia: Gaining a Foothold in the Global Footwear Industry</a>, Columbia CaseWorks 180301
 <br/>
 <br/>
-- 2019, <a href="https://www8.gsb.columbia.edu/caseworks/node/270" style="color:#e25440;font-weight: bold;">Trade Liberalizations: Evidence from India</a>, Columbia CaseWorks 090315
+- 2019, <a href="https://caseworks.business.columbia.edu/caseworks/research-brief-trade-liberalizations-evidence-india" style="color:#e25440;font-weight: bold;">Trade Liberalizations: Evidence from India</a>, Columbia CaseWorks 090315
