@@ -10,14 +10,14 @@ tags: [jekyll]
 <br/>
 <br/>
 
-- <a href="{{site.baseurl}}/files/wp_SDHI/SDHI.pdf" style="color:#e25440;font-weight: bold;">Using Satellite Imagery to Detect the Impacts of New Highways: An Application to India</a>, *NBER 32047*&nbsp;&nbsp;&nbsp;&#10098;
+- <a href="{{site.baseurl}}/files/wp_SDHI/SDHI.pdf" style="color:#e25440;font-weight: bold;">Using Satellite Imagery to Detect the Impacts of New Highways: An Application to India</a>, *NBER 32047*&nbsp;&nbsp;&nbsp;
     * [K. Baragwanath](https://kathrynbaragwanath.com/), [G. Hanson](https://scholar.harvard.edu/gordonhanson), [C. Liu](https://sites.google.com/view/chen-liu/home), H. Park
 <br/>
 <br/>
 
 
 ### Publications
-- <a href="{{site.baseurl}}/files/wp_LBKT/LBKT.pdf" style="color:#e25440;font-weight: bold;">Language Barriers in Multinationals and Knowledge Transfers</a>, *accepted Review of Economics and Statistics*&nbsp;&nbsp;&nbsp;&#10098;[bib]({{site.baseurl}}/files/wp_LBKT/LBKT_bib.bib), [slides]({{site.baseurl}}/files/wp_LBKT/LBKTslides_49.pdf), [vox](https://voxeu.org/article/language-subsidies-improve-knowledge-transfers-multinationals?utm_source=hootsuite&utm_medium=&utm_term=&utm_content=&utm_campaign=), [voxdev](https://voxdev.org/topic/firms-trade/language-barriers-multinational-companies-evidence-myanmar)&#10099;
+- <a href="{{site.baseurl}}/files/wp_LBKT/LBKT.pdf" style="color:#e25440;font-weight: bold;">Language Barriers in Multinationals and Knowledge Transfers</a>, *Review of Economics and Statistics*&nbsp;&nbsp;&nbsp;&#10098;[bib]({{site.baseurl}}/files/wp_LBKT/LBKT_bib.bib), [slides]({{site.baseurl}}/files/wp_LBKT/LBKTslides_49.pdf), [vox](https://voxeu.org/article/language-subsidies-improve-knowledge-transfers-multinationals?utm_source=hootsuite&utm_medium=&utm_term=&utm_content=&utm_campaign=), [voxdev](https://voxdev.org/topic/firms-trade/language-barriers-multinational-companies-evidence-myanmar)&#10099;
     * [L. Guillouet](https://louiseguillouet.com), [R. Macchiavello](https://sites.google.com/site/roccomacchiavello/), [M. Malhotra](https://www.linkedin.com/in/madhav-malhotra-48216621b/), [M. Teachout](https://sites.google.com/view/matthieuteachout/home)
     - [WTO Value Chain Report](https://www.wto.org/english/res_e/booksp_e/gvc_dev_rep23_e.pdf)
 <br/>
