@@ -163,16 +163,7 @@ tags: [jekyll]
 ### Chapters & Policy Notes
 
 - 2025, <a href="https://voxdev.org/voxdevlit/international-trade" style="color:#e25440;font-weight: bold;">International Trade</a>, VoxDev
-    * [D. Atkin](https://www.mit.edu/~atkin/), [L. Boudreau](https://www0.gsb.columbia.edu/faculty/lboudreau/),  
-  [R. Dix-Carneiro](https://sites.duke.edu/rafael/),  
-  [I. Manelici](https://www.isabelamanelici.com/),  
-  [B. McCaig](https://brianmccaig.com/),  
-  [P. Medina](https://sites.google.com/site/pamelamariamedina/),  
-  [A. Morjaria](https://sites.google.com/site/ameetmorjaria/),  
-  [L. Pascali](https://www.luigipascali.com/),  
-  [H. Pellegrina](https://www.heitorpellegrina.com/),  
-  [B. Rijkers](https://www.bobrijkers.com/),  
-  [M. Startz](https://www.meredithstartz.com/)
+    * [D. Atkin](https://www.mit.edu/~atkin/), [L. Boudreau](https://laura-boudreau.com), [R. Dix-Carneiro](https://sites.google.com/site/rafaeldixcarneiro/), [I. Manelici](https://www.isabelamanelici.com/), [B. McCaig](https://sites.google.com/site/briandmccaig/), [P. Medina](https://sites.google.com/site/pamelamedinaq/), [A. Morjaria](https://sites.google.com/site/ameetmorjaria/), [L. Pascali](https://www.luigipascali.com), [H. Pellegrina](https://sites.google.com/site/heitorpellegrina/), [B. Rijkers](https://sites.google.com/site/decrgbobrijkers/home), [M. Startz](https://sites.google.com/site/meredithstartz/)
 <br/>
 <br/>  
 
