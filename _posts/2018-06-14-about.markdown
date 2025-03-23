@@ -3,10 +3,4 @@ title:  ""
 categories: [jekyll]
 tags: [jekyll]
 ---
-I am the Dong-Soo Hahn Professor of Global Affairs and Economics at Yale University. My appointment is in the Economics Department and the Jackson School. I study international trade and economic development. 
-
-Current Affiliations:
-- [JPAL](https://www.povertyactionlab.org/)
-- [NBER](https://nber.org/)
-- [BREAD](http://ibread.org/bread/)
-- [IGC](https://www.theigc.org/)
+I am the Dong-Soo Hahn Professor of Global Affairs and Economics at Yale University. My appointment is in the Economics Department and the Jackson School. I study international trade and economic development. I hold affiliations at [NBER](https://nber.org/), [JPAL](https://www.povertyactionlab.org/), [BREAD](http://ibread.org/bread/), and [IGC](https://www.theigc.org/)
