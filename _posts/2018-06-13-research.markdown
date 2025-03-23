@@ -10,7 +10,7 @@ tags: [jekyll]
 <br/>
 <br/>
 
-- <a href="{{site.baseurl}}/files/wp_SDHI/SDHI.pdf" style="color:#e25440;font-weight: bold;">Using Satellite Imagery to Detect the Impacts of New Highways: An Application to India</a>, *NBER 32047*&nbsp;&nbsp;&nbsp;
+- <a href="{{site.baseurl}}/files/wp_SDHI/SDHI.pdf" style="color:#e25440;font-weight: bold;">Using Satellite Imagery to Detect the Impacts of New Highways: An Application to India</a>, *r/r Journal of International Economics, NBER 32047*&nbsp;&nbsp;&nbsp;
     * [K. Baragwanath](https://kathrynbaragwanath.com/), [G. Hanson](https://scholar.harvard.edu/gordonhanson), [C. Liu](https://sites.google.com/view/chen-liu/home), H. Park
 <br/>
 <br/>
