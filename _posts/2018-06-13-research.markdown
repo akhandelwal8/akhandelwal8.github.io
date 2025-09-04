@@ -5,6 +5,10 @@ tags: [jekyll]
 ---
 
 ### Working Papers
+- <a href="{{site.baseurl}}/files/wp_DM/DM_post.pdf" style="color:#e25440;font-weight: bold;">Trade and Development in a Fracturing World</a> &nbsp;&nbsp;&nbsp;&#10098;[summary]({{site.baseurl}}/files/imf/imf_trade.pdf)&#10099;
+<br/>
+<br/>
+
 - <a href="{{site.baseurl}}/files/wp_DM/DM_post.pdf" style="color:#e25440;font-weight: bold;">The Value of De Minimis Imports</a>, *r/r Quarterly Journal of Economics*&nbsp;&nbsp;&nbsp;&#10098;[summary]({{site.baseurl}}/files/wp_DM/DM_summary.pdf)&#10099;
     * [P. Fajgelbaum](http://www.econ.ucla.edu/pfajgelbaum/)
 <br/>
