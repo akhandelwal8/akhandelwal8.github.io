@@ -87,3 +87,62 @@ summary:after {
 details[open] summary:after {
   content: "-";
 }
+
+/* --- New Cosmetic Improvements --- */
+
+/* 1. Improved Spacing for Lists */
+.content-wrapper__inner ul li {
+    margin-bottom: 1.8em; /* More breathing room between papers */
+    line-height: 1.6;     /* Better readability */
+}
+
+/* 2. "Pill" Buttons for specific download links */
+.content-wrapper__inner ul li a[href$=".bib"],
+.content-wrapper__inner ul li a[href*="slides"],
+.content-wrapper__inner ul li a[href*="appendix"],
+.content-wrapper__inner ul li a[href*="replication"],
+.content-wrapper__inner ul li a[href*="data"],
+.content-wrapper__inner ul li a[href*="vox"],
+.content-wrapper__inner ul li a[href*="summary"] {
+    display: inline-block;
+    padding: 1px 8px;
+    margin: 0 2px;
+    font-size: 0.85em;
+    color: #666;
+    background-color: #f8f9fa; /* Very light grey */
+    border: 1px solid #ddd;
+    border-radius: 12px; /* Rounded pill shape */
+    text-decoration: none;
+    transition: all 0.2s ease;
+}
+
+/* Hover effect for the pills */
+.content-wrapper__inner ul li a[href$=".bib"]:hover,
+.content-wrapper__inner ul li a[href*="slides"]:hover,
+.content-wrapper__inner ul li a[href*="appendix"]:hover,
+.content-wrapper__inner ul li a[href*="replication"]:hover,
+.content-wrapper__inner ul li a[href*="data"]:hover,
+.content-wrapper__inner ul li a[href*="vox"]:hover,
+.content-wrapper__inner ul li a[href*="summary"]:hover {
+    background-color: #e25440;
+    color: white;
+    border-color: #e25440;
+    text-decoration: none;
+}
+
+/* 3. Subtle link styling for other links (like author names) */
+.content-wrapper__inner a {
+    color: #555;
+    text-decoration: none;
+    border-bottom: 1px dotted #ccc;
+}
+
+.content-wrapper__inner a:hover {
+    color: #e25440;
+    border-bottom: 1px solid #e25440;
+}
+
+/* Override borders for the main titles (which have inline styles anyway) */
+.content-wrapper__inner a[style*="font-weight: bold"] {
+    border-bottom: none;
+}
