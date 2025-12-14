@@ -1,6 +1,4 @@
----
----
-@import "uno";
+--- --- @import "uno";
 @import "tables";
 @import "monokai";
 
@@ -46,7 +44,7 @@ pre.highlight code,
 }
 
 .footer__copyright {
-    margin: 0 20px 10px;
+  margin: 0 20px 10px;
 }
 
 .user-image {
@@ -55,13 +53,14 @@ pre.highlight code,
   width: 250px;
   height: 250px;
   border: 3px solid #fff;
-  border-radius:100%;
+  border-radius: 100%;
 }
 
 summary:hover {
-    cursor: pointer;
-    color: #0000EE;
+  cursor: pointer;
+  color: #0000EE;
 }
+
 details summary::-webkit-details-marker {
   background: red;
   color: #fff;
@@ -71,16 +70,17 @@ details summary::-webkit-details-marker {
 summary::-webkit-details-marker {
   display: none
 }
+
 summary:after {
-  border-radius: 5px; 
-  content: "+"; 
-  color: #000; 
-  float: left; 
-  font-size: 1.5em; 
-  font-weight: bold; 
-  margin: -5px 10px 0 0; 
-  padding: 0; 
-  text-align: center; 
+  border-radius: 5px;
+  content: "+";
+  color: #000;
+  float: left;
+  font-size: 1.5em;
+  font-weight: bold;
+  margin: -5px 10px 0 0;
+  padding: 0;
+  text-align: center;
   width: 20px;
 }
 
@@ -88,61 +88,25 @@ details[open] summary:after {
   content: "-";
 }
 
-/* --- New Cosmetic Improvements --- */
+/* --- Cosmetic Updates (User Feedback) --- */
 
 /* 1. Improved Spacing for Lists */
 .content-wrapper__inner ul li {
-    margin-bottom: 1.8em; /* More breathing room between papers */
-    line-height: 1.6;     /* Better readability */
+  margin-bottom: 1.8em;
+  line-height: 1.6;
 }
 
-/* 2. "Pill" Buttons for specific download links */
-.content-wrapper__inner ul li a[href$=".bib"],
-.content-wrapper__inner ul li a[href*="slides"],
-.content-wrapper__inner ul li a[href*="appendix"],
-.content-wrapper__inner ul li a[href*="replication"],
-.content-wrapper__inner ul li a[href*="data"],
-.content-wrapper__inner ul li a[href*="vox"],
-.content-wrapper__inner ul li a[href*="summary"] {
-    display: inline-block;
-    padding: 1px 8px;
-    margin: 0 2px;
-    font-size: 0.85em;
-    color: #666;
-    background-color: #f8f9fa; /* Very light grey */
-    border: 1px solid #ddd;
-    border-radius: 12px; /* Rounded pill shape */
-    text-decoration: none;
-    transition: all 0.2s ease;
-}
-
-/* Hover effect for the pills */
-.content-wrapper__inner ul li a[href$=".bib"]:hover,
-.content-wrapper__inner ul li a[href*="slides"]:hover,
-.content-wrapper__inner ul li a[href*="appendix"]:hover,
-.content-wrapper__inner ul li a[href*="replication"]:hover,
-.content-wrapper__inner ul li a[href*="data"]:hover,
-.content-wrapper__inner ul li a[href*="vox"]:hover,
-.content-wrapper__inner ul li a[href*="summary"]:hover {
-    background-color: #e25440;
-    color: white;
-    border-color: #e25440;
-    text-decoration: none;
-}
-
-/* 3. Subtle link styling for other links (like author names) */
+/* 2. Remove Underlines from all content links */
 .content-wrapper__inner a {
-    color: #555;
-    text-decoration: none;
-    border-bottom: 1px dotted #ccc;
+  text-decoration: none;
+  border-bottom: none;
 }
 
-.content-wrapper__inner a:hover {
-    color: #e25440;
-    border-bottom: 1px solid #e25440;
-}
-
-/* Override borders for the main titles (which have inline styles anyway) */
-.content-wrapper__inner a[style*="font-weight: bold"] {
-    border-bottom: none;
+/* 3. Style the Year (Assuming we wrap it in a span class='year' later, 
+   or if we just rely on markdown bolding, this wont trigger yet) */
+.year-label {
+  font-weight: bold;
+  font-size: 1.1em;
+  color: #333;
+  margin-right: 5px;
 }
