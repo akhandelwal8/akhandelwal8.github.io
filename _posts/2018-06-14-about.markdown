@@ -1,5 +1,6 @@
 ---
 title:  ""
+seo_title: "Amit Khandelwal | Economist - About"
 categories: [jekyll]
 tags: [jekyll]
 ---

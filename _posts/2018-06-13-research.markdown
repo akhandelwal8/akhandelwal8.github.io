@@ -1,5 +1,6 @@
 ---
 title:  ""
+seo_title: "Amit Khandelwal | International Trade & Development Economics Research"
 categories: [jekyll]
 tags: [jekyll]
 ---
