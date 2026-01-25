@@ -6,11 +6,15 @@
 <script type="text/javascript" src="{{ site.baseurl }}/js/main.js?{{site.time | date: '%s%N'}}"></script>
 <script>
 function toggleAbstract(el) {
-  var abstractDiv = el.parentElement.querySelector('.abstract-content');
-  if (abstractDiv.style.display === 'none' || abstractDiv.style.display === '') {
-    abstractDiv.style.display = 'block';
-  } else {
-    abstractDiv.style.display = 'none';
+  // Find the parent list item, then find the abstract-content div within it
+  var listItem = el.closest('li');
+  var abstractDiv = listItem.querySelector('.abstract-content');
+  if (abstractDiv) {
+    if (abstractDiv.style.display === 'none' || abstractDiv.style.display === '') {
+      abstractDiv.style.display = 'block';
+    } else {
+      abstractDiv.style.display = 'none';
+    }
   }
   return false;
 }
