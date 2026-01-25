@@ -64,35 +64,20 @@ pre.highlight code,
   color: #1a1a1a;
 }
 
-/* Collapsible abstract styling - inline version */
-details.inline-abstract {
-  display: inline;
-}
-
-details.inline-abstract summary {
-  cursor: pointer;
+/* Collapsible abstract styling */
+.abstract-toggle {
   color: #7c2d36;
-  font-size: inherit;
-  display: inline;
+  cursor: pointer;
   text-decoration: none;
 }
 
-details.inline-abstract summary:hover {
+.abstract-toggle:hover {
   color: #5a1f27;
   text-decoration: underline;
 }
 
-details.inline-abstract summary::-webkit-details-marker {
+.abstract-content {
   display: none;
-}
-
-details.inline-abstract summary::marker {
-  display: none;
-  content: "";
-}
-
-details.inline-abstract .abstract {
-  display: block;
   margin: 0.75em 0 0.5em 0;
   padding: 0.75em 1em;
   background: #f8f9fa;
