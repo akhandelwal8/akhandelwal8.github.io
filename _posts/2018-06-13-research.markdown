@@ -40,7 +40,6 @@ tags: [jekyll]
 <br/>
 <br/>
 
-
 - **2022**, <a href="{{site.baseurl}}/files/aeri_NN/NN.pdf" style="color:#b22222;font-weight: bold;">Using Neural Networks to Predict Micro-Spatial Economic Growth</a>, ***American Economic Review: Insights***&nbsp;&nbsp;&nbsp;&#10098;<a class="abstract-toggle" onclick="toggleAbstract(this); return false;" href="#">abstract</a>, [appendix]({{site.baseurl}}/files/aeri_TWGR/NN_appendix.bib), [git](https://github.com/thomas9t/spatial-econ-cnn), [replication](https://www.openicpsr.org/openicpsr/project/158002/version/V1/view), [bib]({{site.baseurl}}/files/aeri_TWGR/NN_bib.bib)&#10099;
     <div class="abstract-content">We apply deep learning to daytime satellite imagery to predict changes in income and population at high spatial resolution in US data. For grid cells with lateral dimensions of 1.2 km and 2.4 km (where the average US county has dimension of 51.9 km), our model predictions achieve R² values of 0.85 to 0.91 in levels, which far exceed the accuracy of existing models, and 0.32 to 0.46 in decadal changes, which have no counterpart in the literature and are 3–4 times larger than for commonly used nighttime lights. Our network has wide application for analyzing localized shocks.</div>
     * [A. Khachiyan](https://www.armankhachiyan.com/), A. Thomas, H. Zhou, [G. Hanson](https://scholar.harvard.edu/gordonhanson), A. Cloninger, T. Rosing
@@ -139,7 +138,6 @@ tags: [jekyll]
 <br/>
 <br/>
 
-
 - **2013**, <a href="{{site.baseurl}}/files/aer_TLEIR/TLEIR.pdf" style="color:#b22222;font-weight: bold;">Trade Liberalization and Embedded Institutional Reform: Evidence from Chinese Exporters</a>, ***American Economic Review***&nbsp;&nbsp;&nbsp;&#10098;<a class="abstract-toggle" onclick="toggleAbstract(this); return false;" href="#">abstract</a>, [appendix]({{site.baseurl}}/files/aer_TLEIR/TLEIR_appendix.pdf), [data](https://sompks4.github.io/sub_data.html), [slides]({{site.baseurl}}/files/aer_TLEIR/TLEIR_slides.pptx), [bib]({{site.baseurl}}/files/aer_TLEIR/TLEIR_bib.bib), [vox](https://voxeu.org/article/hidden-gains-trade-liberalisation)&#10099;
     <div class="abstract-content">If trade barriers are managed by inefficient institutions, trade liberalization can lead to greater-than-expected gains. We examine Chinese textile and clothing exports before and after the elimination of externally imposed export quotas. Both the surge in export volume and the decline in export prices following quota removal are driven by net entry. This outcome is inconsistent with a model in which quotas are allocated based on firm productivity, implying misallocation of resources. Removing this misallocation accounts for a substantial share of the overall gain in productivity associated with quota removal.</div>
     * [P. Schott](https://sompks4.github.io/), [S.J. Wei](https://users.nber.org/~wei/)
@@ -188,7 +186,6 @@ tags: [jekyll]
 <br/>
 <br/>
 
-
 ### Chapters & Policy Notes
 
 - 2025, <a href="https://voxdev.org/voxdevlit/international-trade" style="color:#b22222;font-weight: bold;">International Trade</a>, VoxDev
@@ -204,7 +201,6 @@ tags: [jekyll]
 - **2015**, <a href="{{site.baseurl}}/files/book_HS/CHS.pdf" style="color:#b22222;font-weight: bold;">Comment</a> on ["Grasp the Large, Let Go of the Small"](https://www.brookings.edu/wp-content/uploads/2016/07/2015a_hsieh.pdf) by Hseih and Song, ***Brookings Papers in Economic Activity***.
 <br/>
 <br/>
-
 
 - **2013**, <a href="{{site.baseurl}}/files/book_VIVO/VIVO.pdf" style="color:#b22222;font-weight: bold;">Variety In, Variety Out: Imported Inputs and Product Scope Expansion in India</a>, *Reforms and Economic Transformation in India*. 
     * [P. Goldberg](https://campuspress.yale.edu/pennygoldberg/), [N. Pavcnik](https://sites.dartmouth.edu/npavcnik/)
