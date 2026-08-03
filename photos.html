@@ -12,6 +12,21 @@ permalink: /photos/
   min-height: 40vh;
 }
 
+/* The theme caps the content column at 800px, so the grid would show the same
+   two photos across on a 1280px screen and a 1920px one. These rules are inline
+   on this page only, so they widen /photos without touching any other page. */
+@media all and (min-width: 1101px) {
+  .content-wrapper {
+    width: auto;
+    max-width: none;
+    margin-right: 5vw;
+  }
+
+  .content-wrapper__inner {
+    margin: 0 40px;
+  }
+}
+
 .gallery__row {
   display: flex;
   margin-bottom: 6px;
@@ -198,10 +213,13 @@ body.lightbox-open {
 
   var GAP = 6;
 
+  // Shorter target rows fit more photos across. Tuned so a phone keeps two per
+  // row while a wide desktop gets four or five, rather than growing each photo.
   function targetRowHeight(width) {
     if (width < 500) { return 190; }
-    if (width < 800) { return 230; }
-    return 280;
+    if (width < 900) { return 215; }
+    if (width < 1300) { return 235; }
+    return 250;
   }
 
   // Justified rows: fill each row with images at a common height, then scale the
