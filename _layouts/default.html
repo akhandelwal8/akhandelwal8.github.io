@@ -1,14 +1,17 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
   {% include head.html %}
 
-  <body>
+  <body{% if page.url == '/' %} class="home"{% elsif page.schema_type == 'ScholarlyArticle' %} class="paper-page"{% endif %}>
     {% include header.html %}
 
     <div class="content-wrapper">
-      <div class="content-wrapper__inner">
+      {% assign main_content = content | strip %}
+      {% unless main_content == '' %}
+      <main class="content-wrapper__inner" id="main-content">
         {{ content }}
-      </div>
+      </main>
+      {% endunless %}
 
       {% include footer.html %}
     </div>

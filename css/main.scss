@@ -1,4 +1,5 @@
 ---
+sitemap: false
 ---
 @import "uno";
 @import "tables";
@@ -65,6 +66,10 @@ pre.highlight code,
 }
 
 /* Collapsible abstract styling */
+#working-papers + ul > li + li {
+  margin-top: 1.5em;
+}
+
 .abstract-toggle {
   cursor: pointer;
   text-decoration: none;
@@ -83,4 +88,26 @@ pre.highlight code,
   font-size: 0.9em;
   line-height: 1.6;
   color: #444;
+}
+
+/* Keep the homepage portrait cover at full viewport height. */
+.home .panel-cover {
+  position: relative;
+  width: 100%;
+  max-width: none;
+  height: 100vh;
+  min-height: 640px;
+}
+.home .content-wrapper {
+  width: 100%;
+  max-width: 900px;
+  margin: 0 auto;
+}
+.paper-authors, .paper-publication { margin-bottom: 0.75em; }
+.paper-page .panel-title { font-size: 1.5em; }
+@media (max-width: 1100px) {
+  .home .panel-cover { min-height: 480px; }
+}
+@media (max-width: 960px) {
+  .home .content-wrapper { width: 80%; }
 }

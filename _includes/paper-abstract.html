@@ -1,0 +1,2 @@
+{%- assign selected_paper = site.papers | where: 'paper_id', include.id | first -%}
+{{- selected_paper.abstract | escape -}}

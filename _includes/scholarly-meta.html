@@ -1,0 +1,12 @@
+<meta name="citation_title" content="{{ page.title | escape }}">
+{% for author in page.authors %}
+<meta name="citation_author" content="{{ author | escape }}">
+{% endfor %}
+<meta name="citation_publication_date" content="{{ page.citation_year }}">
+<meta name="citation_pdf_url" content="{{ page.pdf | absolute_url | escape }}">
+{% if page.journal %}<meta name="citation_journal_title" content="{{ page.journal | escape }}">{% endif %}
+{% if page.volume %}<meta name="citation_volume" content="{{ page.volume | escape }}">{% endif %}
+{% if page.issue %}<meta name="citation_issue" content="{{ page.issue | escape }}">{% endif %}
+{% if page.first_page %}<meta name="citation_firstpage" content="{{ page.first_page | escape }}">{% endif %}
+{% if page.last_page %}<meta name="citation_lastpage" content="{{ page.last_page | escape }}">{% endif %}
+{% if page.doi %}<meta name="citation_doi" content="{{ page.doi | escape }}">{% endif %}

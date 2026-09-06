@@ -1,6 +1,7 @@
 # Site settings
 title: Amit Khandelwal
 description: 'Hahn Professor of Global Affairs and Economics, Yale University'
+seo_description: 'Amit Khandelwal is a Yale economist studying international trade, tariffs, trade wars, firm productivity, and economic development. Papers, data, and CV.'
 url: 'https://akhandelwal8.github.io'
 baseurl: ""
 google_analytics: 'G-8PDMHZH8DC'
@@ -8,7 +9,18 @@ google_analytics: 'G-8PDMHZH8DC'
 
 author:
   name: 'Amit Khandelwal'
+  alternate_name: 'Amit K. Khandelwal'
+  job_title: 'Dong-Soo Hahn Professor of Global Affairs and Economics'
   email: amit.khandelwal@yale.edu
+  same_as:
+    - 'https://economics.yale.edu/people/amit-khandelwal'
+    - 'https://jackson.yale.edu/directory/amit-khandelwal'
+    - 'https://www.nber.org/people/amit_khandelwal'
+    - 'https://scholar.google.com/citations?user=sYoVDTkAAAAJ'
+
+collections:
+  papers:
+    output: true
 
 defaults:
   -
@@ -17,6 +29,12 @@ defaults:
       type: 'posts'
     values:
       layout: 'post'
+  - scope:
+      path: ''
+      type: 'papers'
+    values:
+      layout: 'paper'
+      schema_type: 'ScholarlyArticle'
 
 # Build settings
 destination: _site
@@ -37,12 +55,6 @@ kramdown:
 
 timezone: EST5EDT
 
-gems:
-  - jekyll-sitemap
-
-whitelist:
-  - jekyll-sitemap
-
 plugins: ['jekyll-paginate']
-exclude: ['README.md', 'Gemfile', 'Gemfile.lock']
-
+# sitemap.xml is maintained here; avoid running a second sitemap generator.
+exclude: ['README.md', 'Gemfile', 'Gemfile.lock', 'scripts', 'docs', 'vendor']

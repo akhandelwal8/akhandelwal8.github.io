@@ -1,7 +1,12 @@
 ---
-title:  ""
-seo_title: "Amit Khandelwal | Economist - About"
-categories: [jekyll]
-tags: [jekyll]
+title: "About Amit Khandelwal"
+hide_title: true
+seo_title: "About Amit Khandelwal | Yale Economist"
+description: "Amit Khandelwal is the Dong-Soo Hahn Professor of Global Affairs and Economics at Yale University, researching international trade and economic development."
+schema_type: ProfilePage
 ---
-I am the Dong-Soo Hahn Professor of Global Affairs and Economics at Yale University. My appointment is in the Economics Department and the Jackson School. I hold affiliations at [NBER](https://nber.org/), [JPAL](https://www.povertyactionlab.org/), [BREAD](http://ibread.org/bread/), and [IGC](https://www.theigc.org/)
+I am Amit Khandelwal (Amit K. Khandelwal), the Dong-Soo Hahn Professor of Global Affairs and Economics at Yale University. My appointment is in the [Economics Department](https://economics.yale.edu/people/amit-khandelwal) and the [Jackson School of Global Affairs](https://jackson.yale.edu/directory/amit-khandelwal).
+
+My research examines the link between international trade and economic development, with a focus on firms. I study tariffs and trade wars, the distribution of gains from trade, and how access to international markets affects developing countries. I also use satellite imagery to measure economic activity.
+
+I hold affiliations at the [National Bureau of Economic Research (NBER)](https://www.nber.org/people/amit_khandelwal), [Abdul Latif Jameel Poverty Action Lab (J-PAL)](https://www.povertyactionlab.org/), [Bureau for Research and Economic Analysis of Development (BREAD)](http://ibread.org/bread/), and [International Growth Centre (IGC)](https://www.theigc.org/).

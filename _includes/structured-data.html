@@ -1,0 +1,59 @@
+{% assign person_id = '/#person' | absolute_url %}
+{% assign website_id = '/#website' | absolute_url %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Person",
+      "@id": {{ person_id | jsonify }},
+      "name": {{ site.author.name | jsonify }},
+      "alternateName": {{ site.author.alternate_name | jsonify }},
+      "url": {{ '/' | absolute_url | jsonify }},
+      "image": {{ '/images/profile.jpg' | absolute_url | jsonify }},
+      "jobTitle": {{ site.author.job_title | jsonify }},
+      "worksFor": {"@type": "CollegeOrUniversity", "name": "Yale University", "url": "https://www.yale.edu/"},
+      "sameAs": {{ site.author.same_as | jsonify }}
+    },
+    {
+      "@type": "WebSite",
+      "@id": {{ website_id | jsonify }},
+      "url": {{ '/' | absolute_url | jsonify }},
+      "name": {{ site.title | jsonify }},
+      "publisher": {"@id": {{ person_id | jsonify }}},
+      "inLanguage": "en"
+    },
+    {
+      "@type": {% if page.schema_type == 'ScholarlyArticle' %}"WebPage"{% else %}{{ page.schema_type | default: 'WebPage' | jsonify }}{% endif %},
+      "@id": {{ canonical_url | append: '#webpage' | jsonify }},
+      "url": {{ canonical_url | jsonify }},
+      "name": {{ seo_title | strip | jsonify }},
+      "description": {{ seo_description | jsonify }},
+      "isPartOf": {"@id": {{ website_id | jsonify }}},
+      "inLanguage": "en"{% if page.schema_type == 'ProfilePage' %},
+      "mainEntity": {"@id": {{ person_id | jsonify }}}{% elsif page.schema_type == 'ScholarlyArticle' %},
+      "mainEntity": {"@id": {{ canonical_url | append: '#paper' | jsonify }}}{% endif %}
+    }{% if page.schema_type == 'ScholarlyArticle' %},
+    {
+      "@type": "ScholarlyArticle",
+      "@id": {{ canonical_url | append: '#paper' | jsonify }},
+      "url": {{ canonical_url | jsonify }},
+      "name": {{ page.title | jsonify }},
+      "headline": {{ page.title | jsonify }},
+      "description": {{ page.description | jsonify }},
+      "abstract": {{ page.abstract | jsonify }},
+      "author": [
+        {% for author in page.authors %}
+        {"@type": "Person", "name": {{ author | jsonify }}{% if author contains 'Amit' and author contains 'Khandelwal' %}, "@id": {{ person_id | jsonify }}{% endif %}}{% unless forloop.last %},{% endunless %}
+        {% endfor %}
+      ],
+      "datePublished": {{ page.citation_year | append: '' | jsonify }},
+      "inLanguage": "en",
+      "mainEntityOfPage": {"@id": {{ canonical_url | append: '#webpage' | jsonify }}},
+      "encoding": {"@type": "MediaObject", "encodingFormat": "application/pdf", "contentUrl": {{ page.pdf | absolute_url | jsonify }}}{% if page.doi %},
+      "identifier": {{ page.doi | prepend: 'https://doi.org/' | jsonify }}{% endif %}{% if page.journal %},
+      "isPartOf": {"@type": "Periodical", "name": {{ page.journal | jsonify }}}{% endif %}
+    }{% endif %}
+  ]
+}
+</script>

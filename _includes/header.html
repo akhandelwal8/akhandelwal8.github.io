@@ -3,30 +3,35 @@
   <i class="icon icon-x-circle btn-mobile-close__icon hidden"></i>
 </span>
 
-<header class="panel-cover" style="background-image: url({{ site.baseurl }}/images/5.jpg)">
+<header class="panel-cover{% unless page.url == '/' %} panel-cover--collapsed{% endunless %}" style="background-image: url({{ site.baseurl }}/images/5.jpg)">
   <div class="panel-main">
 
     <div class="panel-main__inner panel-inverted">
     <div class="panel-main__content">
         <a href="{{ site.baseurl }}/" title="link to home of {{ site.title }}">
-          <img src="{{ site.baseurl }}/images/profile.jpg" class="user-image" alt="picture">
-          <h1 class="panel-cover__title panel-title">{{ site.title }}</h1>
+          <img src="{{ site.baseurl }}/images/profile.jpg" class="user-image" alt="Amit Khandelwal" width="250" height="250">
+          {% unless page.hide_profile_text %}
+          {% if page.url == '/' or page.hide_title %}<h1{% else %}<div{% endif %} class="panel-cover__title panel-title">{{ site.title }}{% if page.url == '/' or page.hide_title %}</h1>{% else %}</div>{% endif %}
+          {% endunless %}
         </a>
+        {% unless page.hide_profile_text %}
         <hr class="panel-cover__divider">
         <p class="panel-cover__description">{{ site.description }}</p>
         <hr class="panel-cover__divider panel-cover__divider--secondary">
+        {% endunless %}
 
         <div class="navigation-wrapper">
 
           <nav class="cover-navigation cover-navigation--primary">
             <ul class="navigation">
-              <li class="navigation__item"><a href="{{ site.baseurl }}/about" title="affiliations" class="blog-button">about</a></li>
+              <li class="navigation__item"><a href="{{ site.baseurl }}/about/" title="About Amit Khandelwal" class="blog-button">about</a></li>
             </ul>
             <ul class="navigation">
-              <li class="navigation__item"><a href="{{ site.baseurl }}/research" title="papers" class="blog-button">papers</a></li>
+              <li class="navigation__item"><a href="{{ site.baseurl }}/research/" title="Research papers" class="blog-button">papers</a></li>
             </ul>
              <ul class="navigation">
               <li class="navigation__item"><a href="{{ site.baseurl }}/files/CV/KhandelwalCV.pdf" title="cv" class="blog-button">cv</a></li>
+            </ul>
           </nav>
           
           <br/>

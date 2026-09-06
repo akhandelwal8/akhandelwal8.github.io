@@ -1,40 +1,38 @@
 <head>
   <meta name="google-site-verification" content="hxB9Z-tgGCEUPie823EalLe5XYzzMyV01r_2jkOz1vk" />
   <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width initial-scale=1" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   {% if page.robots %}
-  <meta name="robots" content="{{ page.robots }}">
+  <meta name="robots" content="{{ page.robots | escape }}">
+  {% else %}
+  <meta name="robots" content="index, follow, max-image-preview:large">
   {% endif %}
 
   {% if site.google_analytics and jekyll.environment == 'production' %}
   {% include analytics.html %}
   {% endif %}
 
-  <title>{% if page.seo_title %}{{ page.seo_title }}{% elsif page.title %}{{ page.title }} | {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
-  <meta name="description"
-    content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
-  <meta name="author" content="{{ site.author.name }}">
-  <meta name="HandheldFriendly" content="True">
-  <meta name="MobileOptimized" content="320">
-  <meta name="apple-mobile-web-app-capable" content="yes">
-  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-
+  {% capture seo_title %}{% if page.seo_title %}{{ page.seo_title }}{% elsif page.title and page.title != '' %}{{ page.title }} | {{ site.title }}{% else %}{{ site.title }}{% endif %}{% endcapture %}
+  {% assign seo_description = page.description | default: site.seo_description | default: site.description %}
+  {% assign canonical_url = page.url | replace: 'index.html', '' | absolute_url %}
+  {% if page.canonical %}{% assign canonical_url = page.canonical %}{% endif %}
+  <title>{{ seo_title | strip | escape }}</title>
+  <meta name="description" content="{{ seo_description | strip_html | normalize_whitespace | escape }}">
+  <meta name="author" content="{{ site.author.name | escape }}">
   <meta name="twitter:card" content="summary">
-  <meta name="twitter:title" content="{% if page.seo_title %}{{ page.seo_title }}{% elsif page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
-  <meta name="twitter:description"
-    content="{% if page.excerpt %}{{ page.excerpt | strip_html }}{% else %}{{ site.description }}{% endif %}">
-  {% if site.author.twitter_username %}
-  <meta name="twitter:creator" content="{{ site.author.twitter_username }}">
-  {% endif %}
-  <meta name="twitter:image" content="{{ site.baseurl }}/images/favicons/logo.PNG" />
-
-  <meta property="og:type" content="article">
-  <meta property="og:title" content="{% if page.seo_title %}{{ page.seo_title }}{% elsif page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
-  <meta property="og:description"
-    content="{% if page.excerpt %}{{ page.excerpt | strip_html }}{% else %}{{ site.description }}{% endif %}">
-  <meta property="og:image" content="{{ site.baseurl }}/images/favicons/logo.PNG" />
+  <meta name="twitter:title" content="{{ seo_title | strip | escape }}">
+  <meta name="twitter:description" content="{{ seo_description | strip_html | normalize_whitespace | escape }}">
+  <meta name="twitter:image" content="{{ '/images/favicons/logo.PNG' | absolute_url }}">
+  <meta property="og:type" content="{% if page.schema_type == 'ScholarlyArticle' %}article{% else %}website{% endif %}">
+  <meta property="og:title" content="{{ seo_title | strip | escape }}">
+  <meta property="og:description" content="{{ seo_description | strip_html | normalize_whitespace | escape }}">
+  <meta property="og:url" content="{{ canonical_url | escape }}">
+  <meta property="og:site_name" content="{{ site.title | escape }}">
+  <meta property="og:locale" content="en_US">
+  <meta property="og:image" content="{{ '/images/favicons/logo.PNG' | absolute_url }}">
+  {% if page.schema_type == 'ScholarlyArticle' %}{% include scholarly-meta.html %}{% endif %}
+  {% unless page.robots contains 'noindex' %}{% include structured-data.html %}{% endunless %}
 
   <link rel="apple-touch-icon" sizes="57x57" href="{{ site.baseurl }}/images/favicons/logo.PNG">
   <link rel="apple-touch-icon" sizes="60x60" href="{{ site.baseurl }}/images/favicons/logo.PNG">
@@ -50,14 +48,12 @@
   <link rel="icon" type="image/png" href="{{ site.baseurl }}/images/favicons/logo.PNG" sizes="96x96">
   <link rel="icon" type="image/png" href="{{ site.baseurl }}/images/favicons/logo.PNG" sizes="192x192">
   <link rel="icon" type="image/png" href="{{ site.baseurl }}/images/favicons/logo.PNG" sizes="16x16">
-  <link rel="manifest" href="{{ site.baseurl }}/images/favicons/manifest.json">
   <link rel="shortcut icon" href="{{ site.baseurl }}/images/favicons/favicon.ico">
   <meta name="msapplication-TileColor" content="#ffc40d">
-  <meta name="msapplication-TileImage" content="{{ site.baseurl }}/images/favicons/mstile-144x144.png">
   <meta name="theme-color" content="#ffffff">
 
   <link rel="stylesheet" href="{{ site.baseurl }}/css/main.css?{{site.time | date: '%s%N'}}">
-  <link rel="canonical"
-    href="{% if page.canonical %}{{ page.canonical }}{% else %}{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}{% endif %}">
+  <noscript><style>.abstract-content { display: block; }</style></noscript>
+  <link rel="canonical" href="{{ canonical_url | escape }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ site.baseurl }}/feed.xml">
 </head>
