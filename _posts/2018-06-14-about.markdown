@@ -5,7 +5,7 @@ seo_title: "About Amit Khandelwal | Yale Economist"
 description: "Amit Khandelwal is the Dong-Soo Hahn Professor of Global Affairs and Economics at Yale University, researching international trade and economic development."
 schema_type: ProfilePage
 ---
-I am Amit Khandelwal (Amit K. Khandelwal), the Dong-Soo Hahn Professor of Global Affairs and Economics at Yale University. My appointment is in the [Economics Department](https://economics.yale.edu/people/amit-khandelwal) and the [Jackson School of Global Affairs](https://jackson.yale.edu/directory/amit-khandelwal).
+I am the Dong-Soo Hahn Professor of Global Affairs and Economics at Yale University. My appointment is in the [Economics Department](https://economics.yale.edu/people/amit-khandelwal) and the [Jackson School of Global Affairs](https://jackson.yale.edu/directory/amit-khandelwal).
 
 My research examines the link between international trade and economic development, with a focus on firms. I study tariffs and trade wars, the distribution of gains from trade, and how access to international markets affects developing countries. I also use satellite imagery to measure economic activity.
 
