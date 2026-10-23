@@ -195,7 +195,7 @@ schema_type: CollectionPage
 <br/>
 <br/>
 
-- 2025,<a href="https://voxdev.org/voxdevlit/international-trade" style="color:#b22222;font-weight: bold;">International Trade</a>, VoxDev
+- **2025**,<a href="https://voxdev.org/voxdevlit/international-trade" style="color:#b22222;font-weight: bold;">International Trade</a>, VoxDev
     * [D. Atkin](https://www.mit.edu/~atkin/), [L. Boudreau](https://laura-boudreau.com), [R. Dix-Carneiro](https://sites.google.com/site/rafaeldixcarneiro/), [I. Manelici](https://www.isabelamanelici.com/), [B. McCaig](https://sites.google.com/site/briandmccaig/), [P. Medina](https://sites.google.com/site/pamelamedinaq/), [A. Morjaria](https://sites.google.com/site/ameetmorjaria/), [L. Pascali](https://www.luigipascali.com), [H. Pellegrina](https://sites.google.com/site/heitorpellegrina/), [B. Rijkers](https://sites.google.com/site/decrgbobrijkers/home), [M. Startz](https://sites.google.com/site/meredithstartz/)
 <br/>
 <br/>  
