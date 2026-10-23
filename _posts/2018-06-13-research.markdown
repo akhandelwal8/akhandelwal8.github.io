@@ -189,9 +189,13 @@ schema_type: CollectionPage
 <br/>
 <br/>
 
-## Chapters & Policy Notes
+## Lectures, Chapters, Policy Notes
 
-- 2025, <a href="https://voxdev.org/voxdevlit/international-trade" style="color:#b22222;font-weight: bold;">International Trade</a>, VoxDev
+- **2026**, <a href="{{site.baseurl}}/files/khemka/khemka_lecture.pdf" style="color:#b22222;font-weight: bold;">India at the Crossroads of Global Trade</a>, 2026 Khemka Distinguished Lecture&nbsp;&nbsp;&nbsp;&#10098;[video](https://www.youtube.com/watch?v=_JmM86o8VpA)&#10099;
+<br/>
+<br/>
+
+- 2025,<a href="https://voxdev.org/voxdevlit/international-trade" style="color:#b22222;font-weight: bold;">International Trade</a>, VoxDev
     * [D. Atkin](https://www.mit.edu/~atkin/), [L. Boudreau](https://laura-boudreau.com), [R. Dix-Carneiro](https://sites.google.com/site/rafaeldixcarneiro/), [I. Manelici](https://www.isabelamanelici.com/), [B. McCaig](https://sites.google.com/site/briandmccaig/), [P. Medina](https://sites.google.com/site/pamelamedinaq/), [A. Morjaria](https://sites.google.com/site/ameetmorjaria/), [L. Pascali](https://www.luigipascali.com), [H. Pellegrina](https://sites.google.com/site/heitorpellegrina/), [B. Rijkers](https://sites.google.com/site/decrgbobrijkers/home), [M. Startz](https://sites.google.com/site/meredithstartz/)
 <br/>
 <br/>  
